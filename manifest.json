@@ -1,11 +1,11 @@
 {
-    "name": "Jita — Judo Club",
+    "name": "Jita · Judo Club",
     "short_name": "Jita",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Jita — Judo Club: app for judo coaches, clubs and federations.",
+    "description": "Jita · Judo Club: app for judo coaches, clubs and federations.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
