@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="he">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Jita</title>
+<script>
+  // Invitation link: …/join/?t=TOKEN → the web app at #/join/TOKEN.
+  // (On Android with Jita installed the app opens the link itself.)
+  (function () {
+    var t = new URLSearchParams(location.search).get('t') || '';
+    if (!/^[A-Za-z0-9_-]{20,}$/.test(t)) t = '';
+    location.replace('../#/join/' + t);
+  })();
+</script>
+</head>
+<body style="font-family:sans-serif;text-align:center;padding:40px">
+<p>Jita…</p>
+</body>
+</html>
