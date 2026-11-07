@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jita</title>
+<!-- The public club page behind the flyer's QR code: jitajudo.com/c/<club>.
+     It asks the server for the club's APPROVED page (groups and training
+     days, branches, director and Olympians, coaches, sign-up). The server
+     counts the open (club and time only, no person, no address). No
+     children's data. Server address and public key: config.js, written at
+     deploy time (not in git). -->
+<script src="/c/config.js"></script>
+<style>
+  :root { --c: #B35C12; }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: system-ui, -apple-system, "Segoe UI", Arial, sans-serif; background: #f7f4ef; color: #1a1a1a; line-height: 1.4; }
+  header { background: var(--c); color: #fff; padding: 28px 18px 24px; }
+  header .in { max-width: 640px; margin: auto; display: flex; gap: 14px; align-items: center; }
+  header img { width: 64px; height: 64px; border-radius: 50%; background: #fff; object-fit: contain; }
+  header h1 { margin: 0; font-size: 26px; }
+  header p { margin: 4px 0 0; opacity: .92; }
+  main { padding: 8px 16px 40px; max-width: 640px; margin: auto; }
+  h2 { font-size: 19px; margin: 26px 0 10px; }
+  .card { background: #fff; border-radius: 14px; padding: 14px 16px; margin: 10px 0; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+  .g { font-weight: 700; font-size: 17px; }
+  .when { margin-top: 4px; }
+  .muted { color: #666; font-size: 14px; }
+  .trial { display: inline-block; background: #ffd54f; border-radius: 40px; padding: 8px 16px; font-weight: 700; margin: 14px 0 0; }
+  a.btn { display: block; text-align: center; color: #fff; text-decoration: none; border-radius: 14px; padding: 15px; font-size: 18px; font-weight: 700; margin-top: 12px; background: var(--c); }
+  a.btn.dark { background: #1a1a1a; }
+  a.map { color: var(--c); font-weight: 600; text-decoration: none; }
+  ul { margin: 6px 0 0; padding-inline-start: 20px; }
+  footer { text-align: center; color: #888; font-size: 13px; padding: 20px; }
+</style>
+</head>
+<body>
+<header><div class="in"><img id="logo" alt="" hidden><div><h1 id="club">Jita</h1><p id="headline"></p></div></div></header>
+<main id="main">
+  <p id="msg" class="muted"></p>
+</main>
+<footer id="foot"></footer>
+<script>
+(function () {
+  var lang = (navigator.language || 'he').slice(0, 2);
+  lang = ['he', 'ru', 'en'].indexOf(lang) >= 0 ? lang : 'he';
+  var T = {
+    he: { groups: 'קבוצות ושעות אימון', branches: 'סניפים', map: 'במפה', director: 'מנהל המועדון', olympians: 'ספורטאים אולימפיים של המועדון', coaches: 'המאמנים', coach: 'מאמן', signup: 'להרשמה לאימון ניסיון', call: 'להתקשר', off: 'העמוד לא פעיל כרגע.', load: 'טוען…', made: 'עמוד המועדון באפליקציית Jita. הנתונים מתעדכנים מהמועדון.', days: ['', 'שני', 'שלישי', 'רביעי', 'חמישי', 'שישי', 'שבת', 'ראשון'] },
+    ru: { groups: 'Группы и время тренировок', branches: 'Филиалы', map: 'на карте', director: 'Директор клуба', olympians: 'Олимпийцы клуба', coaches: 'Тренеры', coach: 'Тренер', signup: 'Записаться на пробную тренировку', call: 'Позвонить', off: 'Страница сейчас не активна.', load: 'Загрузка…', made: 'Страница клуба в приложении Jita. Данные обновляет клуб.', days: ['', 'Пн', 'Вт', 'Ср', 'Чт', 'Пт', 'Сб', 'Вс'] },
+    en: { groups: 'Groups and training times', branches: 'Branches', map: 'on the map', director: 'Club director', olympians: 'The club’s Olympians', coaches: 'Coaches', coach: 'Coach', signup: 'Sign up for a trial training', call: 'Call', off: 'This page is not active right now.', load: 'Loading…', made: 'The club’s page in the Jita app. The club keeps the data up to date.', days: ['', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'] }
+  }[lang];
+  document.documentElement.lang = lang;
+  document.documentElement.dir = lang === 'he' ? 'rtl' : 'ltr';
+  var $ = function (id) { return document.getElementById(id); };
+  var el = function (tag, cls, text) { var e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
+  var L = function (o, k) { if (!o) return ''; if (typeof o === 'string') return o; return o[k || lang] || o.he || ''; };
+  $('foot').textContent = T.made;
+  // /c/<slug>/ (via 404.html) or /c/?s=<slug>
+  var slug = (new URLSearchParams(location.search).get('s') || (location.pathname.match(/^\/c\/([a-z0-9-]{3,40})\/?$/) || [])[1] || '').toLowerCase();
+  if (!/^[a-z0-9-]{3,40}$/.test(slug) || !window.JITA) { $('msg').textContent = T.off; return; }
+  $('msg').textContent = T.load;
+  var hm = function (m) { return Math.floor(m / 60) + ':' + ('0' + m % 60).slice(-2); };
+  fetch(JITA.url + '/rest/v1/rpc/club_page', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', apikey: JITA.key, Authorization: 'Bearer ' + JITA.key },
+    body: JSON.stringify({ p_slug: slug })
+  }).then(function (r) { return r.json(); }).then(function (p) {
+    if (!p || !p.club_he) { $('msg').textContent = T.off; return; }
+    var main = $('main'); main.innerHTML = '';
+    if (/^#[0-9A-Fa-f]{6}$/.test(p.color || '')) document.documentElement.style.setProperty('--c', p.color);
+    var name = p['club_' + lang] || p.club_he;
+    document.title = name;
+    $('club').textContent = name;
+    $('headline').textContent = p.headline || '';
+    if (p.logo && /^https:\/\//.test(p.logo)) { $('logo').src = p.logo; $('logo').hidden = false; }
+    if (p.body) main.appendChild(el('p', '', p.body));
+    if (p.trial) main.appendChild(el('div', 'trial', p.trial));
+    var cta = function () {
+      if (p.signup_url && /^https:\/\//.test(p.signup_url)) { var a = el('a', 'btn', T.signup); a.href = p.signup_url; main.appendChild(a); }
+      if (p.phone) { var b = el('a', 'btn dark', T.call + ' ' + p.phone); b.href = 'tel:' + p.phone.replace(/[^0-9+]/g, ''); b.dir = 'ltr'; main.appendChild(b); }
+    };
+    cta();
+    if ((p.groups || []).length) {
+      main.appendChild(el('h2', '', T.groups));
+      p.groups.forEach(function (g) {
+        var c = el('div', 'card');
+        c.appendChild(el('div', 'g', L(g)));
+        if ((p.branches || []).length > 1) c.appendChild(el('div', 'muted', g.branch));
+        (g.slots || []).forEach(function (s) {
+          var w = el('div', 'when', T.days[s.d] + ' '); var t = el('bdi', '', hm(s.s) + '–' + hm(s.s + s.m)); t.dir = 'ltr'; w.appendChild(t); c.appendChild(w);
+        });
+        main.appendChild(c);
+      });
+    }
+    if ((p.branches || []).length) {
+      main.appendChild(el('h2', '', T.branches));
+      p.branches.forEach(function (b) {
+        var c = el('div', 'card');
+        c.appendChild(el('div', 'g', L(b)));
+        var where = [b.address, L({ he: b.city_he, ru: b.city_ru, en: b.city_en })].filter(Boolean).join(', ');
+        c.appendChild(el('div', '', where));
+        var m = el('a', 'map', T.map);
+        m.href = 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent([b.address || b.he, b.city_he].join(' '));
+        m.target = '_blank'; m.rel = 'noopener';
+        c.appendChild(m);
+        main.appendChild(c);
+      });
+    }
+    if (p.director && p.director.name) {
+      main.appendChild(el('h2', '', T.director));
+      var d = el('div', 'card');
+      d.appendChild(el('div', 'g', p.director.name));
+      if (p.director.line) d.appendChild(el('div', '', p.director.line));
+      main.appendChild(d);
+    }
+    if ((p.olympians || []).length) {
+      main.appendChild(el('h2', '', T.olympians));
+      var o = el('div', 'card'); var ul = el('ul');
+      p.olympians.forEach(function (x) { var li = el('li'); li.appendChild(el('b', '', L(x.name))); if (L(x.line)) li.appendChild(document.createTextNode(': ' + L(x.line))); ul.appendChild(li); });
+      o.appendChild(ul); main.appendChild(o);
+    }
+    if ((p.coaches || []).length) {
+      main.appendChild(el('h2', '', T.coaches));
+      var k = el('div', 'card'); var ul2 = el('ul');
+      p.coaches.forEach(function (x) { ul2.appendChild(el('li', '', x.role ? x.name + ', ' + x.role : x.name)); });
+      k.appendChild(ul2); main.appendChild(k);
+    }
+    cta();
+  }).catch(function () { $('msg').textContent = T.off; });
+})();
+</script>
+</body>
+</html>

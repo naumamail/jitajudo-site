@@ -1,0 +1,1 @@
+window.JITA={url:'https://xcbntgwujoqiefmjrpdm.supabase.co',key:'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhjYm50Z3d1am9xaWVmbWpycGRtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTM3MTU0MTMsImV4cCI6MjEwOTI5MTQxM30.42MTnP3it60CXplJ_u0KFSYgM_YJo8Jx6uT96tOg9cg'};
