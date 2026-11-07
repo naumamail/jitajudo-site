@@ -1,0 +1,101 @@
+{
+ "kind": "camp",
+ "level": "national",
+ "title": "פסטיבל הג'ודו באילת 2027",
+ "organizer": "",
+ "start_date": "2027-02-10",
+ "end_date": "2027-02-13",
+ "place": "קניון ICE MALL, אילת",
+ "address": "",
+ "map_url": "",
+ "description": "דמי השתתפות כוללים לינה וארוחות.",
+ "bring": "",
+ "birth_years": [
+  2010,
+  2011,
+  2016,
+  2015,
+  2014,
+  2013
+ ],
+ "genders": [],
+ "season_categories": [
+  "a1",
+  "a2",
+  "b2",
+  "b1",
+  "adults"
+ ],
+ "restrictions": "",
+ "registration_url": "",
+ "registration_deadline": "2027-01-15",
+ "payments": [
+  {
+   "birth_years": [],
+   "born_up_to": null,
+   "amount": 350,
+   "url": "",
+   "deadline": "",
+   "note": "לספורטאי, כולל לינה וארוחות"
+  }
+ ],
+ "requires_federation": false,
+ "requires_medical": false,
+ "forms": [],
+ "streams": [
+  {
+   "title": "אליפות ישראל לקבוצות – מוקדמות + ארד + זהב",
+   "birth_years": [
+    2010,
+    2011
+   ],
+   "born_up_to": null,
+   "categories": [],
+   "day": "",
+   "weigh_in_from": "",
+   "weigh_in_to": "",
+   "starts_at": "",
+   "ends_at": "",
+   "competition": "אליפות ישראל לקבוצות"
+  },
+  {
+   "title": "טורניר גביע האיגוד",
+   "birth_years": [
+    2016,
+    2015,
+    2014,
+    2013
+   ],
+   "born_up_to": null,
+   "categories": [
+    "a1",
+    "a2",
+    "b2",
+    "b1"
+   ],
+   "day": "",
+   "weigh_in_from": "",
+   "weigh_in_to": "",
+   "starts_at": "",
+   "ends_at": "",
+   "competition": "טורניר גביע האיגוד"
+  },
+  {
+   "title": "נבחרת ישראל מארחת",
+   "birth_years": [],
+   "born_up_to": 2006,
+   "categories": [
+    "adults"
+   ],
+   "day": "",
+   "weigh_in_from": "",
+   "weigh_in_to": "",
+   "starts_at": "",
+   "ends_at": "",
+   "competition": "נבחרת ישראל מארחת"
+  }
+ ],
+ "options": [],
+ "needs_review": [],
+ "program": []
+}
