@@ -1,0 +1,22 @@
+{
+    "applinks":  {
+                     "details":  [
+                                     {
+                                         "appIDs":  [
+                                                        "K3GQ93623F.com.jitajudo.app"
+                                                    ],
+                                         "components":  [
+                                                            {
+                                                                "/":  "/join"
+                                                            },
+                                                            {
+                                                                "/":  "/join/*"
+                                                            },
+                                                            {
+                                                                "/":  "/m/*"
+                                                            }
+                                                        ]
+                                     }
+                                 ]
+                 }
+}
