@@ -1,0 +1,113 @@
+{
+ "kind": "competition",
+ "level": "regional",
+ "title": "אליפות מודיעין הפתוחה בג'ודו ע\"ש דניאל לזר",
+ "organizer": "איגוד הג'ודו ועיריית מודיעין",
+ "contact": "דורון 050-6205682",
+ "start_date": "2026-12-06",
+ "end_date": "2026-12-06",
+ "place": "אולם השבטים",
+ "address": "מול יצחק רבין 23, מודיעין (ב-WAZE: אולם ספורט השבטים)",
+ "map_url": "",
+ "description": "התחרות רשמית ומוכרת ע\"י איגוד הג'ודו בישראל. מודגש כי ההשתתפות בתחרות היא רק לספורטאים וספורטאיות הרשומים באיגוד הג'ודו ובעלי בדיקות רפואיות ליום התחרות. למען הסר ספק: ביטוח ובדיקות רפואיות לספורטאים המשתתפים בתחרות הינם באחריות האגודה. תוענק מדליה לכל משתתף ומשתתפת.",
+ "bring": "",
+ "birth_years": [
+  2015,
+  2016,
+  2017,
+  2014
+ ],
+ "genders": [
+  "male",
+  "female"
+ ],
+ "season_categories": [
+  "a2",
+  "a1",
+  "pre_a",
+  "b2"
+ ],
+ "restrictions": "",
+ "registration_url": "",
+ "registration_deadline": "",
+ "payments": [
+  {
+   "birth_years": [],
+   "born_up_to": 0,
+   "amount": 100,
+   "url": "",
+   "deadline": "",
+   "note": "הגבייה תתבצע במרוכז ע\"י המאמנים"
+  }
+ ],
+ "tentative": false,
+ "audience_groups": [],
+ "requires_federation": true,
+ "requires_medical": true,
+ "forms": [],
+ "streams": [
+  {
+   "title": "מחזור ראשון | בנים",
+   "birth_years": [
+    2015,
+    2016,
+    2017
+   ],
+   "born_up_to": 0,
+   "categories": [
+    "a2",
+    "a1",
+    "pre_a"
+   ],
+   "day": "2026-12-06",
+   "weigh_in_from": "08:30",
+   "weigh_in_to": "09:15",
+   "starts_at": "10:00",
+   "ends_at": "13:30",
+   "competition": ""
+  },
+  {
+   "title": "מחזור שני | בנות",
+   "birth_years": [],
+   "born_up_to": 2017,
+   "categories": [],
+   "day": "2026-12-06",
+   "weigh_in_from": "13:45",
+   "weigh_in_to": "14:30",
+   "starts_at": "15:00",
+   "ends_at": "18:00",
+   "competition": ""
+  },
+  {
+   "title": "מחזור שני | בנים",
+   "birth_years": [],
+   "born_up_to": 2014,
+   "categories": [],
+   "day": "2026-12-06",
+   "weigh_in_from": "13:45",
+   "weigh_in_to": "14:30",
+   "starts_at": "15:00",
+   "ends_at": "18:00",
+   "competition": ""
+  }
+ ],
+ "options": [],
+ "needs_review": [
+  "streams: שנתון 2017 ומעלה לבנות ו-2014 ומעלה לבנים, הטקסט אינו מבהיר אם הכוונה לשנת לידה זו ומטה"
+ ],
+ "program": [
+  {
+   "day": "2026-12-06",
+   "items": [
+    {
+     "time": "09:30–10:00",
+     "text": "טקס לזכרו של דניאל"
+    },
+    {
+     "time": "14:30–15:00",
+     "text": "טקס לזכרו של דניאל"
+    }
+   ]
+  }
+ ]
+}
