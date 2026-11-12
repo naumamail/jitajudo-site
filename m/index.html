@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="he">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Jita</title>
+<script>
+  // Link from a WhatsApp notice: …/m/?id=MESSAGE or …/m/?a=ANNOUNCEMENT →
+  // the web app; the message opens right after signing in.
+  // (On Android with Jita installed the app opens the link itself.)
+  (function () {
+    var q = new URLSearchParams(location.search);
+    var ok = /^[A-Za-z0-9_-]{1,64}$/;
+    var id = q.get('id') || '', a = q.get('a') || '';
+    var to = ok.test(id) ? 'f/home/msg/m/' + id : ok.test(a) ? 'f/home/msg/a/' + a : '';
+    location.replace('../#/' + to);
+  })();
+</script>
+</head>
+<body style="font-family:sans-serif;text-align:center;padding:40px">
+<p>Jita…</p>
+</body>
+</html>
