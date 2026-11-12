@@ -1,0 +1,287 @@
+{
+  "checkedAt": "2026-11-03",
+  "note": "Facts only (name, dates, place, level, age group) from open calendars, each with a source link. Venues/dates may change, so always check the official page. No data is imported from IJF/JudoBase.",
+  "sources": {
+    "eju2026": "https://eju.net/calendar",
+    "eju2027": "https://eju.net/storage/documents/items/Ct1adTEsj06RnU8u08tj371pSZeXK2zsoL1PWIXE.pdf"
+  },
+  "competitions": [
+    {
+      "id": "eju-cec-gyor-2026",
+      "name": "Győr \"Millennium Team\" Cadet European Cup 2026",
+      "start": "2026-11-07",
+      "end": "2026-11-08",
+      "city": "Győr",
+      "country": "HUN",
+      "level": "international",
+      "ageGroups": [
+        "cadets"
+      ],
+      "officialUrl": "https://eju.net/calendar/6806",
+      "sourceUrl": "https://eju.net/calendar",
+      "name_ru": "Кубок Европы среди кадетов, Дьёр 2026",
+      "name_he": "גביע אירופה לקדטים, ג׳ור 2026",
+      "city_ru": "Дьёр",
+      "city_he": "ג׳ור"
+    },
+    {
+      "id": "wch-juniors-tashkent-2026",
+      "name": "World Championships Juniors 2026 (Individual + Teams)",
+      "start": "2026-11-19",
+      "end": "2026-11-22",
+      "city": "Tashkent",
+      "country": "UZB",
+      "level": "international",
+      "ageGroups": [
+        "juniors"
+      ],
+      "officialUrl": "https://eju.net/calendar/6819",
+      "sourceUrl": "https://eju.net/calendar",
+      "watch": [
+        {
+          "name": "JudoTV (IJF)",
+          "url": "https://www.judotv.com",
+          "access": "unknown"
+        }
+      ],
+      "name_ru": "Чемпионат мира среди юниоров 2026 (личный и командный)",
+      "name_he": "אליפות העולם לג׳וניורים 2026 (אישית וקבוצתית)",
+      "city_ru": "Ташкент",
+      "city_he": "טשקנט"
+    },
+    {
+      "id": "eju-cec-thessaloniki-2026",
+      "name": "Thessaloniki \"Millennium Team\" Cadet European Cup 2026",
+      "start": "2026-11-21",
+      "end": "2026-11-22",
+      "city": "Thessaloniki",
+      "country": "GRE",
+      "level": "international",
+      "ageGroups": [
+        "cadets"
+      ],
+      "officialUrl": "https://www.eju.net/event/thessaloniki-cadet-european-cup-2026/390802/",
+      "sourceUrl": "https://eju.net/calendar",
+      "name_ru": "Кубок Европы среди кадетов, Салоники 2026",
+      "name_he": "גביע אירופה לקדטים, סלוניקי 2026",
+      "city_ru": "Салоники",
+      "city_he": "סלוניקי"
+    },
+    {
+      "id": "eju-jec-sarajevo-2027",
+      "name": "Junior European Cup Sarajevo 2027",
+      "start": "2027-02-06",
+      "end": "2027-02-07",
+      "city": "Sarajevo",
+      "country": "BIH",
+      "level": "international",
+      "ageGroups": [
+        "juniors"
+      ],
+      "officialUrl": "https://eju.net/calendar",
+      "sourceUrl": "https://eju.net/storage/documents/items/Ct1adTEsj06RnU8u08tj371pSZeXK2zsoL1PWIXE.pdf",
+      "name_ru": "Кубок Европы среди юниоров, Сараево 2027",
+      "name_he": "גביע אירופה לג׳וניורים, סרייבו 2027",
+      "city_ru": "Сараево",
+      "city_he": "סרייבו"
+    },
+    {
+      "id": "eju-cec-rome-2027",
+      "name": "Cadet European Cup Rome 2027",
+      "start": "2027-02-06",
+      "end": "2027-02-07",
+      "city": "Rome",
+      "country": "ITA",
+      "level": "international",
+      "ageGroups": [
+        "cadets"
+      ],
+      "officialUrl": "https://eju.net/calendar",
+      "sourceUrl": "https://eju.net/storage/documents/items/Ct1adTEsj06RnU8u08tj371pSZeXK2zsoL1PWIXE.pdf",
+      "name_ru": "Кубок Европы среди кадетов, Рим 2027",
+      "name_he": "גביע אירופה לקדטים, רומא 2027",
+      "city_ru": "Рим",
+      "city_he": "רומא"
+    },
+    {
+      "id": "eju-cec-tallinn-2027",
+      "name": "Cadet European Cup Tallinn 2027",
+      "start": "2027-02-13",
+      "end": "2027-02-14",
+      "city": "Tallinn",
+      "country": "EST",
+      "level": "international",
+      "ageGroups": [
+        "cadets"
+      ],
+      "officialUrl": "https://eju.net/calendar",
+      "sourceUrl": "https://eju.net/storage/documents/items/Ct1adTEsj06RnU8u08tj371pSZeXK2zsoL1PWIXE.pdf",
+      "name_ru": "Кубок Европы среди кадетов, Таллин 2027",
+      "name_he": "גביע אירופה לקדטים, טאלין 2027",
+      "city_ru": "Таллин",
+      "city_he": "טאלין"
+    },
+    {
+      "id": "eju-cec-antalya-2027",
+      "name": "Cadet European Cup Antalya 2027",
+      "start": "2027-03-06",
+      "end": "2027-03-07",
+      "city": "Antalya",
+      "country": "TUR",
+      "level": "international",
+      "ageGroups": [
+        "cadets"
+      ],
+      "officialUrl": "https://eju.net/calendar",
+      "sourceUrl": "https://eju.net/storage/documents/items/Ct1adTEsj06RnU8u08tj371pSZeXK2zsoL1PWIXE.pdf",
+      "name_ru": "Кубок Европы среди кадетов, Анталья 2027",
+      "name_he": "גביע אירופה לקדטים, אנטליה 2027",
+      "city_ru": "Анталья",
+      "city_he": "אנטליה"
+    },
+    {
+      "id": "eju-jec-spain-2027",
+      "name": "Junior European Cup Spain 2027 (venue TBC)",
+      "start": "2027-03-06",
+      "end": "2027-03-07",
+      "city": "TBC",
+      "country": "ESP",
+      "level": "international",
+      "ageGroups": [
+        "juniors"
+      ],
+      "officialUrl": "https://eju.net/calendar",
+      "sourceUrl": "https://eju.net/storage/documents/items/Ct1adTEsj06RnU8u08tj371pSZeXK2zsoL1PWIXE.pdf",
+      "name_ru": "Кубок Европы среди юниоров, Испания (место уточняется) 2027",
+      "name_he": "גביע אירופה לג׳וניורים, ספרד (המקום יפורסם) 2027",
+      "city_ru": "уточняется",
+      "city_he": "יפורסם"
+    },
+    {
+      "id": "eju-jec-portimao-2027",
+      "name": "Junior European Cup Portimão/Algarve 2027",
+      "start": "2027-03-13",
+      "end": "2027-03-14",
+      "city": "Portimão",
+      "country": "POR",
+      "level": "international",
+      "ageGroups": [
+        "juniors"
+      ],
+      "officialUrl": "https://eju.net/calendar",
+      "sourceUrl": "https://eju.net/storage/documents/items/Ct1adTEsj06RnU8u08tj371pSZeXK2zsoL1PWIXE.pdf",
+      "name_ru": "Кубок Европы среди юниоров, Портимао 2027",
+      "name_he": "גביע אירופה לג׳וניורים, פורטימאו 2027",
+      "city_ru": "Портимао",
+      "city_he": "פורטימאו"
+    },
+    {
+      "id": "eju-cec-porec-2027",
+      "name": "Cadet European Cup Poreč 2027",
+      "start": "2027-03-13",
+      "end": "2027-03-14",
+      "city": "Poreč",
+      "country": "CRO",
+      "level": "international",
+      "ageGroups": [
+        "cadets"
+      ],
+      "officialUrl": "https://eju.net/calendar",
+      "sourceUrl": "https://eju.net/storage/documents/items/Ct1adTEsj06RnU8u08tj371pSZeXK2zsoL1PWIXE.pdf",
+      "name_ru": "Кубок Европы среди кадетов, Пореч 2027",
+      "name_he": "גביע אירופה לקדטים, פורץ׳ 2027",
+      "city_ru": "Пореч",
+      "city_he": "פורץ׳"
+    },
+    {
+      "id": "eju-cec-teplice-2027",
+      "name": "Cadet European Cup Teplice 2027",
+      "start": "2027-03-26",
+      "end": "2027-03-28",
+      "city": "Teplice",
+      "country": "CZE",
+      "level": "international",
+      "ageGroups": [
+        "cadets"
+      ],
+      "officialUrl": "https://eju.net/calendar",
+      "sourceUrl": "https://eju.net/storage/documents/items/Ct1adTEsj06RnU8u08tj371pSZeXK2zsoL1PWIXE.pdf",
+      "name_ru": "Кубок Европы среди кадетов, Теплице 2027",
+      "name_he": "גביע אירופה לקדטים, טפליצה 2027",
+      "city_ru": "Теплице",
+      "city_he": "טפליצה"
+    },
+    {
+      "id": "eju-jec-poznan-2027",
+      "name": "Junior European Cup Poznań 2027",
+      "start": "2027-03-27",
+      "end": "2027-03-28",
+      "city": "Poznań",
+      "country": "POL",
+      "level": "international",
+      "ageGroups": [
+        "juniors"
+      ],
+      "officialUrl": "https://eju.net/calendar",
+      "sourceUrl": "https://eju.net/storage/documents/items/Ct1adTEsj06RnU8u08tj371pSZeXK2zsoL1PWIXE.pdf",
+      "name_ru": "Кубок Европы среди юниоров, Познань 2027",
+      "name_he": "גביע אירופה לג׳וניורים, פוזנן 2027",
+      "city_ru": "Познань",
+      "city_he": "פוזנן"
+    },
+    {
+      "id": "eju-cec-tbilisi-2027",
+      "name": "Cadet European Cup Tbilisi 2027",
+      "start": "2027-04-03",
+      "end": "2027-04-04",
+      "city": "Tbilisi",
+      "country": "GEO",
+      "level": "international",
+      "ageGroups": [
+        "cadets"
+      ],
+      "officialUrl": "https://eju.net/calendar",
+      "sourceUrl": "https://eju.net/storage/documents/items/Ct1adTEsj06RnU8u08tj371pSZeXK2zsoL1PWIXE.pdf",
+      "name_ru": "Кубок Европы среди кадетов, Тбилиси 2027",
+      "name_he": "גביע אירופה לקדטים, טביליסי 2027",
+      "city_ru": "Тбилиси",
+      "city_he": "טביליסי"
+    },
+    {
+      "id": "eju-jec-lignano-2027",
+      "name": "Junior European Cup Lignano 2027",
+      "start": "2027-04-10",
+      "end": "2027-04-11",
+      "city": "Lignano",
+      "country": "ITA",
+      "level": "international",
+      "ageGroups": [
+        "juniors"
+      ],
+      "officialUrl": "https://eju.net/calendar",
+      "sourceUrl": "https://eju.net/storage/documents/items/Ct1adTEsj06RnU8u08tj371pSZeXK2zsoL1PWIXE.pdf",
+      "name_ru": "Кубок Европы среди юниоров, Линьяно 2027",
+      "name_he": "גביע אירופה לג׳וניורים, ליניאנו 2027",
+      "city_ru": "Линьяно",
+      "city_he": "ליניאנו"
+    },
+    {
+      "id": "eju-cec-berlin-2027",
+      "name": "Cadet European Cup Berlin 2027",
+      "start": "2027-04-24",
+      "end": "2027-04-25",
+      "city": "Berlin",
+      "country": "GER",
+      "level": "international",
+      "ageGroups": [
+        "cadets"
+      ],
+      "officialUrl": "https://eju.net/calendar",
+      "sourceUrl": "https://eju.net/storage/documents/items/Ct1adTEsj06RnU8u08tj371pSZeXK2zsoL1PWIXE.pdf",
+      "name_ru": "Кубок Европы среди кадетов, Берлин 2027",
+      "name_he": "גביע אירופה לקדטים, ברלין 2027",
+      "city_ru": "Берлин",
+      "city_he": "ברלין"
+    }
+  ]
+}
