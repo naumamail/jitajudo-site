@@ -1,0 +1,44 @@
+{
+  "template": true,
+  "note": {"de": "Vorlage – von der Akademie anzupassen", "he": "תבנית – להתאמה ע״י האקדמיה", "en": "Template – to be adapted by the academy", "ru": "Шаблон – академия адаптирует под себя"},
+  "levels": [
+    {
+      "from": "white",
+      "to": "blue",
+      "sections": [
+        {"title": {"de": "Grundpositionen", "en": "Basic positions", "he": "עמדות בסיס", "ru": "Базовые позиции"},
+         "items": ["closed-guard", "half-guard", "mount", "side-control", "knee-on-belly", "back-control", "turtle"]},
+        {"title": {"de": "Bewegung und Kontrolle", "en": "Movement and control", "he": "תנועה ושליטה", "ru": "Движение и контроль"},
+         "items": ["shrimp", "technical-stand-up", "breakfall", "posture-in-guard", "breaking-posture", "seatbelt", "crossface"]},
+        {"title": {"de": "Befreiungen", "en": "Escapes", "he": "בריחות", "ru": "Уходы"},
+         "items": ["upa-bridge-escape", "elbow-knee-escape-mount", "side-control-reguard", "side-control-to-knees", "back-escape", "choke-defense-back", "triangle-defense"]},
+        {"title": {"de": "Guard und Sweeps", "en": "Guard and sweeps", "he": "גארד וסוויפים", "ru": "Гард и свипы"},
+         "items": ["scissor-sweep", "hip-bump-sweep", "flower-sweep", "butterfly-sweep"]},
+        {"title": {"de": "Guard passen", "en": "Guard passing", "he": "מעבר גארד", "ru": "Проход гарда"},
+         "items": ["closed-guard-break-kneeling", "toreando-pass", "knee-slice-pass", "double-under-pass", "half-guard-pass"]},
+        {"title": {"de": "Aufgabegriffe", "en": "Submissions", "he": "הכנעות", "ru": "Болевые и удушающие"},
+         "items": ["rear-naked-choke", "guillotine-choke", "triangle-choke", "cross-collar-choke-guard", "armbar-guard", "armbar-mount", "kimura-guard", "americana-side-control", "straight-ankle-lock"]},
+        {"title": {"de": "Takedowns", "en": "Takedowns", "he": "הפלות", "ru": "Тейкдауны"},
+         "items": ["guard-pull", "double-leg", "single-leg", "osoto-gari", "sprawl"]}
+      ]
+    },
+    {
+      "from": "blue",
+      "to": "purple",
+      "sections": [
+        {"title": {"de": "Offene Guards", "en": "Open guards", "he": "גארדים פתוחים", "ru": "Открытые гарды"},
+         "items": ["z-guard", "spider-guard", "lasso-guard", "de-la-riva-guard", "reverse-de-la-riva-guard", "x-guard", "single-leg-x-guard", "guard-retention"]},
+        {"title": {"de": "Befreiungen und Verteidigung", "en": "Escapes and defense", "he": "בריחות והגנה", "ru": "Уходы и защита"},
+         "items": ["heel-drag-escape", "north-south-escape", "granby-roll", "hitchhiker-escape", "kimura-defense", "guillotine-defense"]},
+        {"title": {"de": "Sweeps", "en": "Sweeps", "he": "סוויפים", "ru": "Свипы"},
+         "items": ["tripod-sweep", "sickle-sweep", "old-school-sweep", "dogfight-sweep", "half-butterfly-sweep", "x-guard-sweep", "dlr-sweep", "balloon-sweep"]},
+        {"title": {"de": "Guard passen", "en": "Guard passing", "he": "מעבר גארד", "ru": "Проход гарда"},
+         "items": ["over-under-pass", "leg-drag-pass", "x-pass", "long-step-pass", "smash-pass", "body-lock-pass", "butterfly-pass"]},
+        {"title": {"de": "Aufgabegriffe", "en": "Submissions", "he": "הכנעות", "ru": "Болевые и удушающие"},
+         "items": ["arm-triangle", "darce-choke", "bow-and-arrow-choke", "ezekiel-choke", "mounted-triangle", "armbar-back", "kimura-north-south", "omoplata", "loop-choke"]},
+        {"title": {"de": "Takedowns und Rücken", "en": "Takedowns and back takes", "he": "הפלות ותפיסת גב", "ru": "Тейкдауны и взятие спины"},
+         "items": ["ankle-pick", "knee-tap", "ouchi-gari", "seoi-nage", "arm-drag", "back-take-turtle"]}
+      ]
+    }
+  ]
+}

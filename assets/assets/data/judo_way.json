@@ -1,0 +1,1400 @@
+{
+ "_comment": "Jita's own texts.",
+ "sections": [
+  {
+   "id": "history",
+   "title": {
+    "he": "היסטוריה",
+    "ru": "История",
+    "en": "History",
+    "de": "Geschichte"
+   },
+   "cards": [
+    {
+     "id": "kano",
+     "title": {
+      "he": "ג׳יגורו קאנו",
+      "ru": "Дзигоро Кано",
+      "en": "Jigoro Kano",
+      "de": "Jigoro Kano"
+     },
+     "kids": {
+      "he": "ג׳יגורו קאנו חי ביפן לפני הרבה שנים. הוא אהב ללמוד ולהתאמן, והוא המציא את הג׳ודו. בשנת 1882 הוא פתח בטוקיו אולם אימונים בשם קודוקאן.",
+      "ru": "Дзигоро Кано жил в Японии очень давно. Он любил учиться и тренироваться и придумал дзюдо. В 1882 году он открыл в Токио зал для тренировок, который назвал Кодокан.",
+      "en": "Jigoro Kano lived in Japan a long time ago. He loved learning and training, and he created judo. In 1882 he opened a training hall in Tokyo called the Kodokan.",
+      "de": "Jigoro Kano lebte vor langer Zeit in Japan. Er hat gern gelernt und trainiert und hat Judo erfunden. 1882 eröffnete er in Tokio eine Trainingshalle, den Kodokan."
+     },
+     "adults": {
+      "he": "ג׳יגורו קאנו (1860–1938) היה מחנך יפני. בצעירותו למד ג׳וג׳יטסו, אמנות לחימה יפנית ותיקה, וראה שחלק מהטכניקות מסוכנות מדי כדי לתרגל אותן מול שותף בכוח מלא. הוא שמר את מה שאפשר לתרגל בבטחה, הוסיף שיטת לימוד מסודרת, ובנה מזה שיטה חדשה: ג׳ודו. בשנת 1882 פתח בטוקיו את הקודוקאן, בית הספר הראשון לג׳ודו. בשבילו ג׳ודו לא היה רק ספורט, אלא דרך לחנך את הגוף ואת האופי ביחד.",
+      "ru": "Дзигоро Кано (1860–1938) был японским педагогом. В молодости он занимался джиу-джитсу, старинным японским боевым искусством, и увидел, что часть приёмов слишком опасна, чтобы отрабатывать их с партнёром в полную силу. Он оставил то, что можно тренировать безопасно, добавил понятную систему обучения и так создал новую систему: дзюдо. В 1882 году он открыл в Токио Кодокан, первую школу дзюдо. Для Кано дзюдо было не только спортом, но и способом воспитывать тело и характер вместе.",
+      "en": "Jigoro Kano (1860–1938) was a Japanese educator. As a young man he studied jujutsu, an old Japanese martial art, and saw that some of its techniques were too dangerous to practise with a partner at full strength. He kept what could be trained safely, added a clear way of teaching, and built a new system from it: judo. In 1882 he opened the Kodokan in Tokyo, the first judo school. For him judo was not only a sport but a way to educate body and character together.",
+      "de": "Jigoro Kano (1860–1938) war ein japanischer Pädagoge. Als junger Mann lernte er Jujutsu, eine alte japanische Kampfkunst, und merkte, dass manche Techniken zu gefährlich waren, um sie mit einem Partner mit voller Kraft zu üben. Er behielt, was man sicher trainieren kann, ergänzte eine klare Lehrmethode und schuf daraus ein neues System: Judo. 1882 eröffnete er in Tokio den Kodokan, die erste Judoschule. Für ihn war Judo nicht nur ein Sport, sondern ein Weg, Körper und Charakter gemeinsam zu erziehen."
+     },
+     "attribution": null,
+     "example": null
+    },
+    {
+     "id": "judo_name",
+     "title": {
+      "he": "מה פירוש המילה ג׳ודו",
+      "ru": "Что значит слово «дзюдо»",
+      "en": "What the word “judo” means",
+      "de": "Was das Wort „Judo“ bedeutet"
+     },
+     "kids": {
+      "he": "ג׳ודו היא מילה ביפנית. ״ג׳ו״ פירושו רך וגמיש, ו״דו״ פירושו דרך. ביחד זה ״הדרך הרכה״: לא דוחפים חזק, אלא משתמשים בתנועה של השותף.",
+      "ru": "Дзюдо – это японское слово. «Дзю» значит мягкий, гибкий, а «до» значит путь. Вместе получается «мягкий путь»: не толкаем изо всех сил, а используем движение партнёра.",
+      "en": "Judo is a Japanese word. “Ju” means gentle and flexible, and “do” means way. Together it is “the gentle way”: we don’t just push hard, we use our partner’s movement.",
+      "de": "Judo ist ein japanisches Wort. „Ju“ heißt sanft und nachgiebig, „do“ heißt Weg. Zusammen bedeutet es „der sanfte Weg“: Du drückst nicht einfach fest, sondern nutzt die Bewegung deines Partners."
+     },
+     "adults": {
+      "he": "השם ג׳ודו בנוי משתי מילים יפניות: ״ג׳ו״ (רך, גמיש, מתמסר) ו״דו״ (דרך). ״רך״ כאן לא אומר חלש. הכוונה היא לא לעמוד מול כוח בכוח, אלא לנצל את הכוח והתנועה של היריב: כשדוחפים אותנו, אפשר לזוז הצידה ולמשוך; כשמושכים אותנו, אפשר להתקדם. כך גם אדם קטן יכול להתמודד מול אדם גדול וחזק ממנו. המילה ״דרך״ מזכירה שג׳ודו הוא גם דרך חיים, ולא רק אוסף של הטלות.",
+      "ru": "Слово «дзюдо» состоит из двух японских слов: «дзю», мягкий, гибкий, уступающий, и «до», путь. «Мягкий» здесь не значит слабый. Смысл в том, чтобы не встречать силу силой, а использовать силу и движение соперника: если нас толкают, можно уйти в сторону и потянуть; если тянут, можно шагнуть вперёд. Так и небольшой человек может справиться с более крупным и сильным. Слово «путь» напоминает, что дзюдо – это ещё и образ жизни, а не только набор бросков.",
+      "en": "The name judo is made of two Japanese words: “ju”, gentle, flexible, yielding, and “do”, way. “Gentle” here does not mean weak. The idea is not to meet force with force but to use the opponent’s strength and movement: when pushed, you can step aside and pull; when pulled, you can move forward. That is how a smaller person can deal with someone bigger and stronger. The word “way” is a reminder that judo is also a way of life, not just a collection of throws.",
+      "de": "Der Name Judo besteht aus zwei japanischen Wörtern: „Ju“, sanft, biegsam, nachgebend, und „do“, Weg. „Sanft“ heißt hier nicht schwach. Es geht darum, Kraft nicht mit Kraft zu beantworten, sondern Kraft und Bewegung des Gegners zu nutzen: Wenn du geschoben wirst, kannst du ausweichen und ziehen; wenn du gezogen wirst, kannst du vorgehen. So kann auch ein kleinerer Mensch gegen einen größeren und stärkeren bestehen. Das Wort „Weg“ erinnert daran, dass Judo auch eine Lebensweise ist und nicht nur eine Sammlung von Würfen."
+     },
+     "attribution": null,
+     "example": null
+    },
+    {
+     "id": "olympic",
+     "title": {
+      "he": "ג׳ודו באולימפיאדה",
+      "ru": "Дзюдо на Олимпийских играх",
+      "en": "Judo at the Olympics",
+      "de": "Judo bei Olympia"
+     },
+     "kids": {
+      "he": "ג׳ודו הוא ענף אולימפי. גברים התחרו בו לראשונה באולימפיאדה בטוקיו ב־1964. נשים מתחרות בג׳ודו באולימפיאדה מאז 1992.",
+      "ru": "Дзюдо – олимпийский вид спорта. Мужчины впервые соревновались в нём на Олимпийских играх в Токио в 1964 году. Женщины выступают в дзюдо на Олимпиадах с 1992 года.",
+      "en": "Judo is an Olympic sport. Men first competed in it at the Tokyo Olympics in 1964. Women have competed in Olympic judo since 1992.",
+      "de": "Judo ist eine olympische Sportart. Männer kämpften zum ersten Mal 1964 bei den Spielen in Tokio. Frauen sind im olympischen Judo seit 1992 dabei."
+     },
+     "adults": {
+      "he": "ג׳ודו נכנס לתוכנית האולימפית במשחקי טוקיו 1964, אז רק לגברים. ג׳ודו לנשים הפך לענף אולימפי רשמי במשחקי ברצלונה 1992. מאז הג׳ודו הוא אחד מענפי הספורט האולימפיים המוכרים, ומתאמנים בו ילדים ומבוגרים במדינות רבות. גם כשמתחרים על מדליות, הערכים של הדרך נשארים: קידה, כבוד ליריב ושמירה על בטיחות.",
+      "ru": "Дзюдо вошло в олимпийскую программу на Играх в Токио в 1964 году, тогда только для мужчин. Женское дзюдо стало официальным олимпийским видом на Играх в Барселоне в 1992 году. С тех пор дзюдо – один из известных олимпийских видов спорта, им занимаются дети и взрослые во многих странах. Даже когда борьба идёт за медали, ценности пути остаются: поклон, уважение к сопернику и забота о безопасности.",
+      "en": "Judo joined the Olympic programme at the Tokyo 1964 Games, at first for men only. Women’s judo became an official Olympic event at the Barcelona 1992 Games. Since then judo has been one of the well-known Olympic sports, practised by children and adults in many countries. Even when medals are at stake, the values of the way remain: the bow, respect for the opponent and care for safety.",
+      "de": "Judo kam bei den Spielen in Tokio 1964 ins olympische Programm, zunächst nur für Männer. Frauenjudo wurde bei den Spielen in Barcelona 1992 offiziell olympisch. Seitdem ist Judo eine der bekannten olympischen Sportarten, die Kinder und Erwachsene in vielen Ländern trainieren. Auch wenn es um Medaillen geht, bleiben die Werte des Weges: die Verbeugung, Respekt vor dem Gegner und Sorge um Sicherheit."
+     },
+     "attribution": null,
+     "example": null
+    }
+   ]
+  },
+  {
+   "id": "principles",
+   "title": {
+    "he": "העקרונות של קאנו",
+    "ru": "Принципы Кано",
+    "en": "Kano’s principles",
+    "de": "Kanos Prinzipien"
+   },
+   "cards": [
+    {
+     "id": "seiryoku_zenyo",
+     "title": {
+      "he": "סייריוקו זניו: ניצול מיטבי של הכוח",
+      "ru": "Сэйрёку дзэнъё: максимальная эффективность",
+      "en": "Seiryoku Zen’yo: maximum efficiency",
+      "de": "Seiryoku Zen’yo: größte Wirksamkeit"
+     },
+     "kids": {
+      "he": "לא צריך להיות הכי חזקים כדי להצליח. משתמשים בראש, בתזמון ובתנועה של השותף, ואז ההטלה יוצאת קלה. גם בבית הספר: קודם חושבים, ואחר כך עושים.",
+      "ru": "Чтобы получилось, не нужно быть самым сильным. Мы думаем головой, ловим момент и используем движение партнёра, и бросок выходит легко. В школе тоже: сначала подумай, потом делай.",
+      "en": "You don’t have to be the strongest to succeed. Use your head, good timing and your partner’s movement, and the throw becomes easy. At school too: think first, then act.",
+      "de": "Du musst nicht der Stärkste sein, um Erfolg zu haben. Nutze deinen Kopf, das richtige Timing und die Bewegung deines Partners, dann wird der Wurf leicht. Auch in der Schule gilt: erst denken, dann handeln."
+     },
+     "adults": {
+      "he": "סייריוקו זניו פירושו בערך ״השימוש הטוב ביותר באנרגיה״. על פי ג׳יגורו קאנו, כדאי להפעיל את הגוף ואת הראש בדרך היעילה ביותר, ולמטרה טובה. על המזרן זה אומר להוציא את היריב משיווי משקל, לבחור את הרגע הנכון ולהשתמש בתנועה שלו, במקום להתאמץ סתם. מחוץ למזרן זה אותו רעיון: לתכנן, לא לבזבז כוחות על דברים מיותרים, ולהשקיע במה שבאמת מקדם. העיקרון הזה מלמד שהצלחה באה מהבנה ומתרגול, ולא רק מכוח.",
+      "ru": "Сэйрёку дзэнъё означает примерно «наилучшее использование энергии». По словам Дзигоро Кано, тело и ум стоит применять самым эффективным способом и ради доброй цели. На татами это значит вывести соперника из равновесия, выбрать правильный момент и использовать его движение, а не тратить силы впустую. Вне татами та же мысль: планировать, не растрачивать силы на лишнее и вкладываться в то, что действительно ведёт вперёд. Этот принцип учит, что успех приходит от понимания и практики, а не только от силы.",
+      "en": "Seiryoku Zen’yo roughly means “the best use of energy”. After Jigoro Kano: use body and mind in the most efficient way, and for a good purpose. On the mat this means breaking the opponent’s balance, choosing the right moment and using their movement instead of straining for nothing. Off the mat it is the same idea: plan ahead, don’t waste effort on what doesn’t matter, and invest in what really moves you forward. The principle teaches that success comes from understanding and practice, not from strength alone.",
+      "de": "Seiryoku Zen’yo heißt ungefähr „die beste Nutzung der Energie“. Nach Jigoro Kano solltest du Körper und Geist so wirksam wie möglich einsetzen, und zwar für einen guten Zweck. Auf der Matte heißt das: den Gegner aus dem Gleichgewicht bringen, den richtigen Moment wählen und seine Bewegung nutzen, statt dich umsonst anzustrengen. Außerhalb der Matte gilt dieselbe Idee: planen, keine Kraft an Unnötiges verschwenden und in das investieren, was dich wirklich weiterbringt. Das Prinzip lehrt, dass Erfolg aus Verständnis und Übung kommt, nicht nur aus Kraft."
+     },
+     "attribution": {
+      "he": "על פי ג׳יגורו קאנו",
+      "ru": "по словам Дзигоро Кано",
+      "en": "after Jigoro Kano",
+      "de": "nach Jigoro Kano"
+     },
+     "example": null
+    },
+    {
+     "id": "jita_kyoei",
+     "title": {
+      "he": "ג׳יטה קיואיי: מתקדמים ביחד",
+      "ru": "Дзита кёэй: взаимное процветание",
+      "en": "Jita Kyoei: mutual welfare and benefit",
+      "de": "Jita Kyoei: gegenseitiges Wohl und Nutzen"
+     },
+     "kids": {
+      "he": "בג׳ודו מתאמנים עם שותף. כשאנחנו עוזרים לשותף ללמוד, גם אנחנו משתפרים. ככה כולם מרוויחים ביחד.",
+      "ru": "В дзюдо нельзя тренироваться одному, нужен партнёр. Когда мы помогаем партнёру учиться, мы и сами становимся лучше. Так выигрывают все вместе.",
+      "en": "In judo you can’t train alone, you need a partner. When we help our partner learn, we get better too. That way everyone wins together.",
+      "de": "Im Judo kannst du nicht allein trainieren, du brauchst einen Partner. Wenn du deinem Partner beim Lernen hilfst, wirst du selbst besser. So gewinnen alle zusammen."
+     },
+     "adults": {
+      "he": "ג׳יטה קיואיי פירושו בערך ״אני והאחר, משגשגים ביחד״: תועלת ורווחה הדדיות. על פי ג׳יגורו קאנו, אדם מתקדם הכי טוב כשהוא עוזר גם לאחרים להתקדם, וקהילה שבה עוזרים זה לזה חזקה יותר. באימון זה קורה בכל רגע: אנחנו נותנים לשותף להטיל אותנו, נופלים בשבילו ושומרים עליו, כדי שגם הוא ישתפר. מי שמתאמן רק בשביל עצמו מגיע פחות רחוק ממי שבונה סביבו קבוצה טובה. השם של האפליקציה הזאת, Jita (自他), לקוח מהעיקרון הזה: ״ג׳יטה״, אני והאחר.",
+      "ru": "Дзита кёэй означает примерно «я и другой процветаем вместе»: взаимная польза и благополучие. По словам Дзигоро Кано, человек лучше всего растёт, когда помогает расти и другим, а сообщество, где помогают друг другу, сильнее. На тренировке это происходит каждую минуту: мы даём партнёру бросать, падаем для него и бережём его, чтобы и он стал лучше. Кто тренируется только ради себя, уходит не так далеко, как тот, кто строит вокруг себя хорошую команду. Название этого приложения, Jita (自他), взято из этого принципа: «дзита», я и другой.",
+      "en": "Jita Kyoei roughly means “self and others prospering together”: mutual welfare and benefit. After Jigoro Kano: a person grows best by helping others grow too, and a community where people help each other is stronger. In training this happens all the time: we let our partner throw, we fall for them and we keep them safe, so they improve as well. Someone who trains only for themselves gets less far than someone who builds a good team around them. The name of this app, Jita (自他), comes from this principle: “jita”, self and others.",
+      "de": "Jita Kyoei heißt ungefähr „ich und der andere gedeihen gemeinsam“: gegenseitiges Wohl und Nutzen. Nach Jigoro Kano wächst ein Mensch am besten, wenn er auch anderen beim Wachsen hilft, und eine Gemeinschaft, in der man sich hilft, ist stärker. Im Training passiert das ständig: Du lässt deinen Partner werfen, fällst für ihn und passt auf ihn auf, damit auch er besser wird. Wer nur für sich selbst trainiert, kommt weniger weit als jemand, der eine gute Gruppe um sich aufbaut. Der Name dieser App, Jita (自他), stammt aus diesem Prinzip: „Jita“, ich und der andere."
+     },
+     "attribution": {
+      "he": "על פי ג׳יגורו קאנו",
+      "ru": "по словам Дзигоро Кано",
+      "en": "after Jigoro Kano",
+      "de": "nach Jigoro Kano"
+     },
+     "example": null
+    }
+   ]
+  },
+  {
+   "id": "values",
+   "title": {
+    "he": "ערכים שנהוג ללמד בג׳ודו",
+    "ru": "Ценности, которым обычно учат в дзюдо",
+    "en": "Values commonly taught in judo clubs",
+    "de": "Werte, die im Judo oft vermittelt werden"
+   },
+   "cards": [
+    {
+     "id": "courtesy",
+     "term": "rei",
+     "title": {
+      "he": "נימוס",
+      "ru": "Вежливость",
+      "en": "Courtesy",
+      "de": "Höflichkeit"
+     },
+     "kids": {
+      "he": "אומרים שלום, בבקשה ותודה. בג׳ודו קדים לפני ואחרי כל תרגול. נימוס מראה לאחרים שהם חשובים לנו.",
+      "ru": "Говорим «привет», «пожалуйста» и «спасибо». В дзюдо мы кланяемся до и после каждого упражнения. Вежливость показывает другим, что они нам важны.",
+      "en": "We say hello, please and thank you. In judo we bow before and after every exercise. Courtesy shows others that they matter to us.",
+      "de": "Du sagst Hallo, Bitte und Danke. Im Judo verbeugst du dich vor und nach jeder Übung. Höflichkeit zeigt anderen, dass sie dir wichtig sind."
+     },
+     "adults": {
+      "he": "נימוס הוא הדרך שבה אנחנו מראים כבוד במעשים קטנים: מברכים לשלום, מקשיבים, מחכים לתור ומודים. בג׳ודו הנימוס בא לידי ביטוי בקידה, שמלווה כל אימון וכל קרב. הקידה מזכירה שהשותף והיריב הם לא אויבים, אלא אנשים שעוזרים לנו ללמוד. נימוס גם שומר על בטיחות, כי כולם יודעים מה מצופה מהם. מי שמתרגלים נימוס במועדון לוקחים אותו גם לבית הספר, לעבודה ולבית.",
+      "ru": "Вежливость – это то, как мы показываем уважение в мелочах: здороваемся, слушаем, ждём своей очереди и благодарим. В дзюдо вежливость видна в поклоне, который сопровождает каждую тренировку и каждую схватку. Поклон напоминает, что партнёр и соперник не враги, а люди, которые помогают нам учиться. Вежливость помогает и безопасности, потому что все знают, чего от них ждут. Кто привыкает к вежливости в клубе, переносит её в школу, на работу и домой.",
+      "en": "Courtesy is how we show respect in small things: greeting people, listening, waiting our turn and saying thank you. In judo courtesy shows in the bow that comes with every training session and every match. The bow reminds us that partner and opponent are not enemies but people who help us learn. Courtesy also supports safety, because everyone knows what is expected of them. People who practise courtesy at the club carry it into school, work and home.",
+      "de": "Höflichkeit ist die Art, wie wir im Kleinen Respekt zeigen: grüßen, zuhören, warten, bis wir dran sind, und Danke sagen. Im Judo zeigt sich Höflichkeit in der Verbeugung, die jedes Training und jeden Kampf begleitet. Die Verbeugung erinnert dich daran, dass Partner und Gegner keine Feinde sind, sondern Menschen, die dir beim Lernen helfen. Höflichkeit dient auch der Sicherheit, weil alle wissen, was von ihnen erwartet wird. Wer im Verein Höflichkeit übt, nimmt sie mit in die Schule, zur Arbeit und nach Hause."
+     },
+     "example": {
+      "he": "בדוג׳ו: קדים לשותף לפני התרגול ואומרים לו תודה בסוף. בחיים: אומרים שלום לנהג האוטובוס ותודה למוכר בחנות.",
+      "ru": "В додзё: кланяемся партнёру перед упражнением и благодарим его в конце. В жизни: здороваемся с водителем автобуса и говорим «спасибо» продавцу в магазине.",
+      "en": "In the dojo: bow to your partner before the exercise and thank them at the end. In life: say hello to the bus driver and thank the shop assistant.",
+      "de": "Im Dojo: Du verbeugst dich vor der Übung vor deinem Partner und bedankst dich am Ende. Im Leben: Du grüßt den Busfahrer und sagst im Laden Danke."
+     },
+     "attribution": null
+    },
+    {
+     "id": "courage",
+     "term": null,
+     "title": {
+      "he": "אומץ",
+      "ru": "Смелость",
+      "en": "Courage",
+      "de": "Mut"
+     },
+     "kids": {
+      "he": "אומץ זה לנסות גם כשקצת מפחדים. למשל, לנסות הטלה חדשה מול כולם. גם להגיד ״טעיתי״ זה אומץ.",
+      "ru": "Смелость – это пробовать, даже когда немного страшно. Например, попробовать новый бросок при всех. Сказать «я ошибся» тоже смелость.",
+      "en": "Courage means trying even when you’re a bit scared. For example, trying a new throw in front of everyone. Saying “I made a mistake” is courage too.",
+      "de": "Mut heißt, etwas zu versuchen, auch wenn du ein bisschen Angst hast. Zum Beispiel einen neuen Wurf vor allen ausprobieren. Auch „Ich habe einen Fehler gemacht“ zu sagen, ist mutig."
+     },
+     "adults": {
+      "he": "אומץ בג׳ודו הוא לא היעדר פחד, אלא היכולת לפעול למרות הפחד. זה לעלות לקרב מול מישהו גדול יותר, לנסות טכניקה שעוד לא בטוחים בה, או לקום אחרי נפילה ולהמשיך. אומץ הוא גם להגיד את האמת, להודות בטעות ולבקש עזרה. אומץ אמיתי הולך יחד עם שיקול דעת: לא מסכנים את עצמנו או אחרים כדי להוכיח משהו. כך לומדים להתמודד עם אתגרים גם מחוץ לאולם.",
+      "ru": "Смелость в дзюдо – это не отсутствие страха, а умение действовать, несмотря на страх. Выйти на схватку против того, кто крупнее, попробовать приём, в котором ещё не уверен, подняться после падения и продолжить. Смелость также в том, чтобы сказать правду, признать ошибку и попросить о помощи. Настоящая смелость идёт рядом с рассудительностью: мы не рискуем собой и другими, чтобы что-то доказать. Так мы учимся справляться с трудностями и за пределами зала.",
+      "en": "Courage in judo is not the absence of fear but the ability to act despite it. It means stepping up against someone bigger, trying a technique you’re not yet sure of, or getting up after a fall and carrying on. Courage is also telling the truth, admitting a mistake and asking for help. Real courage goes hand in hand with good judgement: we don’t put ourselves or others at risk to prove a point. This is how we learn to face challenges outside the hall as well.",
+      "de": "Mut im Judo heißt nicht, keine Angst zu haben, sondern trotz Angst zu handeln. Gegen jemanden anzutreten, der größer ist, eine Technik zu versuchen, bei der du noch unsicher bist, oder nach einem Sturz aufzustehen und weiterzumachen. Mut heißt auch, die Wahrheit zu sagen, einen Fehler zuzugeben und um Hilfe zu bitten. Echter Mut geht mit Vernunft zusammen: Du bringst dich und andere nicht in Gefahr, nur um etwas zu beweisen. So lernst du, auch außerhalb der Halle mit Herausforderungen umzugehen."
+     },
+     "example": {
+      "he": "בדוג׳ו: מנסים בתחרות הטלה חדשה, גם אם היא אולי לא תצליח. בחיים: עומדים ליד ילד שצוחקים עליו ואומרים שזה לא בסדר.",
+      "ru": "В додзё: пробуем на соревновании новый бросок, даже если он может не получиться. В жизни: встаём рядом с ребёнком, над которым смеются, и говорим, что так нельзя.",
+      "en": "In the dojo: try a new throw at a competition even if it might not work. In life: stand next to a child who is being laughed at and say it’s not okay.",
+      "de": "Im Dojo: Du probierst im Wettkampf einen neuen Wurf, auch wenn er vielleicht nicht klappt. Im Leben: Du stellst dich zu einem Kind, über das gelacht wird, und sagst, dass das nicht okay ist."
+     },
+     "attribution": null
+    },
+    {
+     "id": "honesty",
+     "term": null,
+     "title": {
+      "he": "יושר",
+      "ru": "Честность",
+      "en": "Honesty",
+      "de": "Ehrlichkeit"
+     },
+     "kids": {
+      "he": "אומרים את האמת, גם כשזה לא קל. אם לא הצלחנו בתרגיל, מודים בזה ומנסים שוב.",
+      "ru": "Говорим правду, даже когда это нелегко. Если упражнение не получилось, признаём это и пробуем снова.",
+      "en": "We tell the truth, even when it isn’t easy. If an exercise didn’t work, we say so and try again.",
+      "de": "Du sagst die Wahrheit, auch wenn es nicht leicht ist. Wenn eine Übung nicht geklappt hat, gibst du es zu und versuchst es noch einmal."
+     },
+     "adults": {
+      "he": "יושר הוא להיות אמיתיים עם אחרים ועם עצמנו. בג׳ודו קל לראות אותו: מי שאומרים למאמן שלא תרגלו, או מודים שההטלה לא הייתה נקייה, לומדים מהר יותר. יושר כלפי עצמנו פירושו לראות בדיוק מה עוד צריך לשפר, בלי תירוצים. גם בקרב, משחק הוגן לפי החוקים הוא חלק מהיושר. אמון בין שותפים לאימון נבנה רק כשכולם כנים.",
+      "ru": "Честность – это быть настоящими с другими и с самими собой. В дзюдо её легко увидеть: кто говорит тренеру, что не тренировался, или признаёт, что бросок был нечистым, учится быстрее. Честность перед собой значит ясно видеть, что ещё нужно улучшить, без отговорок. И в схватке честная борьба по правилам тоже часть честности. Доверие между партнёрами по тренировке возникает, только когда все искренни.",
+      "en": "Honesty means being real with others and with ourselves. In judo it is easy to see: those who tell the coach they didn’t practise, or admit a throw wasn’t clean, learn faster. Being honest with ourselves means seeing exactly what still needs work, without excuses. In a match, fair play by the rules is part of honesty too. Trust between training partners only grows when everyone is sincere.",
+      "de": "Ehrlichkeit heißt, echt zu sein, mit anderen und mit dir selbst. Im Judo sieht man sie leicht: Wer dem Trainer sagt, dass er nicht geübt hat, oder zugibt, dass ein Wurf nicht sauber war, lernt schneller. Ehrlich zu dir selbst sein heißt, genau zu sehen, was du noch verbessern musst, ohne Ausreden. Auch im Kampf gehört faires Verhalten nach den Regeln zur Ehrlichkeit. Vertrauen zwischen Trainingspartnern entsteht nur, wenn alle aufrichtig sind."
+     },
+     "example": {
+      "he": "בדוג׳ו: אם המאמן ביקש עשר חזרות ועשינו שש, אומרים את זה. בחיים: אם שברנו משהו בבית, מספרים להורים בעצמנו.",
+      "ru": "В додзё: если тренер попросил десять повторений, а мы сделали шесть, так и говорим. В жизни: если дома что-то разбили, сами рассказываем родителям.",
+      "en": "In the dojo: if the coach asked for ten repetitions and you did six, say so. In life: if you broke something at home, tell your parents yourself.",
+      "de": "Im Dojo: Wenn der Trainer zehn Wiederholungen wollte und du sechs gemacht hast, sagst du das. Im Leben: Wenn du zu Hause etwas kaputt gemacht hast, erzählst du es deinen Eltern selbst."
+     },
+     "attribution": null
+    },
+    {
+     "id": "honor",
+     "term": null,
+     "title": {
+      "he": "כבוד עצמי",
+      "ru": "Честь",
+      "en": "Honour",
+      "de": "Ehre"
+     },
+     "kids": {
+      "he": "עושים את הדבר הנכון גם כשאף אחד לא רואה. מנצחים בהגינות ומפסידים בכבוד.",
+      "ru": "Поступаем правильно, даже когда никто не видит. Побеждаем честно и проигрываем достойно.",
+      "en": "We do the right thing even when nobody is watching. We win fairly and lose with dignity.",
+      "de": "Du tust das Richtige, auch wenn niemand hinschaut. Du gewinnst fair und verlierst mit Würde."
+     },
+     "adults": {
+      "he": "כבוד עצמי הוא לעמוד מאחורי המילה שלנו ולהתנהג לפי הערכים שלנו, גם כשאף אחד לא מסתכל. בג׳ודו זה אומר לנצח בלי לפגוע ובלי לרמות, ולהפסיד בלי לכעוס על השופט או על היריב. מי שמתחרים בשם המועדון מייצגים גם את המאמנים ואת החברים לקבוצה. כבוד עצמי לא תלוי בתוצאה, אלא בדרך שבה הגענו אליה. זה ערך שנבנה לאט, ממעשים קטנים שחוזרים על עצמם.",
+      "ru": "Честь – это отвечать за свои слова и жить по своим ценностям, даже когда никто не смотрит. В дзюдо это значит побеждать, не калеча и не обманывая, и проигрывать, не злясь на судью или соперника. Кто выступает за клуб, представляет и тренеров, и товарищей по команде. Честь зависит не от результата, а от того, каким путём мы к нему пришли. Эта ценность строится медленно, из маленьких поступков, которые повторяются день за днём.",
+      "en": "Honour means standing behind our word and living by our values, even when no one is looking. In judo it means winning without hurting or cheating, and losing without getting angry at the referee or the opponent. Those who compete for the club also represent their coaches and teammates. Honour does not depend on the result but on how we got there. It is a value built slowly, from small actions repeated again and again.",
+      "de": "Ehre heißt, zu deinem Wort zu stehen und nach deinen Werten zu leben, auch wenn niemand zuschaut. Im Judo bedeutet das, zu gewinnen, ohne zu verletzen oder zu schummeln, und zu verlieren, ohne auf den Kampfrichter oder den Gegner wütend zu sein. Wer für den Verein antritt, vertritt auch die Trainer und das Team. Ehre hängt nicht vom Ergebnis ab, sondern davon, wie du dorthin gekommen bist. Sie wächst langsam, aus kleinen Taten, die sich wiederholen."
+     },
+     "example": {
+      "he": "בדוג׳ו: אחרי הפסד לוחצים יד ליריב ומברכים אותו. בחיים: אם הבטחנו לחבר לעזור, מקיימים, גם כשבא לנו לעשות משהו אחר.",
+      "ru": "В додзё: после поражения пожимаем сопернику руку и поздравляем его. В жизни: если пообещали другу помочь, держим слово, даже когда хочется заняться другим.",
+      "en": "In the dojo: after a loss, shake hands with your opponent and congratulate them. In life: if you promised a friend to help, keep your promise even when you’d rather do something else.",
+      "de": "Im Dojo: Nach einer Niederlage gibst du deinem Gegner die Hand und gratulierst ihm. Im Leben: Wenn du einem Freund Hilfe versprochen hast, hältst du dein Wort, auch wenn du lieber etwas anderes machen würdest."
+     },
+     "attribution": null
+    },
+    {
+     "id": "modesty",
+     "term": null,
+     "title": {
+      "he": "צניעות",
+      "ru": "Скромность",
+      "en": "Modesty",
+      "de": "Bescheidenheit"
+     },
+     "kids": {
+      "he": "לא מתרברבים כשמצליחים. תמיד יש עוד מה ללמוד, לכל אחד ובכל חגורה.",
+      "ru": "Не хвастаемся, когда что-то получается. Всегда есть чему поучиться, каждому и с любым поясом.",
+      "en": "We don’t show off when we succeed. There is always more to learn, for everyone and at every belt.",
+      "de": "Du gibst nicht an, wenn dir etwas gelingt. Es gibt immer noch etwas zu lernen, für alle und mit jedem Gürtel."
+     },
+     "adults": {
+      "he": "צניעות היא לדעת להעריך את מה שהשגנו בלי להתנשא על אחרים. בג׳ודו גם מי שמחזיקים בחגורה גבוהה ממשיכים ללמוד, ולפעמים לומדים דווקא ממתאמנים צעירים מהם. ניצחון הוא סיבה לשמוח, לא להשפיל את מי שהפסיד. מתאמנים צנועים פתוחים להערות של המאמן ושל השותפים, ולכן מתקדמים. צניעות לא אומרת להקטין את עצמנו, אלא לזכור שכל הצלחה נבנתה גם בעזרת אחרים.",
+      "ru": "Скромность – это умение ценить свои достижения, не ставя себя выше других. В дзюдо даже обладатели высоких поясов продолжают учиться, а иногда учатся как раз у тех, кто младше. Победа – повод радоваться, а не унижать проигравшего. Скромные спортсмены открыты к замечаниям тренера и партнёров, и поэтому растут. Скромность не значит принижать себя: она значит помнить, что любой успех построен и с помощью других.",
+      "en": "Modesty means valuing what we have achieved without looking down on others. In judo even people with high belts keep learning, sometimes from those younger than them. A win is a reason to be happy, not to humiliate the one who lost. Modest athletes are open to feedback from the coach and their partners, and so they improve. Modesty doesn’t mean making ourselves small; it means remembering that every success was built with help from others.",
+      "de": "Bescheidenheit heißt, deine Erfolge zu schätzen, ohne auf andere herabzusehen. Im Judo lernen auch Leute mit hohen Gürteln weiter, manchmal gerade von Jüngeren. Ein Sieg ist ein Grund zur Freude, nicht dazu, den Verlierer kleinzumachen. Bescheidene Sportler sind offen für Hinweise von Trainer und Partnern und kommen deshalb voran. Bescheiden sein heißt nicht, dich kleinzumachen, sondern daran zu denken, dass jeder Erfolg auch mit Hilfe anderer entstanden ist."
+     },
+     "example": {
+      "he": "בדוג׳ו: אחרי ניצחון בתחרות מודים למאמן ולשותפים לאימון. בחיים: כשמקבלים ציון טוב, שמחים בלי ללעוג למי שקיבל פחות.",
+      "ru": "В додзё: после победы на соревновании благодарим тренера и партнёров по тренировкам. В жизни: получив хорошую оценку, радуемся, не смеясь над теми, у кого ниже.",
+      "en": "In the dojo: after winning a competition, thank your coach and training partners. In life: when you get a good grade, be happy without mocking those who got less.",
+      "de": "Im Dojo: Nach einem Sieg im Wettkampf bedankst du dich bei Trainer und Trainingspartnern. Im Leben: Bei einer guten Note freust du dich, ohne über die zu lachen, die schlechter abgeschnitten haben."
+     },
+     "attribution": null
+    },
+    {
+     "id": "respect",
+     "term": null,
+     "title": {
+      "he": "כבוד לאחרים",
+      "ru": "Уважение",
+      "en": "Respect",
+      "de": "Respekt"
+     },
+     "kids": {
+      "he": "מקשיבים למאמן ולחברים. שומרים על השותף ועל הציוד. כולם על המזרן חשובים, גדולים וקטנים.",
+      "ru": "Слушаем тренера и друзей. Бережём партнёра и снаряжение. Каждый на татами важен, большой и маленький.",
+      "en": "We listen to the coach and to our friends. We take care of our partner and the equipment. Everyone on the mat matters, big or small.",
+      "de": "Du hörst dem Trainer und deinen Freunden zu. Du passt auf deinen Partner und die Ausrüstung auf. Alle auf der Matte sind wichtig, groß und klein."
+     },
+     "adults": {
+      "he": "כבוד לאחרים הוא יחס לכל אדם כבעל ערך: למאמן, לשותף, ליריב, לשופט ולהורים שמחכים בצד. בג׳ודו אנחנו אוחזים זה בזה ומטילים זה את זה, ולכן בלי כבוד אין אימון בטוח. כבוד מתבטא בהקשבה, בשמירה על השותף, בהגעה בזמן ובשמירה על הציוד והאולם. מכבדים גם את מי שחלשים מאיתנו או חדשים במועדון, ועוזרים להם להשתלב. כבוד הולך לשני הכיוונים: מי שנותנים כבוד, מקבלים כבוד.",
+      "ru": "Уважение – это отношение к каждому человеку как к ценному: к тренеру, партнёру, сопернику, судье и родителям, которые ждут у края зала. В дзюдо мы держим и бросаем друг друга, поэтому без уважения нет безопасной тренировки. Уважение видно во внимании, в заботе о партнёре, в пунктуальности и в бережном отношении к снаряжению и залу. Мы уважаем и тех, кто слабее нас или недавно в клубе, и помогаем им освоиться. Уважение работает в обе стороны: кто уважает других, того уважают.",
+      "en": "Respect means treating every person as valuable: the coach, partner, opponent, referee and the parents waiting at the side. In judo we grip and throw each other, so without respect there is no safe training. Respect shows in listening, in looking after our partner, in being on time and in caring for the equipment and the hall. We also respect those who are weaker than us or new to the club, and help them fit in. Respect goes both ways: those who give it, receive it.",
+      "de": "Respekt heißt, jeden Menschen als wertvoll zu behandeln: Trainer, Partner, Gegner, Kampfrichter und die Eltern, die am Rand warten. Im Judo fassen und werfen wir uns gegenseitig, darum gibt es ohne Respekt kein sicheres Training. Respekt zeigt sich im Zuhören, im Aufpassen auf den Partner, in Pünktlichkeit und im sorgsamen Umgang mit Ausrüstung und Halle. Du respektierst auch die, die schwächer sind als du oder neu im Verein, und hilfst ihnen, dazuzugehören. Respekt gilt in beide Richtungen: Wer ihn gibt, bekommt ihn auch."
+     },
+     "example": {
+      "he": "בדוג׳ו: מקשיבים בשקט כשהמאמן מסביר, בלי לדבר עם החבר. בחיים: מפנים מקום ישיבה באוטובוס לאדם מבוגר.",
+      "ru": "В додзё: молча слушаем, когда тренер объясняет, не болтаем с другом. В жизни: уступаем место в автобусе пожилому человеку.",
+      "en": "In the dojo: listen quietly while the coach explains, without chatting to a friend. In life: give your bus seat to an older person.",
+      "de": "Im Dojo: Du hörst still zu, wenn der Trainer etwas erklärt, und quatschst nicht mit deinem Freund. Im Leben: Du bietest einem älteren Menschen im Bus deinen Platz an."
+     },
+     "attribution": null
+    },
+    {
+     "id": "self_control",
+     "term": null,
+     "title": {
+      "he": "שליטה עצמית",
+      "ru": "Самоконтроль",
+      "en": "Self-control",
+      "de": "Selbstbeherrschung"
+     },
+     "kids": {
+      "he": "גם כשכועסים, לא מרביצים ולא צועקים. נושמים עמוק ומחכים רגע. ככה שומרים על עצמנו ועל אחרים.",
+      "ru": "Даже когда злимся, не деремся и не кричим. Глубоко вдыхаем и ждём минутку. Так мы бережём себя и других.",
+      "en": "Even when we’re angry, we don’t hit or shout. We take a deep breath and wait a moment. That keeps us and others safe.",
+      "de": "Auch wenn du wütend bist, schlägst und schreist du nicht. Du atmest tief durch und wartest kurz. So schützt du dich und andere."
+     },
+     "adults": {
+      "he": "שליטה עצמית היא היכולת לנהל את הרגשות ואת הגוף גם ברגעים קשים. בג׳ודו לומדים טכניקות שעלולות לפגוע, ולכן חשוב במיוחד לדעת מתי לעצור: כשהשותף מסמן שמספיק, משחררים מיד. בקרב, מי ששומרים על קור רוח רואים את ההזדמנויות, ומי שמתרגזים עושים טעויות. שליטה עצמית נוגעת גם להרגלים: להגיע לאימון בזמן, לאכול ולישון כמו שצריך ולהתמיד גם כשאין חשק. אולי זה הערך שהכי עובר מהמזרן אל החיים.",
+      "ru": "Самоконтроль – это умение управлять чувствами и телом даже в трудные моменты. В дзюдо мы учим приёмы, которые могут навредить, поэтому особенно важно знать, когда остановиться: если партнёр показывает, что хватит, сразу отпускаем. В схватке тот, кто сохраняет спокойствие, видит возможности, а кто злится, ошибается. Самоконтроль касается и привычек: приходить вовремя, правильно есть и спать, продолжать, даже когда нет настроения. Возможно, именно эта ценность легче всего переходит с татами в жизнь.",
+      "en": "Self-control is the ability to manage our emotions and our body, even in hard moments. In judo we learn techniques that can hurt, so it is especially important to know when to stop: when a partner signals enough, we let go at once. In a match, those who stay calm see the openings, and those who get angry make mistakes. Self-control also covers habits: arriving on time, eating and sleeping well, and keeping going when we don’t feel like it. It may be the value that carries most clearly from the mat into life.",
+      "de": "Selbstbeherrschung ist die Fähigkeit, Gefühle und Körper auch in schwierigen Momenten zu lenken. Im Judo lernst du Techniken, die verletzen können, deshalb ist es besonders wichtig zu wissen, wann Schluss ist: Wenn dein Partner zeigt, dass es genug ist, lässt du sofort los. Im Kampf sieht, wer ruhig bleibt, die Gelegenheiten, und wer sich ärgert, macht Fehler. Selbstbeherrschung betrifft auch Gewohnheiten: pünktlich zum Training kommen, gut essen und schlafen und dranbleiben, auch wenn du keine Lust hast. Vielleicht ist das der Wert, der am deutlichsten von der Matte ins Leben wirkt."
+     },
+     "example": {
+      "he": "בדוג׳ו: כשהשותף טופח על המזרן או עלינו, משחררים מיד. בחיים: כשאח קטן מעצבן, אומרים לו במילים במקום לדחוף.",
+      "ru": "В додзё: когда партнёр хлопает по татами или по нам, сразу отпускаем. В жизни: когда младший брат раздражает, говорим ему словами, а не толкаемся.",
+      "en": "In the dojo: when your partner taps the mat or you, let go immediately. In life: when a little brother annoys you, tell him in words instead of pushing.",
+      "de": "Im Dojo: Wenn dein Partner auf die Matte oder auf dich klopft, lässt du sofort los. Im Leben: Wenn dein kleiner Bruder nervt, sagst du es ihm mit Worten, statt ihn zu schubsen."
+     },
+     "attribution": null
+    },
+    {
+     "id": "friendship",
+     "term": null,
+     "title": {
+      "he": "חברות",
+      "ru": "Дружба",
+      "en": "Friendship",
+      "de": "Freundschaft"
+     },
+     "kids": {
+      "he": "במועדון יש לנו חברים. עוזרים זה לזה, מעודדים ושמחים כשאחרים מצליחים.",
+      "ru": "В клубе у нас есть друзья. Мы помогаем друг другу, поддерживаем и радуемся, когда у других получается.",
+      "en": "At the club we have friends. We help each other, cheer each other on and are happy when others succeed.",
+      "de": "Im Verein hast du Freunde. Ihr helft euch, feuert euch an und freut euch, wenn anderen etwas gelingt."
+     },
+     "adults": {
+      "he": "בג׳ודו לומדים להיות חברים גם של מי שמתחרים מולם. מתאמנים יחד שוב ושוב, נופלים זה בשביל זה ומעודדים בתחרויות, וכך נוצרים קשרים שנמשכים שנים. חברות טובה במועדון פירושה לקבל מתאמנים חדשים, לעזור למי שמתקשים ולשמוח בהצלחה של אחרים. יריבים בתחרות יכולים להיות חברים מחוץ למזרן, כי שניהם יודעים כמה עבודה הושקעה. זה הקשר הישיר לעיקרון ג׳יטה קיואיי: מתקדמים ביחד.",
+      "ru": "В дзюдо мы учимся дружить и с теми, против кого выходим на схватку. Мы снова и снова тренируемся вместе, падаем друг для друга и поддерживаем на соревнованиях, и так возникают связи на годы. Хорошая дружба в клубе значит принимать новичков, помогать тем, кому трудно, и радоваться успехам других. Соперники на соревнованиях могут быть друзьями вне татами, ведь оба знают, сколько труда вложено. Это прямая связь с принципом Дзита кёэй: растём вместе.",
+      "en": "In judo we learn to be friends even with those we compete against. We train together again and again, fall for each other and cheer at competitions, and that builds bonds that last for years. Good friendship at the club means welcoming newcomers, helping those who struggle and being glad when others succeed. Rivals in competition can be friends off the mat, because both know how much work went in. This links directly to the Jita Kyoei principle: we progress together.",
+      "de": "Im Judo lernst du, auch mit denen befreundet zu sein, gegen die du kämpfst. Ihr trainiert immer wieder zusammen, fallt füreinander und feuert euch bei Wettkämpfen an, so entstehen Freundschaften für viele Jahre. Gute Freundschaft im Verein heißt, Neue willkommen zu heißen, denen zu helfen, die sich schwertun, und sich über den Erfolg anderer zu freuen. Gegner im Wettkampf können neben der Matte Freunde sein, weil beide wissen, wie viel Arbeit dahintersteckt. Das ist die direkte Verbindung zum Prinzip Jita Kyoei: gemeinsam vorankommen."
+     },
+     "example": {
+      "he": "בדוג׳ו: מראים לילד חדש איפה שמים את הנעליים ומתרגלים איתו. בחיים: מתקשרים לחבר חולה ומספרים לו מה למדנו בכיתה.",
+      "ru": "В додзё: показываем новичку, где оставить обувь, и тренируемся с ним. В жизни: звоним заболевшему другу и рассказываем, что прошли в классе.",
+      "en": "In the dojo: show a new child where to leave their shoes and practise with them. In life: call a sick friend and tell them what you learned in class.",
+      "de": "Im Dojo: Du zeigst einem neuen Kind, wo die Schuhe hinkommen, und übst mit ihm. Im Leben: Du rufst einen kranken Freund an und erzählst ihm, was ihr in der Schule gemacht habt."
+     },
+     "attribution": null
+    }
+   ]
+  },
+  {
+   "id": "etiquette",
+   "title": {
+    "he": "נימוסי הדוג׳ו",
+    "ru": "Этикет в додзё",
+    "en": "Dojo etiquette",
+    "de": "Etikette im Dojo"
+   },
+   "cards": [
+    {
+     "id": "rei",
+     "title": {
+      "he": "הקידה (ריי)",
+      "ru": "Поклон (рэй)",
+      "en": "The bow (rei)",
+      "de": "Die Verbeugung (Rei)"
+     },
+     "kids": {
+      "he": "קידה היא הדרך היפנית להגיד שלום ותודה. קדים כשנכנסים לאולם, לפני ואחרי תרגול עם שותף, ובסוף האימון.",
+      "ru": "Поклон – это японский способ сказать «здравствуй» и «спасибо». Мы кланяемся, когда входим в зал, до и после упражнения с партнёром и в конце тренировки.",
+      "en": "A bow is the Japanese way of saying hello and thank you. We bow when we enter the hall, before and after practising with a partner, and at the end of training.",
+      "de": "Die Verbeugung ist die japanische Art, Hallo und Danke zu sagen. Du verbeugst dich, wenn du die Halle betrittst, vor und nach der Übung mit einem Partner und am Ende des Trainings."
+     },
+     "adults": {
+      "he": "הקידה, ״ריי״ ביפנית, היא סימן של כבוד ותודה. קדים בכניסה לאולם וביציאה ממנו, בתחילת האימון ובסופו, ולפני ואחרי כל תרגול או קרב עם שותף. יש קידה בעמידה וקידה בישיבה על הברכיים, והמאמן מלמד מתי עושים כל אחת. הקידה היא לא טקס ריק: זה רגע קצר להתרכז, להשאיר בחוץ את מה שהיה קודם ולזכור שהשותף הוא לא אויב. גם אחרי קרב קשה, הקידה מסיימת אותו בכבוד הדדי.",
+      "ru": "Поклон, по-японски «рэй», – это знак уважения и благодарности. Мы кланяемся, входя в зал и выходя из него, в начале и в конце тренировки, до и после каждого упражнения или схватки с партнёром. Есть поклон стоя и поклон сидя на коленях, и тренер объясняет, когда делать каждый. Поклон не пустой ритуал: это короткий момент, чтобы собраться, оставить за дверью то, что было раньше, и вспомнить, что партнёр не враг. Даже после тяжёлой схватки поклон завершает её взаимным уважением.",
+      "en": "The bow, “rei” in Japanese, is a sign of respect and thanks. We bow when entering and leaving the hall, at the start and end of training, and before and after every exercise or match with a partner. There is a standing bow and a kneeling bow, and the coach teaches when to use each. The bow is not an empty ritual: it is a short moment to focus, leave behind what happened before and remember that our partner is not an enemy. Even after a tough match, the bow ends it with mutual respect.",
+      "de": "Die Verbeugung, auf Japanisch „Rei“, ist ein Zeichen von Respekt und Dank. Du verbeugst dich beim Betreten und Verlassen der Halle, am Anfang und Ende des Trainings und vor und nach jeder Übung oder jedem Kampf mit einem Partner. Es gibt die Verbeugung im Stehen und im Knien, und der Trainer zeigt dir, wann welche dran ist. Die Verbeugung ist kein leeres Ritual: Sie ist ein kurzer Moment, um dich zu sammeln, das Vorherige draußen zu lassen und daran zu denken, dass dein Partner kein Feind ist. Auch nach einem harten Kampf beendet sie ihn mit gegenseitigem Respekt."
+     },
+     "attribution": null,
+     "example": null
+    },
+    {
+     "id": "tatami",
+     "title": {
+      "he": "על המזרן (טטמי)",
+      "ru": "На татами",
+      "en": "On the mat (tatami)",
+      "de": "Auf der Matte (Tatami)"
+     },
+     "kids": {
+      "he": "עולים למזרן יחפים, עם רגליים נקיות וציפורניים קצרות. קדים כשעולים למזרן וכשיורדים ממנו. לא יוצאים מהמזרן בלי לשאול את המאמן.",
+      "ru": "На татами выходим босиком, с чистыми ногами и коротко подстриженными ногтями. Кланяемся, когда встаём на татами и когда сходим с него. Не уходим с татами, не спросив тренера.",
+      "en": "We step on the mat barefoot, with clean feet and short nails. We bow when we step on and off the mat. We don’t leave the mat without asking the coach.",
+      "de": "Du gehst barfuß auf die Matte, mit sauberen Füßen und kurzen Nägeln. Du verbeugst dich, wenn du auf die Matte gehst und wenn du sie verlässt. Du gehst nicht von der Matte, ohne den Trainer zu fragen."
+     },
+     "adults": {
+      "he": "המזרן, טטמי, הוא המקום שבו אנחנו נופלים ונוגעים זה בזה, ולכן שומרים עליו נקי ובטוח. לא עולים עליו בנעליים, ומגיעים אליו בכפכפים כדי שכפות הרגליים יישארו נקיות. ציפורני הידיים והרגליים קצרות, תכשיטים ושעונים מורידים, ושיער ארוך אוספים. עולים למזרן ויורדים ממנו בקידה, ולא יוצאים באמצע האימון בלי לבקש רשות מהמאמן, גם כדי שהמאמן יידע איפה כל מתאמן. מי שמגיעים באיחור מחכים בקצה המזרן עד שהמאמן מסמן להם להצטרף.",
+      "ru": "Татами – это место, где мы падаем и касаемся друг друга, поэтому его держат чистым и безопасным. На татами не ступают в обуви, а подходят к нему в шлёпанцах, чтобы ноги оставались чистыми. Ногти на руках и ногах короткие, украшения и часы снимаем, длинные волосы собираем. На татами встаём и сходим с него с поклоном и не уходим посреди тренировки, не спросив тренера, ещё и для того, чтобы тренер знал, где каждый. Кто опоздал, ждёт у края татами, пока тренер не разрешит присоединиться.",
+      "en": "The mat, tatami, is where we fall and touch each other, so we keep it clean and safe. No shoes on the mat, and we walk to it in flip-flops so our feet stay clean. Fingernails and toenails are short, jewellery and watches come off, and long hair is tied back. We step on and off the mat with a bow and don’t leave in the middle of training without asking the coach, also so the coach knows where everyone is. Anyone who arrives late waits at the edge of the mat until the coach signals them to join.",
+      "de": "Die Matte, Tatami, ist der Ort, an dem wir fallen und uns berühren, deshalb halten wir sie sauber und sicher. Keine Schuhe auf der Matte, und du gehst in Badelatschen hin, damit deine Füße sauber bleiben. Finger- und Fußnägel sind kurz, Schmuck und Uhren legst du ab, lange Haare bindest du zusammen. Du betrittst und verlässt die Matte mit einer Verbeugung und gehst mitten im Training nicht weg, ohne den Trainer zu fragen, auch damit er weiß, wo alle sind. Wenn du zu spät kommst, wartest du am Mattenrand, bis der Trainer dir ein Zeichen gibt."
+     },
+     "attribution": null,
+     "example": null
+    },
+    {
+     "id": "partner",
+     "title": {
+      "he": "השותף לאימון (אוקה)",
+      "ru": "Партнёр (уке)",
+      "en": "Your partner (uke)",
+      "de": "Dein Partner (Uke)"
+     },
+     "kids": {
+      "he": "השותף שנופל בשבילנו נקרא אוקה. מטילים אותו בזהירות ועוזרים לו ליפול טוב. בסוף אומרים לו תודה.",
+      "ru": "Партнёр, который падает для нас, называется уке. Мы бросаем его аккуратно и помогаем ему хорошо упасть. В конце говорим ему «спасибо».",
+      "en": "The partner who falls for us is called uke. We throw them carefully and help them land well. At the end we say thank you.",
+      "de": "Der Partner, der für dich fällt, heißt Uke. Du wirfst ihn vorsichtig und hilfst ihm, gut zu fallen. Am Ende sagst du Danke."
+     },
+     "adults": {
+      "he": "בתרגול, מי שמבצעים את הטכניקה נקראים טורי, ומי שמקבלים אותה ונופלים נקראים אוקה. בלי אוקה אי אפשר ללמוד ג׳ודו, ולכן אוקה הוא שותף, לא ״בובה״. מטילים בשליטה, מחזיקים את השרוול כדי שהשותף ינחת נכון, ומתאימים את הכוח לגיל, לגודל ולרמה שלו. אם השותף טופח או אומר שכואב, עוצרים מיד. כשמגיע התור שלנו להיות אוקה, נופלים נכון ומשתפים פעולה, כי ככה גם השותף לומד. בסוף התרגול קדים ומודים זה לזה.",
+      "ru": "В упражнении тот, кто выполняет приём, называется тори, а тот, кто принимает его и падает, называется уке. Без уке дзюдо не выучить, поэтому уке – партнёр, а не «манекен». Бросаем под контролем, держим рукав, чтобы партнёр правильно приземлился, и подбираем силу по его возрасту, размеру и уровню. Если партнёр хлопает или говорит, что больно, сразу останавливаемся. Когда наша очередь быть уке, падаем правильно и помогаем, ведь так учится и партнёр. В конце упражнения кланяемся и благодарим друг друга.",
+      "en": "In practice, the person doing the technique is called tori, and the one receiving it and falling is called uke. Without uke nobody can learn judo, so uke is a partner, not a “dummy”. We throw with control, hold the sleeve so our partner lands correctly, and match our strength to their age, size and level. If our partner taps or says it hurts, we stop at once. When it’s our turn to be uke, we fall properly and cooperate, because that is how our partner learns too. At the end we bow and thank each other.",
+      "de": "Beim Üben heißt, wer die Technik ausführt, Tori, und wer sie annimmt und fällt, Uke. Ohne Uke kann niemand Judo lernen, deshalb ist Uke ein Partner und keine „Puppe“. Du wirfst kontrolliert, hältst den Ärmel fest, damit dein Partner richtig landet, und passt deine Kraft an sein Alter, seine Größe und sein Können an. Wenn dein Partner abklopft oder sagt, dass es wehtut, hörst du sofort auf. Wenn du Uke bist, fällst du richtig und machst mit, denn so lernt auch dein Partner. Am Ende verbeugt ihr euch und bedankt euch beieinander."
+     },
+     "attribution": null,
+     "example": null
+    },
+    {
+     "id": "sensei",
+     "title": {
+      "he": "המאמן (סנסיי) והוותיקים",
+      "ru": "Сэнсэй и старшие",
+      "en": "The sensei and seniors",
+      "de": "Sensei und Fortgeschrittene"
+     },
+     "kids": {
+      "he": "למאמן בג׳ודו קוראים סנסיי. מקשיבים לו, עונים בנימוס ועושים מה שהוא מבקש. מכבדים גם מתאמנים ותיקים שעוזרים לנו.",
+      "ru": "Тренера в дзюдо называют сэнсэй. Мы слушаем его, вежливо отвечаем и делаем то, что он просит. Мы уважаем и старших ребят, которые нам помогают.",
+      "en": "In judo the coach is called sensei. We listen, answer politely and do what the sensei asks. We also respect older students who help us.",
+      "de": "Im Judo heißt der Trainer Sensei. Du hörst zu, antwortest höflich und machst, worum er bittet. Du respektierst auch die Fortgeschrittenen, die dir helfen."
+     },
+     "adults": {
+      "he": "״סנסיי״ ביפנית פירושו מורה, ומילולית בערך ״מי שהקדים אותנו בדרך״. מכבדים את המאמן כי הוא אחראי על הלימוד ועל הבטיחות של כולם: מקשיבים כשהוא מדבר, לא מתווכחים באמצע האימון, ושואלים שאלות בזמן המתאים. גם מתאמנים ותיקים ובעלי חגורות גבוהות ראויים לכבוד, כי הם חלק מהמועדון ומשמשים דוגמה לצעירים. מצד שני, הכבוד בא יחד עם אחריות: מי שוותיקים יותר עוזרים לחדשים ומתנהגים כמו שהיו רוצים שיתנהגו אליהם. מועדון עם כבוד הדדי בין מאמנים, ותיקים וחדשים הוא מקום בטוח וטוב להתאמן בו.",
+      "ru": "«Сэнсэй» по-японски значит учитель, а дословно примерно «тот, кто прошёл путь раньше». Тренера уважают, потому что он отвечает за обучение и безопасность всех: слушаем, когда он говорит, не спорим посреди тренировки и задаём вопросы в подходящий момент. Уважения заслуживают и опытные спортсмены с высокими поясами: они часть клуба и пример для младших. Но уважение идёт вместе с ответственностью: старшие помогают новичкам и ведут себя так, как хотели бы, чтобы вели себя с ними. Клуб, где тренеры, старшие и новички уважают друг друга, – это безопасное и хорошее место для тренировок.",
+      "en": "“Sensei” means teacher in Japanese, literally something like “one who went before”. We respect the coach because they are responsible for everyone’s learning and safety: we listen when they speak, don’t argue in the middle of training, and ask questions at the right time. Experienced students and higher belts also deserve respect, since they are part of the club and set an example for younger ones. At the same time, respect comes with responsibility: seniors help newcomers and treat them the way they would like to be treated. A club with mutual respect between coaches, seniors and beginners is a safe and good place to train.",
+      "de": "„Sensei“ heißt auf Japanisch Lehrer, wörtlich ungefähr „jemand, der den Weg vorausgegangen ist“. Du respektierst den Trainer, weil er für das Lernen und die Sicherheit aller verantwortlich ist: Du hörst zu, wenn er spricht, diskutierst nicht mitten im Training und stellst Fragen im passenden Moment. Auch erfahrene Judoka mit hohen Gürteln verdienen Respekt, denn sie gehören zum Verein und sind Vorbilder für die Jüngeren. Gleichzeitig bringt Respekt Verantwortung mit sich: Fortgeschrittene helfen Neuen und behandeln sie so, wie sie selbst behandelt werden möchten. Ein Verein mit gegenseitigem Respekt zwischen Trainern, Fortgeschrittenen und Anfängern ist ein sicherer und guter Ort zum Trainieren."
+     },
+     "attribution": null,
+     "example": null
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": {
+    "he": "מי המציא את הג׳ודו?",
+    "ru": "Кто создал дзюдо?",
+    "en": "Who created judo?",
+    "de": "Wer hat Judo erfunden?"
+   },
+   "options": [
+    {
+     "he": "ג׳יגורו קאנו",
+     "ru": "Дзигоро Кано",
+     "en": "Jigoro Kano",
+     "de": "Jigoro Kano"
+    },
+    {
+     "he": "מלך יפן",
+     "ru": "Император Японии",
+     "en": "The emperor of Japan",
+     "de": "Der Kaiser von Japan"
+    },
+    {
+     "he": "מאמן כדורגל",
+     "ru": "Футбольный тренер",
+     "en": "A football coach",
+     "de": "Ein Fußballtrainer"
+    },
+    {
+     "he": "אף אחד, הוא תמיד היה",
+     "ru": "Никто, оно было всегда",
+     "en": "Nobody, it always existed",
+     "de": "Niemand, es gab es schon immer"
+    }
+   ],
+   "correct": 0,
+   "kids": true
+  },
+  {
+   "q": {
+    "he": "באיזו מדינה נולד הג׳ודו?",
+    "ru": "В какой стране родилось дзюдо?",
+    "en": "In which country was judo born?",
+    "de": "In welchem Land ist Judo entstanden?"
+   },
+   "options": [
+    {
+     "he": "סין",
+     "ru": "Китай",
+     "en": "China",
+     "de": "China"
+    },
+    {
+     "he": "יפן",
+     "ru": "Япония",
+     "en": "Japan",
+     "de": "Japan"
+    },
+    {
+     "he": "ברזיל",
+     "ru": "Бразилия",
+     "en": "Brazil",
+     "de": "Brasilien"
+    },
+    {
+     "he": "צרפת",
+     "ru": "Франция",
+     "en": "France",
+     "de": "Frankreich"
+    }
+   ],
+   "correct": 1,
+   "kids": true
+  },
+  {
+   "q": {
+    "he": "באיזו שנה נפתח הקודוקאן?",
+    "ru": "В каком году открылся Кодокан?",
+    "en": "In which year was the Kodokan founded?",
+    "de": "In welchem Jahr wurde der Kodokan gegründet?"
+   },
+   "options": [
+    {
+     "he": "1964",
+     "ru": "1964",
+     "en": "1964",
+     "de": "1964"
+    },
+    {
+     "he": "1992",
+     "ru": "1992",
+     "en": "1992",
+     "de": "1992"
+    },
+    {
+     "he": "1882",
+     "ru": "1882",
+     "en": "1882",
+     "de": "1882"
+    },
+    {
+     "he": "1938",
+     "ru": "1938",
+     "en": "1938",
+     "de": "1938"
+    }
+   ],
+   "correct": 2,
+   "kids": false
+  },
+  {
+   "q": {
+    "he": "באיזו עיר פתח קאנו את הקודוקאן?",
+    "ru": "В каком городе Кано открыл Кодокан?",
+    "en": "In which city did Kano open the Kodokan?",
+    "de": "In welcher Stadt eröffnete Kano den Kodokan?"
+   },
+   "options": [
+    {
+     "he": "אוסקה",
+     "ru": "Осака",
+     "en": "Osaka",
+     "de": "Osaka"
+    },
+    {
+     "he": "קיוטו",
+     "ru": "Киото",
+     "en": "Kyoto",
+     "de": "Kyoto"
+    },
+    {
+     "he": "בייג׳ינג",
+     "ru": "Пекин",
+     "en": "Beijing",
+     "de": "Peking"
+    },
+    {
+     "he": "טוקיו",
+     "ru": "Токио",
+     "en": "Tokyo",
+     "de": "Tokio"
+    }
+   ],
+   "correct": 3,
+   "kids": false
+  },
+  {
+   "q": {
+    "he": "מה פירוש ״דו״ בג׳ודו?",
+    "ru": "Что значит «до» в слове «дзюдо»?",
+    "en": "What does “do” in judo mean?",
+    "de": "Was bedeutet „do“ in Judo?"
+   },
+   "options": [
+    {
+     "he": "דרך",
+     "ru": "Путь",
+     "en": "Way",
+     "de": "Weg"
+    },
+    {
+     "he": "קרב",
+     "ru": "Бой",
+     "en": "Fight",
+     "de": "Kampf"
+    },
+    {
+     "he": "חגורה",
+     "ru": "Пояс",
+     "en": "Belt",
+     "de": "Gürtel"
+    },
+    {
+     "he": "כוח",
+     "ru": "Сила",
+     "en": "Strength",
+     "de": "Kraft"
+    }
+   ],
+   "correct": 0,
+   "kids": true
+  },
+  {
+   "q": {
+    "he": "מה פירוש ״ג׳ו״ בג׳ודו?",
+    "ru": "Что значит «дзю» в слове «дзюдо»?",
+    "en": "What does “ju” in judo mean?",
+    "de": "Was bedeutet „ju“ in Judo?"
+   },
+   "options": [
+    {
+     "he": "חזק",
+     "ru": "Сильный",
+     "en": "Strong",
+     "de": "Stark"
+    },
+    {
+     "he": "רך וגמיש",
+     "ru": "Мягкий, гибкий",
+     "en": "Gentle, flexible",
+     "de": "Sanft, nachgiebig"
+    },
+    {
+     "he": "מהיר",
+     "ru": "Быстрый",
+     "en": "Fast",
+     "de": "Schnell"
+    },
+    {
+     "he": "גדול",
+     "ru": "Большой",
+     "en": "Big",
+     "de": "Groß"
+    }
+   ],
+   "correct": 1,
+   "kids": true
+  },
+  {
+   "q": {
+    "he": "מה הכוונה ב״רך״ בג׳ודו?",
+    "ru": "Что значит «мягкий» в дзюдо?",
+    "en": "What does “gentle” mean in judo?",
+    "de": "Was bedeutet „sanft“ im Judo?"
+   },
+   "options": [
+    {
+     "he": "להיות חלשים",
+     "ru": "Быть слабым",
+     "en": "Being weak",
+     "de": "Schwach sein"
+    },
+    {
+     "he": "לא לגעת בשותף",
+     "ru": "Не касаться партнёра",
+     "en": "Not touching your partner",
+     "de": "Den Partner nicht berühren"
+    },
+    {
+     "he": "לנצל את הכוח והתנועה של היריב",
+     "ru": "Использовать силу и движение соперника",
+     "en": "Using the opponent’s force and movement",
+     "de": "Kraft und Bewegung des Gegners nutzen"
+    },
+    {
+     "he": "להתאמן רק לאט",
+     "ru": "Тренироваться только медленно",
+     "en": "Only training slowly",
+     "de": "Nur langsam trainieren"
+    }
+   ],
+   "correct": 2,
+   "kids": false
+  },
+  {
+   "q": {
+    "he": "מה פירוש סייריוקו זניו?",
+    "ru": "Что означает Сэйрёку дзэнъё?",
+    "en": "What does Seiryoku Zen’yo mean?",
+    "de": "Was bedeutet Seiryoku Zen’yo?"
+   },
+   "options": [
+    {
+     "he": "תועלת הדדית",
+     "ru": "Взаимная польза",
+     "en": "Mutual benefit",
+     "de": "Gegenseitiger Nutzen"
+    },
+    {
+     "he": "כבוד למאמן",
+     "ru": "Уважение к тренеру",
+     "en": "Respect for the coach",
+     "de": "Respekt vor dem Trainer"
+    },
+    {
+     "he": "קידה בעמידה",
+     "ru": "Поклон стоя",
+     "en": "Standing bow",
+     "de": "Verbeugung im Stehen"
+    },
+    {
+     "he": "ניצול מיטבי של הכוח",
+     "ru": "Максимальная эффективность",
+     "en": "Maximum efficiency",
+     "de": "Größte Wirksamkeit"
+    }
+   ],
+   "correct": 3,
+   "kids": false
+  },
+  {
+   "q": {
+    "he": "מה פירוש ג׳יטה קיואיי?",
+    "ru": "Что означает Дзита кёэй?",
+    "en": "What does Jita Kyoei mean?",
+    "de": "Was bedeutet Jita Kyoei?"
+   },
+   "options": [
+    {
+     "he": "תועלת ורווחה הדדיות",
+     "ru": "Взаимная польза и процветание",
+     "en": "Mutual welfare and benefit",
+     "de": "Gegenseitiges Wohl und Nutzen"
+    },
+    {
+     "he": "ניצחון בכל מחיר",
+     "ru": "Победа любой ценой",
+     "en": "Winning at any cost",
+     "de": "Siegen um jeden Preis"
+    },
+    {
+     "he": "הטלה מעל הכתף",
+     "ru": "Бросок через плечо",
+     "en": "A shoulder throw",
+     "de": "Ein Schulterwurf"
+    },
+    {
+     "he": "חגורה שחורה",
+     "ru": "Чёрный пояс",
+     "en": "Black belt",
+     "de": "Schwarzer Gürtel"
+    }
+   ],
+   "correct": 0,
+   "kids": false
+  },
+  {
+   "q": {
+    "he": "מאיפה בא השם של האפליקציה Jita?",
+    "ru": "Откуда название приложения Jita?",
+    "en": "Where does the app name Jita come from?",
+    "de": "Woher kommt der Name der App Jita?"
+   },
+   "options": [
+    {
+     "he": "שם של עיר ביפן",
+     "ru": "Название города в Японии",
+     "en": "A city in Japan",
+     "de": "Eine Stadt in Japan"
+    },
+    {
+     "he": "מהעיקרון ג׳יטה קיואיי",
+     "ru": "От принципа Дзита кёэй",
+     "en": "The Jita Kyoei principle",
+     "de": "Vom Prinzip Jita Kyoei"
+    },
+    {
+     "he": "שם של הטלה",
+     "ru": "Название броска",
+     "en": "The name of a throw",
+     "de": "Der Name eines Wurfs"
+    },
+    {
+     "he": "שם של מאמן",
+     "ru": "Имя тренера",
+     "en": "A coach’s name",
+     "de": "Der Name eines Trainers"
+    }
+   ],
+   "correct": 1,
+   "kids": true
+  },
+  {
+   "q": {
+    "he": "באילו משחקים אולימפיים נכנס הג׳ודו לראשונה?",
+    "ru": "На каких Олимпийских играх впервые появилось дзюдо?",
+    "en": "At which Olympic Games did judo first appear?",
+    "de": "Bei welchen Olympischen Spielen war Judo zum ersten Mal dabei?"
+   },
+   "options": [
+    {
+     "he": "ברצלונה 1992",
+     "ru": "Барселона 1992",
+     "en": "Barcelona 1992",
+     "de": "Barcelona 1992"
+    },
+    {
+     "he": "טוקיו 1964",
+     "ru": "Токио 1964",
+     "en": "Tokyo 1964",
+     "de": "Tokio 1964"
+    },
+    {
+     "he": "טוקיו 1882",
+     "ru": "Токио 1882",
+     "en": "Tokyo 1882",
+     "de": "Tokio 1882"
+    },
+    {
+     "he": "פריז 2024",
+     "ru": "Париж 2024",
+     "en": "Paris 2024",
+     "de": "Paris 2024"
+    }
+   ],
+   "correct": 1,
+   "kids": false
+  },
+  {
+   "q": {
+    "he": "מאיזו שנה נשים מתחרות בג׳ודו באולימפיאדה?",
+    "ru": "С какого года женщины выступают в дзюдо на Олимпиадах?",
+    "en": "Since which year have women competed in Olympic judo?",
+    "de": "Seit welchem Jahr kämpfen Frauen im olympischen Judo?"
+   },
+   "options": [
+    {
+     "he": "1964",
+     "ru": "1964",
+     "en": "1964",
+     "de": "1964"
+    },
+    {
+     "he": "1882",
+     "ru": "1882",
+     "en": "1882",
+     "de": "1882"
+    },
+    {
+     "he": "1992",
+     "ru": "1992",
+     "en": "1992",
+     "de": "1992"
+    },
+    {
+     "he": "2020",
+     "ru": "2020",
+     "en": "2020",
+     "de": "2020"
+    }
+   ],
+   "correct": 2,
+   "kids": false
+  },
+  {
+   "q": {
+    "he": "מה עושים כשנכנסים לדוג׳ו?",
+    "ru": "Что мы делаем, входя в додзё?",
+    "en": "What do we do when we enter the dojo?",
+    "de": "Was machst du, wenn du das Dojo betrittst?"
+   },
+   "options": [
+    {
+     "he": "רצים ישר למזרן",
+     "ru": "Бежим прямо на татами",
+     "en": "Run straight onto the mat",
+     "de": "Direkt auf die Matte rennen"
+    },
+    {
+     "he": "צועקים שלום",
+     "ru": "Громко кричим «привет»",
+     "en": "Shout hello",
+     "de": "Laut Hallo rufen"
+    },
+    {
+     "he": "מורידים את החגורה",
+     "ru": "Снимаем пояс",
+     "en": "Take off the belt",
+     "de": "Den Gürtel abnehmen"
+    },
+    {
+     "he": "קדים",
+     "ru": "Кланяемся",
+     "en": "Bow",
+     "de": "Uns verbeugen"
+    }
+   ],
+   "correct": 3,
+   "kids": true
+  },
+  {
+   "q": {
+    "he": "מה זה ״ריי״?",
+    "ru": "Что такое «рэй»?",
+    "en": "What is “rei”?",
+    "de": "Was ist „Rei“?"
+   },
+   "options": [
+    {
+     "he": "קידה",
+     "ru": "Поклон",
+     "en": "A bow",
+     "de": "Eine Verbeugung"
+    },
+    {
+     "he": "הטלה",
+     "ru": "Бросок",
+     "en": "A throw",
+     "de": "Ein Wurf"
+    },
+    {
+     "he": "חגורה",
+     "ru": "Пояс",
+     "en": "A belt",
+     "de": "Ein Gürtel"
+    },
+    {
+     "he": "מזרן",
+     "ru": "Татами",
+     "en": "A mat",
+     "de": "Eine Matte"
+    }
+   ],
+   "correct": 0,
+   "kids": true
+  },
+  {
+   "q": {
+    "he": "איך עולים על הטטמי?",
+    "ru": "Как выходят на татами?",
+    "en": "How do we step onto the tatami?",
+    "de": "Wie gehst du auf die Tatami?"
+   },
+   "options": [
+    {
+     "he": "בנעלי ספורט",
+     "ru": "В кроссовках",
+     "en": "In trainers",
+     "de": "In Turnschuhen"
+    },
+    {
+     "he": "יחפים, ברגליים נקיות",
+     "ru": "Босиком, с чистыми ногами",
+     "en": "Barefoot, with clean feet",
+     "de": "Barfuß, mit sauberen Füßen"
+    },
+    {
+     "he": "בגרביים",
+     "ru": "В носках",
+     "en": "In socks",
+     "de": "In Socken"
+    },
+    {
+     "he": "בכפכפים",
+     "ru": "В шлёпанцах",
+     "en": "In flip-flops",
+     "de": "In Badelatschen"
+    }
+   ],
+   "correct": 1,
+   "kids": true
+  },
+  {
+   "q": {
+    "he": "איך צריכות להיות הציפורניים באימון?",
+    "ru": "Какими должны быть ногти на тренировке?",
+    "en": "How should your nails be at training?",
+    "de": "Wie sollen deine Nägel beim Training sein?"
+   },
+   "options": [
+    {
+     "he": "ארוכות",
+     "ru": "Длинными",
+     "en": "Long",
+     "de": "Lang"
+    },
+    {
+     "he": "צבועות",
+     "ru": "Накрашенными",
+     "en": "Painted",
+     "de": "Lackiert"
+    },
+    {
+     "he": "קצרות ונקיות",
+     "ru": "Короткими и чистыми",
+     "en": "Short and clean",
+     "de": "Kurz und sauber"
+    },
+    {
+     "he": "לא משנה",
+     "ru": "Неважно",
+     "en": "It doesn’t matter",
+     "de": "Egal"
+    }
+   ],
+   "correct": 2,
+   "kids": true
+  },
+  {
+   "q": {
+    "he": "מי זה אוקה?",
+    "ru": "Кто такой уке?",
+    "en": "Who is uke?",
+    "de": "Wer ist Uke?"
+   },
+   "options": [
+    {
+     "he": "המאמן",
+     "ru": "Тренер",
+     "en": "The coach",
+     "de": "Der Trainer"
+    },
+    {
+     "he": "השופט",
+     "ru": "Судья",
+     "en": "The referee",
+     "de": "Der Kampfrichter"
+    },
+    {
+     "he": "המנצח",
+     "ru": "Победитель",
+     "en": "The winner",
+     "de": "Der Sieger"
+    },
+    {
+     "he": "השותף שמקבל את הטכניקה ונופל",
+     "ru": "Партнёр, который принимает приём и падает",
+     "en": "The partner who receives the technique and falls",
+     "de": "Der Partner, der die Technik annimmt und fällt"
+    }
+   ],
+   "correct": 3,
+   "kids": true
+  },
+  {
+   "q": {
+    "he": "מי זה טורי?",
+    "ru": "Кто такой тори?",
+    "en": "Who is tori?",
+    "de": "Wer ist Tori?"
+   },
+   "options": [
+    {
+     "he": "מי שמבצעים את הטכניקה",
+     "ru": "Тот, кто выполняет приём",
+     "en": "The one doing the technique",
+     "de": "Wer die Technik ausführt"
+    },
+    {
+     "he": "מי שנופלים",
+     "ru": "Тот, кто падает",
+     "en": "The one who falls",
+     "de": "Wer fällt"
+    },
+    {
+     "he": "השופט",
+     "ru": "Судья",
+     "en": "The referee",
+     "de": "Der Kampfrichter"
+    },
+    {
+     "he": "ההורה שבצד",
+     "ru": "Родитель у края зала",
+     "en": "The parent at the side",
+     "de": "Ein Elternteil am Rand"
+    }
+   ],
+   "correct": 0,
+   "kids": false
+  },
+  {
+   "q": {
+    "he": "השותף טופח על המזרן. מה עושים?",
+    "ru": "Партнёр хлопает по татами. Что делаем?",
+    "en": "Your partner taps the mat. What do you do?",
+    "de": "Dein Partner klopft auf die Matte. Was tust du?"
+   },
+   "options": [
+    {
+     "he": "ממשיכים",
+     "ru": "Продолжаем",
+     "en": "Keep going",
+     "de": "Weitermachen"
+    },
+    {
+     "he": "משחררים מיד",
+     "ru": "Сразу отпускаем",
+     "en": "Let go immediately",
+     "de": "Sofort loslassen"
+    },
+    {
+     "he": "לוחצים חזק יותר",
+     "ru": "Давим сильнее",
+     "en": "Squeeze harder",
+     "de": "Fester drücken"
+    },
+    {
+     "he": "מחכים לסוף האימון",
+     "ru": "Ждём конца тренировки",
+     "en": "Wait for the end of training",
+     "de": "Bis zum Trainingsende warten"
+    }
+   ],
+   "correct": 1,
+   "kids": true
+  },
+  {
+   "q": {
+    "he": "צריך לצאת מהמזרן באמצע האימון. מה עושים?",
+    "ru": "Нужно уйти с татами посреди тренировки. Что делаем?",
+    "en": "You need to leave the mat during training. What do you do?",
+    "de": "Du musst mitten im Training von der Matte. Was tust du?"
+   },
+   "options": [
+    {
+     "he": "פשוט יוצאים",
+     "ru": "Просто уходим",
+     "en": "Just walk off",
+     "de": "Einfach gehen"
+    },
+    {
+     "he": "רצים החוצה",
+     "ru": "Выбегаем",
+     "en": "Run out",
+     "de": "Hinausrennen"
+    },
+    {
+     "he": "מבקשים רשות מהמאמן",
+     "ru": "Спрашиваем разрешения у тренера",
+     "en": "Ask the coach",
+     "de": "Den Trainer fragen"
+    },
+    {
+     "he": "מבקשים מחבר להגיד למאמן אחר כך",
+     "ru": "Просим друга сказать тренеру потом",
+     "en": "Ask a friend to tell the coach later",
+     "de": "Einen Freund bitten, es später zu sagen"
+    }
+   ],
+   "correct": 2,
+   "kids": true
+  },
+  {
+   "q": {
+    "he": "הפסדנו בקרב. מה עושים?",
+    "ru": "Мы проиграли схватку. Что делаем?",
+    "en": "You lost a match. What do you do?",
+    "de": "Du hast einen Kampf verloren. Was tust du?"
+   },
+   "options": [
+    {
+     "he": "מתווכחים עם השופט",
+     "ru": "Спорим с судьёй",
+     "en": "Argue with the referee",
+     "de": "Mit dem Kampfrichter streiten"
+    },
+    {
+     "he": "יוצאים בלי קידה",
+     "ru": "Уходим без поклона",
+     "en": "Leave without bowing",
+     "de": "Ohne Verbeugung gehen"
+    },
+    {
+     "he": "זורקים את החגורה",
+     "ru": "Бросаем пояс",
+     "en": "Throw down the belt",
+     "de": "Den Gürtel hinwerfen"
+    },
+    {
+     "he": "קדים ולוחצים יד ליריב",
+     "ru": "Кланяемся и жмём руку сопернику",
+     "en": "Bow and shake hands",
+     "de": "Verbeugen und Hand geben"
+    }
+   ],
+   "correct": 3,
+   "kids": true
+  },
+  {
+   "q": {
+    "he": "מה זה אומץ?",
+    "ru": "Что такое смелость?",
+    "en": "What is courage?",
+    "de": "Was ist Mut?"
+   },
+   "options": [
+    {
+     "he": "לנסות גם כשקצת מפחדים",
+     "ru": "Пробовать, даже когда немного страшно",
+     "en": "Trying even when a bit scared",
+     "de": "Es versuchen, auch mit etwas Angst"
+    },
+    {
+     "he": "אף פעם לא לפחד",
+     "ru": "Никогда не бояться",
+     "en": "Never being afraid",
+     "de": "Nie Angst haben"
+    },
+    {
+     "he": "להרביץ ראשונים",
+     "ru": "Ударить первым",
+     "en": "Hitting first",
+     "de": "Zuerst zuschlagen"
+    },
+    {
+     "he": "לצעוק חזק",
+     "ru": "Громко кричать",
+     "en": "Shouting loudly",
+     "de": "Laut schreien"
+    }
+   ],
+   "correct": 0,
+   "kids": true
+  },
+  {
+   "q": {
+    "he": "מה מהבאים הוא דוגמה לצניעות?",
+    "ru": "Что из этого пример скромности?",
+    "en": "Which is an example of modesty?",
+    "de": "Was ist ein Beispiel für Bescheidenheit?"
+   },
+   "options": [
+    {
+     "he": "להתרברב אחרי ניצחון",
+     "ru": "Хвастаться после победы",
+     "en": "Boasting after a win",
+     "de": "Nach einem Sieg angeben"
+    },
+    {
+     "he": "ללעוג למי שהפסיד",
+     "ru": "Смеяться над проигравшим",
+     "en": "Mocking the loser",
+     "de": "Den Verlierer auslachen"
+    },
+    {
+     "he": "להודות למאמן ולשותפים אחרי ניצחון",
+     "ru": "Поблагодарить тренера и партнёров после победы",
+     "en": "Thanking coach and partners after a win",
+     "de": "Nach einem Sieg Trainer und Partnern danken"
+    },
+    {
+     "he": "לא להקשיב להערות",
+     "ru": "Не слушать замечания",
+     "en": "Ignoring feedback",
+     "de": "Hinweise ignorieren"
+    }
+   ],
+   "correct": 2,
+   "kids": false
+  },
+  {
+   "q": {
+    "he": "מה פירוש המילה ״סנסיי״?",
+    "ru": "Что значит слово «сэнсэй»?",
+    "en": "What does the word “sensei” mean?",
+    "de": "Was bedeutet das Wort „Sensei“?"
+   },
+   "options": [
+    {
+     "he": "אלוף",
+     "ru": "Чемпион",
+     "en": "Champion",
+     "de": "Meister im Wettkampf"
+    },
+    {
+     "he": "מורה",
+     "ru": "Учитель",
+     "en": "Teacher",
+     "de": "Lehrer"
+    },
+    {
+     "he": "שופט",
+     "ru": "Судья",
+     "en": "Referee",
+     "de": "Kampfrichter"
+    },
+    {
+     "he": "מתחיל",
+     "ru": "Новичок",
+     "en": "Beginner",
+     "de": "Anfänger"
+    }
+   ],
+   "correct": 1,
+   "kids": false
+  },
+  {
+   "q": {
+    "he": "למה קאנו בנה את הג׳ודו מתוך הג׳וג׳יטסו?",
+    "ru": "Зачем Кано создал дзюдо на основе джиу-джитсу?",
+    "en": "Why did Kano build judo from jujutsu?",
+    "de": "Warum entwickelte Kano Judo aus dem Jujutsu?"
+   },
+   "options": [
+    {
+     "he": "כדי שיהיה מסוכן יותר",
+     "ru": "Чтобы стало опаснее",
+     "en": "To make it more dangerous",
+     "de": "Um es gefährlicher zu machen"
+    },
+    {
+     "he": "בשביל סרטים",
+     "ru": "Для кино",
+     "en": "For films",
+     "de": "Für Filme"
+    },
+    {
+     "he": "כדי שיהיה רק לאלופים",
+     "ru": "Чтобы им занимались только чемпионы",
+     "en": "So only champions could do it",
+     "de": "Damit nur Meister es machen"
+    },
+    {
+     "he": "כדי לתרגל בבטחה ולחנך גוף ואופי",
+     "ru": "Чтобы тренироваться безопасно и воспитывать тело и характер",
+     "en": "To train safely and educate body and character",
+     "de": "Um sicher zu trainieren und Körper und Charakter zu bilden"
+    }
+   ],
+   "correct": 3,
+   "kids": false
+  }
+ ]
+}
