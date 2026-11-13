@@ -1,0 +1,447 @@
+{
+ "code": "bjj",
+ "name": {
+  "he": "ג׳יו-ג׳יטסו ברזילאי",
+  "ru": "Бразильское джиу-джитсу",
+  "en": "Brazilian Jiu-Jitsu",
+  "de": "Brazilian Jiu-Jitsu"
+ },
+ "terms": {
+  "dan": {
+   "he": "דרגה",
+   "ru": "степень",
+   "en": "degree",
+   "de": "Grad"
+  },
+  "stripe": {
+   "he": "פס",
+   "ru": "полоска",
+   "en": "stripe",
+   "de": "Streifen"
+  }
+ },
+ "belt_scheme": [
+  {
+   "slot": "white",
+   "code": "white",
+   "color": "#FFFFFF",
+   "name": {
+    "he": "לבנה",
+    "ru": "Белый",
+    "en": "White",
+    "de": "Weiß"
+   }
+  },
+  {
+   "slot": "white_yellow",
+   "used": false
+  },
+  {
+   "slot": "yellow",
+   "used": false
+  },
+  {
+   "slot": "yellow_orange",
+   "used": false
+  },
+  {
+   "slot": "orange",
+   "used": false
+  },
+  {
+   "slot": "orange_green",
+   "used": false
+  },
+  {
+   "slot": "green",
+   "code": "blue",
+   "color": "#1565C0",
+   "name": {
+    "he": "כחולה",
+    "ru": "Синий",
+    "en": "Blue",
+    "de": "Blau"
+   }
+  },
+  {
+   "slot": "green_blue",
+   "used": false
+  },
+  {
+   "slot": "blue",
+   "code": "purple",
+   "color": "#6A1B9A",
+   "name": {
+    "he": "סגולה",
+    "ru": "Фиолетовый",
+    "en": "Purple",
+    "de": "Lila"
+   }
+  },
+  {
+   "slot": "brown",
+   "code": "brown",
+   "color": "#6D4C41",
+   "name": {
+    "he": "חומה",
+    "ru": "Коричневый",
+    "en": "Brown",
+    "de": "Braun"
+   }
+  },
+  {
+   "slot": "black",
+   "code": "black",
+   "color": "#212121",
+   "name": {
+    "he": "שחורה",
+    "ru": "Чёрный",
+    "en": "Black",
+    "de": "Schwarz"
+   }
+  }
+ ],
+ "kids_belt_scheme": [
+  {
+   "code": "white",
+   "color": "#FFFFFF"
+  },
+  {
+   "code": "grey_white",
+   "color": "#9E9E9E",
+   "color2": "#FFFFFF"
+  },
+  {
+   "code": "grey",
+   "color": "#9E9E9E"
+  },
+  {
+   "code": "grey_black",
+   "color": "#9E9E9E",
+   "color2": "#212121"
+  },
+  {
+   "code": "yellow_white",
+   "color": "#FDD835",
+   "color2": "#FFFFFF"
+  },
+  {
+   "code": "yellow",
+   "color": "#FDD835"
+  },
+  {
+   "code": "yellow_black",
+   "color": "#FDD835",
+   "color2": "#212121"
+  },
+  {
+   "code": "orange_white",
+   "color": "#FB8C00",
+   "color2": "#FFFFFF"
+  },
+  {
+   "code": "orange",
+   "color": "#FB8C00"
+  },
+  {
+   "code": "orange_black",
+   "color": "#FB8C00",
+   "color2": "#212121"
+  },
+  {
+   "code": "green_white",
+   "color": "#43A047",
+   "color2": "#FFFFFF"
+  },
+  {
+   "code": "green",
+   "color": "#43A047"
+  },
+  {
+   "code": "green_black",
+   "color": "#43A047",
+   "color2": "#212121"
+  }
+ ],
+ "weight_categories": {
+  "source": "Wikipedia: Brazilian jiu-jitsu weight classes (IBJJF 2021 charts), check against ibjjf.com",
+  "checked": "2026-11-12",
+  "gi": {
+   "male": [
+    [
+     "Rooster",
+     57.5
+    ],
+    [
+     "Light Feather",
+     64
+    ],
+    [
+     "Feather",
+     70
+    ],
+    [
+     "Light",
+     76
+    ],
+    [
+     "Middle",
+     82.3
+    ],
+    [
+     "Medium Heavy",
+     88.3
+    ],
+    [
+     "Heavy",
+     94.3
+    ],
+    [
+     "Super Heavy",
+     100.5
+    ],
+    [
+     "Ultra Heavy",
+     null
+    ]
+   ],
+   "female": [
+    [
+     "Rooster",
+     48.5
+    ],
+    [
+     "Light Feather",
+     53.5
+    ],
+    [
+     "Feather",
+     58.5
+    ],
+    [
+     "Light",
+     64
+    ],
+    [
+     "Middle",
+     69
+    ],
+    [
+     "Medium Heavy",
+     74
+    ],
+    [
+     "Heavy",
+     79.3
+    ],
+    [
+     "Super Heavy",
+     null
+    ]
+   ]
+  },
+  "nogi": {
+   "male": [
+    [
+     "Rooster",
+     55.5
+    ],
+    [
+     "Light Feather",
+     61.5
+    ],
+    [
+     "Feather",
+     67.5
+    ],
+    [
+     "Light",
+     73.5
+    ],
+    [
+     "Middle",
+     79.5
+    ],
+    [
+     "Medium Heavy",
+     85.5
+    ],
+    [
+     "Heavy",
+     91.5
+    ],
+    [
+     "Super Heavy",
+     97.5
+    ],
+    [
+     "Ultra Heavy",
+     null
+    ]
+   ],
+   "female": [
+    [
+     "Rooster",
+     46.5
+    ],
+    [
+     "Light Feather",
+     51.5
+    ],
+    [
+     "Feather",
+     56.5
+    ],
+    [
+     "Light",
+     61.5
+    ],
+    [
+     "Middle",
+     66.5
+    ],
+    [
+     "Medium Heavy",
+     71.5
+    ],
+    [
+     "Heavy",
+     76.5
+    ],
+    [
+     "Super Heavy",
+     null
+    ]
+   ]
+  },
+  "open_class": true
+ },
+ "exam_rules": {
+  "green": {
+   "months": 0,
+   "age": 16
+  },
+  "blue": {
+   "months": 24,
+   "age": 16
+  },
+  "brown": {
+   "months": 18,
+   "age": 18
+  },
+  "black": {
+   "months": 12,
+   "age": 19
+  },
+  "dan2": {
+   "months": 36,
+   "age": 19
+  },
+  "dan3": {
+   "months": 36,
+   "age": 19
+  },
+  "dan4": {
+   "months": 36,
+   "age": 19
+  },
+  "dan5": {
+   "months": 60,
+   "age": 19
+  },
+  "dan6": {
+   "months": 60,
+   "age": 19
+  },
+  "dan7": {
+   "months": 60,
+   "age": 19
+  },
+  "dan8": {
+   "months": 84,
+   "age": 49
+  },
+  "dan9": {
+   "months": 84,
+   "age": 56
+  },
+  "dan10": {
+   "months": 120,
+   "age": 66
+  }
+ },
+ "links": {
+  "technique_library": "bjj",
+  "rules": "ibjjf"
+ },
+ "rules": {
+  "stripes_max": 4,
+  "graduation_source": {
+   "name": "IBJJF General System of Graduation",
+   "version": "June 2026 (3.1)",
+   "url": "https://ibjjf.com/graduation-system",
+   "checked": "2026-11-12"
+  },
+  "rules_source": {
+   "name": "IBJJF Rule Book",
+   "version": "6.1 (2024)",
+   "url": "https://ibjjf.com/books-videos",
+   "checked": "2026-11-12"
+  },
+  "age_divisions": [
+   [
+    "Juvenile",
+    16,
+    17
+   ],
+   [
+    "Adult",
+    18,
+    null
+   ],
+   [
+    "Master 1",
+    30,
+    null
+   ],
+   [
+    "Master 2",
+    36,
+    null
+   ],
+   [
+    "Master 3",
+    41,
+    null
+   ],
+   [
+    "Master 4",
+    46,
+    null
+   ],
+   [
+    "Master 5",
+    51,
+    null
+   ],
+   [
+    "Master 6",
+    56,
+    null
+   ],
+   [
+    "Master 7",
+    61,
+    null
+   ]
+  ],
+  "points": {
+   "takedown": 2,
+   "sweep": 2,
+   "knee_on_belly": 2,
+   "guard_pass": 3,
+   "mount": 4,
+   "back_control": 4
+  }
+ }
+}
