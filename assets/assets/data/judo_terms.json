@@ -1,0 +1,3229 @@
+{
+ "_comment": "Jita's own texts. Japanese terms of judo; transliteration as in technique_names_he.json.",
+ "categories": [
+  {
+   "id": "etiquette",
+   "he": "דוג׳ו ונימוסים",
+   "ru": "Додзё и этикет",
+   "en": "Dojo and etiquette",
+   "de": "Dojo und Etikette"
+  },
+  {
+   "id": "referee",
+   "he": "פקודות השופט",
+   "ru": "Команды судьи",
+   "en": "Referee commands",
+   "de": "Kommandos des Kampfrichters"
+  },
+  {
+   "id": "scores",
+   "he": "ניקוד ועונשים",
+   "ru": "Оценки и наказания",
+   "en": "Scores and penalties",
+   "de": "Wertungen und Strafen"
+  },
+  {
+   "id": "principles",
+   "he": "תפקידים ועקרונות",
+   "ru": "Роли и принципы",
+   "en": "Roles and principles",
+   "de": "Rollen und Prinzipien"
+  },
+  {
+   "id": "techniques",
+   "he": "סוגי טכניקות",
+   "ru": "Виды техник",
+   "en": "Kinds of techniques",
+   "de": "Arten von Techniken"
+  },
+  {
+   "id": "ukemi",
+   "he": "בלימות",
+   "ru": "Страховка (укэми)",
+   "en": "Breakfalls",
+   "de": "Fallschule"
+  },
+  {
+   "id": "training",
+   "he": "אימון ודרגות",
+   "ru": "Тренировка и степени",
+   "en": "Training and grades",
+   "de": "Training und Graduierungen"
+  },
+  {
+   "id": "body",
+   "he": "גוף וכיוונים",
+   "ru": "Тело и направления",
+   "en": "Body and directions",
+   "de": "Körper und Richtungen"
+  },
+  {
+   "id": "numbers",
+   "he": "מספרים",
+   "ru": "Счёт",
+   "en": "Numbers",
+   "de": "Zahlen"
+  }
+ ],
+ "terms": [
+  {
+   "id": "rei",
+   "cat": "etiquette",
+   "ja": "礼",
+   "kana": "れい",
+   "romaji": "rei",
+   "say": "ray",
+   "he_translit": "ריי",
+   "meaning": {
+    "he": "קידה, הבעת כבוד",
+    "ru": "Поклон, знак уважения",
+    "en": "Bow, a sign of respect",
+    "de": "Verbeugung, Zeichen von Respekt"
+   },
+   "when": {
+    "he": "קדים בכניסה לדוג׳ו ולמזרן, ולפני ואחרי כל עבודה עם בן זוג.",
+    "ru": "Кланяемся, входя в додзё и на татами, а также до и после работы с партнёром.",
+    "en": "We bow when entering the dojo and the mat, and before and after working with a partner.",
+    "de": "Du verbeugst dich beim Betreten des Dojos und der Matte und vor und nach der Arbeit mit einem Partner."
+   }
+  },
+  {
+   "id": "ritsurei",
+   "cat": "etiquette",
+   "ja": "立礼",
+   "kana": "りつれい",
+   "romaji": "ritsurei",
+   "say": "rit-soo-ray",
+   "he_translit": "ריצוריי",
+   "meaning": {
+    "he": "קידה בעמידה",
+    "ru": "Поклон стоя",
+    "en": "Standing bow",
+    "de": "Verbeugung im Stehen"
+   },
+   "when": {
+    "he": "עומדים זקוף, ידיים לצד הגוף, ומתכופפים מעט קדימה, למשל לפני קרב.",
+    "ru": "Стоим прямо, руки вдоль тела, и слегка наклоняемся вперёд, например перед схваткой.",
+    "en": "Stand straight with hands at your sides and lean forward a little, for example before a match.",
+    "de": "Du stehst gerade, Hände an der Seite, und beugst dich leicht nach vorn, zum Beispiel vor einem Kampf."
+   }
+  },
+  {
+   "id": "zarei",
+   "cat": "etiquette",
+   "ja": "座礼",
+   "kana": "ざれい",
+   "romaji": "zarei",
+   "say": "za-ray",
+   "he_translit": "זריי",
+   "meaning": {
+    "he": "קידה בישיבה על הברכיים",
+    "ru": "Поклон сидя на коленях",
+    "en": "Kneeling bow",
+    "de": "Verbeugung im Knien"
+   },
+   "when": {
+    "he": "יושבים בסיזה, מניחים ידיים על המזרן ומרכינים ראש, בדרך כלל בתחילת האימון ובסופו.",
+    "ru": "Из положения сэйдза ставим руки на татами и склоняемся, обычно в начале и в конце тренировки.",
+    "en": "From seiza, place your hands on the mat and bow, usually at the start and end of practice.",
+    "de": "Aus dem Seiza legst du die Hände auf die Matte und verbeugst dich, meist am Anfang und Ende des Trainings."
+   }
+  },
+  {
+   "id": "seiza",
+   "cat": "etiquette",
+   "ja": "正座",
+   "kana": "せいざ",
+   "romaji": "seiza",
+   "say": "say-za",
+   "he_translit": "סיזה",
+   "meaning": {
+    "he": "ישיבה על הברכיים",
+    "ru": "Сидение на коленях",
+    "en": "Kneeling sitting position",
+    "de": "Sitzen auf den Knien"
+   },
+   "when": {
+    "he": "המאמן אומר ״סיזה״ וכולם מתיישבים בשורה על הברכיים, לפני הקידה.",
+    "ru": "Тренер говорит «сэйдза», и все садятся в ряд на колени перед поклоном.",
+    "en": "The coach says \"seiza\" and everyone kneels in a line before the bow.",
+    "de": "Der Trainer sagt „Seiza“ und alle knien sich vor der Verbeugung in eine Reihe."
+   }
+  },
+  {
+   "id": "anza",
+   "cat": "etiquette",
+   "ja": "安座",
+   "kana": "あんざ",
+   "romaji": "anza",
+   "say": "an-za",
+   "he_translit": "אנזה",
+   "meaning": {
+    "he": "ישיבה ברגליים משוכלות",
+    "ru": "Сидение со скрещёнными ногами",
+    "en": "Cross-legged sitting",
+    "de": "Sitzen im Schneidersitz"
+   },
+   "when": {
+    "he": "יושבים כך כשהמאמן מסביר משהו ארוך ומרשה לשבת בנוח.",
+    "ru": "Так сидим, когда тренер долго объясняет и разрешает сесть удобно.",
+    "en": "We sit like this when the coach explains something longer and lets us sit comfortably.",
+    "de": "So sitzt du, wenn der Trainer länger erklärt und erlaubt, bequem zu sitzen."
+   }
+  },
+  {
+   "id": "mokuso",
+   "cat": "etiquette",
+   "ja": "黙想",
+   "kana": "もくそう",
+   "romaji": "mokuso",
+   "say": "mo-koo-so",
+   "he_translit": "מוקוסו",
+   "meaning": {
+    "he": "רגע של שקט ועיניים עצומות",
+    "ru": "Минута тишины с закрытыми глазами",
+    "en": "Quiet moment with eyes closed",
+    "de": "Stiller Moment mit geschlossenen Augen"
+   },
+   "when": {
+    "he": "יושבים בסיזה, עוצמים עיניים ונושמים בשקט לפני האימון או אחריו.",
+    "ru": "Сидим в сэйдза, закрываем глаза и спокойно дышим до или после тренировки.",
+    "en": "Sit in seiza, close your eyes and breathe calmly before or after practice.",
+    "de": "Du sitzt im Seiza, schließt die Augen und atmest ruhig vor oder nach dem Training."
+   }
+  },
+  {
+   "id": "sensei",
+   "cat": "etiquette",
+   "ja": "先生",
+   "kana": "せんせい",
+   "romaji": "sensei",
+   "say": "sen-say",
+   "he_translit": "סנסיי",
+   "meaning": {
+    "he": "מורה, מאמן",
+    "ru": "Учитель, тренер",
+    "en": "Teacher, coach",
+    "de": "Lehrer, Trainer"
+   },
+   "when": {
+    "he": "כך פונים למאמן בדוג׳ו, ובקידה אומרים ״סנסיי ני ריי״.",
+    "ru": "Так обращаются к тренеру в додзё; при поклоне говорят «сэнсэй ни рэй».",
+    "en": "This is how we address the coach in the dojo; at the bow we say \"sensei ni rei\".",
+    "de": "So sprichst du den Trainer im Dojo an; bei der Verbeugung heißt es „Sensei ni rei“."
+   }
+  },
+  {
+   "id": "senpai",
+   "cat": "etiquette",
+   "ja": "先輩",
+   "kana": "せんぱい",
+   "romaji": "senpai",
+   "say": "sem-pie",
+   "he_translit": "סמפאי",
+   "meaning": {
+    "he": "תלמיד ותיק יותר",
+    "ru": "Старший ученик",
+    "en": "Senior student",
+    "de": "Älterer, erfahrener Schüler"
+   },
+   "when": {
+    "he": "תלמידים ותיקים עוזרים לחדשים ומשמשים להם דוגמה.",
+    "ru": "Старший ученик помогает новичкам и показывает им пример.",
+    "en": "A senior student helps newer students and sets an example.",
+    "de": "Ein älterer Schüler hilft den Neuen und ist ihnen ein Vorbild."
+   }
+  },
+  {
+   "id": "kohai",
+   "cat": "etiquette",
+   "ja": "後輩",
+   "kana": "こうはい",
+   "romaji": "kohai",
+   "say": "ko-hai",
+   "he_translit": "קוהאי",
+   "meaning": {
+    "he": "תלמיד חדש יותר",
+    "ru": "Младший ученик",
+    "en": "Junior student",
+    "de": "Jüngerer, neuer Schüler"
+   },
+   "when": {
+    "he": "תלמידים חדשים לומדים מהוותיקים ומכבדים אותם.",
+    "ru": "Младший ученик учится у старших и уважает их.",
+    "en": "A junior student learns from the seniors and respects them.",
+    "de": "Ein neuer Schüler lernt von den Älteren und respektiert sie."
+   }
+  },
+  {
+   "id": "dojo",
+   "cat": "etiquette",
+   "ja": "道場",
+   "kana": "どうじょう",
+   "romaji": "dojo",
+   "say": "doe-joe",
+   "he_translit": "דוג'ו",
+   "meaning": {
+    "he": "אולם האימונים",
+    "ru": "Зал для тренировок",
+    "en": "Training hall",
+    "de": "Trainingshalle"
+   },
+   "when": {
+    "he": "בכניסה לדוג׳ו וביציאה ממנו קדים.",
+    "ru": "Входя в додзё и выходя из него, кланяемся.",
+    "en": "We bow when we enter and leave the dojo.",
+    "de": "Beim Betreten und Verlassen des Dojos verbeugst du dich."
+   }
+  },
+  {
+   "id": "judogi",
+   "cat": "etiquette",
+   "ja": "柔道着",
+   "kana": "じゅうどうぎ",
+   "romaji": "judogi",
+   "say": "joo-doe-ghee",
+   "he_translit": "ג'ודוגי",
+   "meaning": {
+    "he": "חליפת הג׳ודו",
+    "ru": "Кимоно для дзюдо",
+    "en": "Judo uniform",
+    "de": "Judoanzug"
+   },
+   "when": {
+    "he": "מגיעים לאימון עם ג׳ודוגי נקי ומקופל יפה.",
+    "ru": "На тренировку приходим в чистом и аккуратно сложенном кимоно.",
+    "en": "Come to practice with a clean, neatly folded judogi.",
+    "de": "Komm mit einem sauberen, ordentlich gefalteten Judogi zum Training."
+   }
+  },
+  {
+   "id": "obi",
+   "cat": "etiquette",
+   "ja": "帯",
+   "kana": "おび",
+   "romaji": "obi",
+   "say": "o-bee",
+   "he_translit": "אובי",
+   "meaning": {
+    "he": "חגורה",
+    "ru": "Пояс",
+    "en": "Belt",
+    "de": "Gürtel"
+   },
+   "when": {
+    "he": "צבע החגורה מראה את הדרגה, וקושרים אותה בקשר שטוח.",
+    "ru": "Цвет пояса показывает степень; завязываем его плоским узлом.",
+    "en": "The belt colour shows your grade; tie it with a flat knot.",
+    "de": "Die Gürtelfarbe zeigt deine Graduierung; binde ihn mit einem flachen Knoten."
+   }
+  },
+  {
+   "id": "tatami",
+   "cat": "etiquette",
+   "ja": "畳",
+   "kana": "たたみ",
+   "romaji": "tatami",
+   "say": "ta-ta-mee",
+   "he_translit": "טטמי",
+   "meaning": {
+    "he": "מזרן",
+    "ru": "Татами, мат",
+    "en": "Mat",
+    "de": "Matte"
+   },
+   "when": {
+    "he": "עולים על הטטמי יחפים וקדים לפני כן.",
+    "ru": "На татами выходим босиком и перед этим кланяемся.",
+    "en": "Step onto the tatami barefoot and bow first.",
+    "de": "Du betrittst die Tatami barfuß und verbeugst dich vorher."
+   }
+  },
+  {
+   "id": "judoka",
+   "cat": "etiquette",
+   "ja": "柔道家",
+   "kana": "じゅうどうか",
+   "romaji": "judoka",
+   "say": "joo-doe-ka",
+   "he_translit": "ג'ודוקא",
+   "meaning": {
+    "he": "מי שמתאמן בג׳ודו",
+    "ru": "Тот, кто занимается дзюдо",
+    "en": "Person who practises judo",
+    "de": "Jemand, der Judo macht"
+   },
+   "when": {
+    "he": "כל מי שמתאמן אצלנו הוא ג׳ודוקא, מהקטנים ועד המאמנים.",
+    "ru": "Каждый, кто у нас тренируется, дзюдоист, от малышей до тренеров.",
+    "en": "Everyone who trains with us is a judoka, from the youngest to the coaches.",
+    "de": "Jeder, der bei uns trainiert, ist Judoka, von den Kleinsten bis zu den Trainern."
+   }
+  },
+  {
+   "id": "judo",
+   "cat": "etiquette",
+   "ja": "柔道",
+   "kana": "じゅうどう",
+   "romaji": "judo",
+   "say": "joo-doe",
+   "he_translit": "ג'ודו",
+   "meaning": {
+    "he": "הדרך הרכה",
+    "ru": "Мягкий путь",
+    "en": "The gentle way",
+    "de": "Der sanfte Weg"
+   },
+   "when": {
+    "he": "השם מזכיר לנו לנצח בחוכמה ובגמישות ולא רק בכוח.",
+    "ru": "Название напоминает: побеждать умением и гибкостью, а не только силой.",
+    "en": "The name reminds us to win with skill and flexibility, not only strength.",
+    "de": "Der Name erinnert dich: Gewinne mit Geschick und Beweglichkeit, nicht nur mit Kraft."
+   }
+  },
+  {
+   "id": "kodokan",
+   "cat": "etiquette",
+   "ja": "講道館",
+   "kana": "こうどうかん",
+   "romaji": "kodokan",
+   "say": "ko-doe-kan",
+   "he_translit": "קודוקאן",
+   "meaning": {
+    "he": "בית הספר הראשון לג׳ודו",
+    "ru": "Первая школа дзюдо",
+    "en": "The first judo school",
+    "de": "Die erste Judoschule"
+   },
+   "when": {
+    "he": "ג׳יגורו קאנו ייסד אותו בטוקיו ב־1882, והוא פועל עד היום.",
+    "ru": "Его основал Дзигоро Кано в Токио в 1882 году, он работает до сих пор.",
+    "en": "Jigoro Kano founded it in Tokyo in 1882, and it still exists today.",
+    "de": "Jigoro Kano gründete ihn 1882 in Tokio, und es gibt ihn bis heute."
+   }
+  },
+  {
+   "id": "onegaishimasu",
+   "cat": "etiquette",
+   "ja": "お願いします",
+   "kana": "おねがいします",
+   "romaji": "onegaishimasu",
+   "say": "o-neh-gai-shee-mas",
+   "he_translit": "אונגאישימאס",
+   "meaning": {
+    "he": "בבקשה (בואו נתאמן יחד)",
+    "ru": "Пожалуйста (потренируйся со мной)",
+    "en": "Please (practise with me)",
+    "de": "Bitte (trainiere mit mir)"
+   },
+   "when": {
+    "he": "אומרים לבן הזוג עם הקידה, לפני שמתחילים לעבוד יחד.",
+    "ru": "Говорим партнёру при поклоне перед началом совместной работы.",
+    "en": "Say it to your partner with a bow before you start working together.",
+    "de": "Du sagst es deinem Partner mit einer Verbeugung, bevor ihr zusammen übt."
+   }
+  },
+  {
+   "id": "arigato-gozaimashita",
+   "cat": "etiquette",
+   "ja": "ありがとうございました",
+   "kana": "ありがとうございました",
+   "romaji": "arigato gozaimashita",
+   "say": "a-ree-ga-toe go-zai-mash-ta",
+   "he_translit": "אריגטו גוזאימאשיטה",
+   "meaning": {
+    "he": "תודה רבה (על מה שהיה)",
+    "ru": "Большое спасибо (за то, что было)",
+    "en": "Thank you very much (for what we did)",
+    "de": "Vielen Dank (für das, was war)"
+   },
+   "when": {
+    "he": "אומרים עם הקידה לבן הזוג או למאמן בסוף העבודה או האימון.",
+    "ru": "Говорим с поклоном партнёру или тренеру в конце работы или тренировки.",
+    "en": "Say it with a bow to your partner or coach at the end of practice.",
+    "de": "Du sagst es mit einer Verbeugung zu Partner oder Trainer am Ende des Trainings."
+   }
+  },
+  {
+   "id": "shomen",
+   "cat": "etiquette",
+   "ja": "正面",
+   "kana": "しょうめん",
+   "romaji": "shomen",
+   "say": "show-men",
+   "he_translit": "שומן",
+   "meaning": {
+    "he": "החזית של הדוג׳ו",
+    "ru": "Передняя сторона додзё",
+    "en": "Front of the dojo",
+    "de": "Vorderseite des Dojos"
+   },
+   "when": {
+    "he": "בתחילת האימון ובסופו קדים לכיוון החזית: ״שומן ני ריי״.",
+    "ru": "В начале и в конце тренировки кланяемся в сторону сёмэн: «сёмэн ни рэй».",
+    "en": "At the start and end of practice we bow to the front: \"shomen ni rei\".",
+    "de": "Am Anfang und Ende des Trainings verbeugst du dich zur Vorderseite: „Shomen ni rei“."
+   }
+  },
+  {
+   "id": "kamiza",
+   "cat": "etiquette",
+   "ja": "上座",
+   "kana": "かみざ",
+   "romaji": "kamiza",
+   "say": "ka-mee-za",
+   "he_translit": "קמיזה",
+   "meaning": {
+    "he": "מקום הכבוד בדוג׳ו",
+    "ru": "Почётное место в додзё",
+    "en": "Place of honour in the dojo",
+    "de": "Ehrenplatz im Dojo"
+   },
+   "when": {
+    "he": "בדרך כלל בחזית האולם, ושם תלויה לפעמים תמונה של ג׳יגורו קאנו.",
+    "ru": "Обычно впереди зала; там иногда висит портрет Дзигоро Кано.",
+    "en": "Usually at the front of the hall, sometimes with a picture of Jigoro Kano.",
+    "de": "Meist vorn in der Halle, manchmal mit einem Bild von Jigoro Kano."
+   }
+  },
+  {
+   "id": "joseki",
+   "cat": "etiquette",
+   "ja": "上席",
+   "kana": "じょうせき",
+   "romaji": "joseki",
+   "say": "joe-seh-kee",
+   "he_translit": "ג'וסקי",
+   "meaning": {
+    "he": "הצד של המורים",
+    "ru": "Сторона учителей",
+    "en": "The teachers' side",
+    "de": "Die Seite der Lehrer"
+   },
+   "when": {
+    "he": "בשורה בתחילת האימון המאמנים עומדים או יושבים בצד הזה.",
+    "ru": "При построении в начале тренировки тренеры стоят или сидят на этой стороне.",
+    "en": "When we line up at the start, the coaches stand or sit on this side.",
+    "de": "Beim Aufstellen am Anfang stehen oder sitzen die Trainer auf dieser Seite."
+   }
+  },
+  {
+   "id": "shimoza",
+   "cat": "etiquette",
+   "ja": "下座",
+   "kana": "しもざ",
+   "romaji": "shimoza",
+   "say": "shee-mo-za",
+   "he_translit": "שימוזה",
+   "meaning": {
+    "he": "הצד של התלמידים",
+    "ru": "Сторона учеников",
+    "en": "The students' side",
+    "de": "Die Seite der Schüler"
+   },
+   "when": {
+    "he": "התלמידים עומדים בשורה בצד הזה, מול המאמנים.",
+    "ru": "Ученики выстраиваются на этой стороне, напротив тренеров.",
+    "en": "Students line up on this side, facing the coaches.",
+    "de": "Die Schüler stellen sich auf dieser Seite auf, gegenüber den Trainern."
+   }
+  },
+  {
+   "id": "reiho",
+   "cat": "etiquette",
+   "ja": "礼法",
+   "kana": "れいほう",
+   "romaji": "reiho",
+   "say": "ray-ho",
+   "he_translit": "רייהו",
+   "meaning": {
+    "he": "כללי הקידה והנימוס",
+    "ru": "Правила поклонов и этикета",
+    "en": "Rules of bowing and etiquette",
+    "de": "Regeln für Verbeugung und Etikette"
+   },
+   "when": {
+    "he": "לומדים אותם מהאימון הראשון: איך קדים, איך יושבים ואיך מתנהגים על המזרן.",
+    "ru": "Учим с первой тренировки: как кланяться, как сидеть и как вести себя на татами.",
+    "en": "We learn them from the first lesson: how to bow, sit and behave on the mat.",
+    "de": "Du lernst sie ab dem ersten Training: wie man sich verbeugt, sitzt und auf der Matte benimmt."
+   }
+  },
+  {
+   "id": "otagai-ni-rei",
+   "cat": "etiquette",
+   "ja": "お互いに礼",
+   "kana": "おたがいにれい",
+   "romaji": "otagai ni rei",
+   "say": "o-ta-gai nee ray",
+   "he_translit": "אוטגאי ני ריי",
+   "meaning": {
+    "he": "קידה אחד לשני",
+    "ru": "Поклон друг другу",
+    "en": "Bow to each other",
+    "de": "Verbeugt euch voreinander"
+   },
+   "when": {
+    "he": "המאמן אומר זאת וכולם קדים זה לזה בתחילת האימון או בסופו.",
+    "ru": "Тренер говорит это, и все кланяются друг другу в начале или в конце тренировки.",
+    "en": "The coach says it and everyone bows to each other at the start or end of practice.",
+    "de": "Der Trainer sagt es, und alle verbeugen sich am Anfang oder Ende voreinander."
+   }
+  },
+  {
+   "id": "sensei-ni-rei",
+   "cat": "etiquette",
+   "ja": "先生に礼",
+   "kana": "せんせいにれい",
+   "romaji": "sensei ni rei",
+   "say": "sen-say nee ray",
+   "he_translit": "סנסיי ני ריי",
+   "meaning": {
+    "he": "קידה למורה",
+    "ru": "Поклон учителю",
+    "en": "Bow to the teacher",
+    "de": "Verbeugung vor dem Lehrer"
+   },
+   "when": {
+    "he": "בשורה בתחילת האימון או בסופו, התלמידים קדים למאמן.",
+    "ru": "При построении в начале или в конце тренировки ученики кланяются тренеру.",
+    "en": "In the line at the start or end of practice, students bow to the coach.",
+    "de": "In der Reihe am Anfang oder Ende verbeugen sich die Schüler vor dem Trainer."
+   }
+  },
+  {
+   "id": "shomen-ni-rei",
+   "cat": "etiquette",
+   "ja": "正面に礼",
+   "kana": "しょうめんにれい",
+   "romaji": "shomen ni rei",
+   "say": "show-men nee ray",
+   "he_translit": "שומן ני ריי",
+   "meaning": {
+    "he": "קידה לחזית הדוג׳ו",
+    "ru": "Поклон передней стороне додзё",
+    "en": "Bow to the front of the dojo",
+    "de": "Verbeugung zur Vorderseite des Dojos"
+   },
+   "when": {
+    "he": "כולם קדים יחד לכיוון החזית, בתחילת האימון ובסופו.",
+    "ru": "Все вместе кланяются в сторону сёмэн в начале и в конце тренировки.",
+    "en": "Everyone bows together towards the front at the start and end of practice.",
+    "de": "Alle verbeugen sich gemeinsam zur Vorderseite, am Anfang und Ende des Trainings."
+   }
+  },
+  {
+   "id": "hajime",
+   "cat": "referee",
+   "ja": "始め",
+   "kana": "はじめ",
+   "romaji": "hajime",
+   "say": "ha-jee-meh",
+   "he_translit": "הג'ימה",
+   "meaning": {
+    "he": "התחילו",
+    "ru": "Начинайте",
+    "en": "Begin",
+    "de": "Anfangen"
+   },
+   "when": {
+    "he": "השופט או המאמן אומר זאת בתחילת קרב או רנדורי, וגם אחרי עצירה.",
+    "ru": "Судья или тренер говорит это в начале схватки или рандори, а также после остановки.",
+    "en": "The referee or coach says it to start a match or randori, and after a stop.",
+    "de": "Kampfrichter oder Trainer sagen es zum Start eines Kampfes oder Randori und nach einer Pause."
+   },
+   "he_alt": [
+    "אגימה"
+   ]
+  },
+  {
+   "id": "matte",
+   "cat": "referee",
+   "ja": "待て",
+   "kana": "まて",
+   "romaji": "matte",
+   "say": "mat-teh",
+   "he_translit": "מטה",
+   "meaning": {
+    "he": "עצרו",
+    "ru": "Стоп, подождите",
+    "en": "Stop, wait",
+    "de": "Halt, warte"
+   },
+   "when": {
+    "he": "שומעים ״מטה״: עוזבים מיד את האחיזה וחוזרים למקום.",
+    "ru": "Услышал «матэ»: сразу отпусти захват и вернись на место.",
+    "en": "When you hear \"matte\", let go at once and go back to your place.",
+    "de": "Hörst du „Matte“, lässt du sofort los und gehst zurück an deinen Platz."
+   }
+  },
+  {
+   "id": "sore-made",
+   "cat": "referee",
+   "ja": "それまで",
+   "kana": "それまで",
+   "romaji": "sore made",
+   "say": "so-reh ma-deh",
+   "he_translit": "סורה מדה",
+   "meaning": {
+    "he": "סוף הקרב",
+    "ru": "Конец схватки",
+    "en": "End of the match",
+    "de": "Ende des Kampfes"
+   },
+   "when": {
+    "he": "השופט אומר זאת כשהקרב נגמר, ואז חוזרים למקום לקידה.",
+    "ru": "Судья говорит это, когда схватка окончена; затем возвращаемся на место для поклона.",
+    "en": "The referee says it when the match is over; then you return to your place to bow.",
+    "de": "Der Kampfrichter sagt es, wenn der Kampf vorbei ist; dann gehst du zur Verbeugung zurück."
+   }
+  },
+  {
+   "id": "osaekomi",
+   "cat": "referee",
+   "ja": "抑え込み",
+   "kana": "おさえこみ",
+   "romaji": "osaekomi",
+   "say": "o-sa-eh-ko-mee",
+   "he_translit": "אוסאקומי",
+   "meaning": {
+    "he": "החזקה, מתחילים לספור",
+    "ru": "Удержание, отсчёт пошёл",
+    "en": "Hold-down, counting starts",
+    "de": "Haltegriff, die Zeit läuft"
+   },
+   "when": {
+    "he": "השופט קורא כשמחזיקים את היריב על הגב בקרקע, והזמן מתחיל לרוץ.",
+    "ru": "Судья объявляет, когда соперника удерживают на спине в партере, и время пошло.",
+    "en": "The referee calls it when the opponent is held on their back on the ground, and the time starts.",
+    "de": "Der Kampfrichter ruft es, wenn der Gegner am Boden auf dem Rücken gehalten wird; die Zeit läuft."
+   }
+  },
+  {
+   "id": "toketa",
+   "cat": "referee",
+   "ja": "解けた",
+   "kana": "とけた",
+   "romaji": "toketa",
+   "say": "toe-keh-ta",
+   "he_translit": "טוקטה",
+   "meaning": {
+    "he": "ההחזקה השתחררה",
+    "ru": "Удержание прервано",
+    "en": "Hold broken",
+    "de": "Haltegriff gelöst"
+   },
+   "when": {
+    "he": "השופט אומר זאת כשהיריב השתחרר מההחזקה, והספירה נעצרת.",
+    "ru": "Судья говорит это, когда соперник вырвался из удержания, и отсчёт останавливается.",
+    "en": "The referee says it when the opponent escapes the hold, and the count stops.",
+    "de": "Der Kampfrichter sagt es, wenn sich der Gegner befreit hat; die Zeit stoppt."
+   }
+  },
+  {
+   "id": "sono-mama",
+   "cat": "referee",
+   "ja": "そのまま",
+   "kana": "そのまま",
+   "romaji": "sono mama",
+   "say": "so-no ma-ma",
+   "he_translit": "סונוממה",
+   "meaning": {
+    "he": "לא לזוז",
+    "ru": "Замрите, не двигайтесь",
+    "en": "Freeze, do not move",
+    "de": "Nicht bewegen"
+   },
+   "when": {
+    "he": "השופט עוצר את שני המתמודדים בדיוק במקום שבו הם נמצאים, בלי לשנות דבר.",
+    "ru": "Судья останавливает обоих точно в том положении, в котором они находятся.",
+    "en": "The referee stops both fighters exactly where they are, without changing anything.",
+    "de": "Der Kampfrichter stoppt beide genau in ihrer Position, ohne etwas zu verändern."
+   }
+  },
+  {
+   "id": "yoshi",
+   "cat": "referee",
+   "ja": "よし",
+   "kana": "よし",
+   "romaji": "yoshi",
+   "say": "yo-shee",
+   "he_translit": "יושי",
+   "meaning": {
+    "he": "להמשיך",
+    "ru": "Продолжайте",
+    "en": "Continue",
+    "de": "Weitermachen"
+   },
+   "when": {
+    "he": "אחרי ״סונוממה״ השופט אומר ״יושי״ וממשיכים מאותו מצב.",
+    "ru": "После «соно мама» судья говорит «ёси», и продолжаем из того же положения.",
+    "en": "After \"sono mama\" the referee says \"yoshi\" and you continue from the same position.",
+    "de": "Nach „Sono mama“ sagt der Kampfrichter „Yoshi“ und ihr macht in derselben Position weiter."
+   }
+  },
+  {
+   "id": "hantei",
+   "cat": "referee",
+   "ja": "判定",
+   "kana": "はんてい",
+   "romaji": "hantei",
+   "say": "han-tay",
+   "he_translit": "הנטיי",
+   "meaning": {
+    "he": "החלטת השופטים",
+    "ru": "Решение судей",
+    "en": "Referees' decision",
+    "de": "Entscheidung der Kampfrichter"
+   },
+   "when": {
+    "he": "קריאה להחלטת השופטים מי ניצח. היום משתמשים בה פחות.",
+    "ru": "Вызов на решение судей, кто победил. Сейчас используется реже.",
+    "en": "A call for the referees to decide who won. It is used less today.",
+    "de": "Aufruf zur Kampfrichterentscheidung, wer gewonnen hat. Heute seltener genutzt."
+   }
+  },
+  {
+   "id": "hiki-wake",
+   "cat": "referee",
+   "ja": "引き分け",
+   "kana": "ひきわけ",
+   "romaji": "hiki-wake",
+   "say": "hee-kee wa-keh",
+   "he_translit": "היקיווקה",
+   "meaning": {
+    "he": "תיקו",
+    "ru": "Ничья",
+    "en": "Draw",
+    "de": "Unentschieden"
+   },
+   "when": {
+    "he": "השופט מכריז שאין מנצח, תיקו.",
+    "ru": "Судья объявляет, что победителя нет: ничья.",
+    "en": "The referee declares no winner: a draw.",
+    "de": "Der Kampfrichter erklärt keinen Sieger: unentschieden."
+   }
+  },
+  {
+   "id": "ippon",
+   "cat": "scores",
+   "ja": "一本",
+   "kana": "いっぽん",
+   "romaji": "ippon",
+   "say": "ip-pon",
+   "he_translit": "איפון",
+   "meaning": {
+    "he": "ניקוד מלא, ניצחון",
+    "ru": "Чистая победа",
+    "en": "Full point, the win",
+    "de": "Volle Wertung, der Sieg"
+   },
+   "when": {
+    "he": "השופט מרים יד גבוה מעל הראש, והקרב נגמר מיד בניצחון.",
+    "ru": "Судья поднимает руку высоко над головой, и схватка сразу заканчивается победой.",
+    "en": "The referee raises an arm high above the head, and the match ends at once.",
+    "de": "Der Kampfrichter hebt den Arm hoch über den Kopf, und der Kampf ist sofort gewonnen."
+   }
+  },
+  {
+   "id": "waza-ari",
+   "cat": "scores",
+   "ja": "技あり",
+   "kana": "わざあり",
+   "romaji": "waza-ari",
+   "say": "wa-za a-ree",
+   "he_translit": "וואזרי",
+   "meaning": {
+    "he": "ציון גבוה, פחות מאיפון",
+    "ru": "Высокая оценка, меньше иппона",
+    "en": "A high score, less than ippon",
+    "de": "Hohe Wertung, weniger als Ippon"
+   },
+   "when": {
+    "he": "השופט מותח יד הצידה בגובה הכתף כשההטלה טובה אבל לא מלאה.",
+    "ru": "Судья вытягивает руку в сторону на уровне плеча, когда бросок хороший, но не полный.",
+    "en": "The referee holds an arm out sideways at shoulder height for a good but not complete throw.",
+    "de": "Der Kampfrichter streckt den Arm seitlich auf Schulterhöhe für einen guten, aber nicht vollen Wurf."
+   }
+  },
+  {
+   "id": "waza-ari-awasete-ippon",
+   "cat": "scores",
+   "ja": "技あり合わせて一本",
+   "kana": "わざありあわせていっぽん",
+   "romaji": "waza-ari awasete ippon",
+   "say": "wa-za a-ree a-wa-seh-teh ip-pon",
+   "he_translit": "וואזרי אוואסטה איפון",
+   "meaning": {
+    "he": "שני וואזרי ביחד הם איפון",
+    "ru": "Два вадза-ари вместе дают иппон",
+    "en": "Two waza-ari together make ippon",
+    "de": "Zwei Waza-ari ergeben zusammen Ippon"
+   },
+   "when": {
+    "he": "השופט מכריז על כך אחרי וואזרי שני; הכלל הזה השתנה כמה פעמים לאורך השנים.",
+    "ru": "Судья объявляет это после второго вадза-ари; это правило за годы несколько раз менялось.",
+    "en": "The referee calls it after a second waza-ari; this rule has changed a few times over the years.",
+    "de": "Der Kampfrichter ruft es nach dem zweiten Waza-ari; diese Regel wurde über die Jahre mehrmals geändert."
+   }
+  },
+  {
+   "id": "shido",
+   "cat": "scores",
+   "ja": "指導",
+   "kana": "しどう",
+   "romaji": "shido",
+   "say": "shee-doe",
+   "he_translit": "שידו",
+   "meaning": {
+    "he": "עונש קל, אזהרה",
+    "ru": "Лёгкое наказание, замечание",
+    "en": "Minor penalty, warning",
+    "de": "Leichte Strafe, Verwarnung"
+   },
+   "when": {
+    "he": "ניתן למשל על פסיביות או על הימנעות מאחיזה; כמה שידו יכולים לגרום להפסד בקרב.",
+    "ru": "Даётся, например, за пассивность или уход от захвата; несколько сидо могут привести к поражению.",
+    "en": "Given for things like passivity or avoiding grips; several shido can lose you the match.",
+    "de": "Gibt es zum Beispiel für Passivität oder Griffvermeidung; mehrere Shido können den Kampf kosten."
+   }
+  },
+  {
+   "id": "hansoku-make",
+   "cat": "scores",
+   "ja": "反則負け",
+   "kana": "はんそくまけ",
+   "romaji": "hansoku-make",
+   "say": "han-so-koo ma-keh",
+   "he_translit": "הנסוקו מקה",
+   "meaning": {
+    "he": "הפסד בגלל עבירה",
+    "ru": "Поражение за нарушение",
+    "en": "Loss by disqualification",
+    "de": "Niederlage durch Disqualifikation"
+   },
+   "when": {
+    "he": "ניתן על עבירה חמורה או אחרי שהצטברו יותר מדי שידו, והקרב אבוד.",
+    "ru": "Даётся за грубое нарушение или после слишком многих сидо, и схватка проиграна.",
+    "en": "Given for a serious foul or after too many shido, and the match is lost.",
+    "de": "Gibt es für ein schweres Vergehen oder nach zu vielen Shido; der Kampf ist verloren."
+   },
+   "he_alt": [
+    "אנסוקומקה"
+   ]
+  },
+  {
+   "id": "golden-score",
+   "cat": "scores",
+   "ja": "ゴールデンスコア",
+   "kana": "ゴールデンスコア",
+   "romaji": "golden score",
+   "say": "gol-den score",
+   "he_translit": "גולדן סקור",
+   "meaning": {
+    "he": "הארכה עד לניקוד הראשון",
+    "ru": "Дополнительное время до первой оценки",
+    "en": "Extra time until the first score",
+    "de": "Verlängerung bis zur ersten Wertung"
+   },
+   "when": {
+    "he": "אם הזמן נגמר בשוויון, ממשיכים בלי שעון, ומי שמקבל ניקוד ראשון מנצח.",
+    "ru": "Если время вышло при равенстве, борются без лимита времени, и первая оценка приносит победу.",
+    "en": "If time runs out with equal scores, you keep fighting and the first score wins.",
+    "de": "Steht es nach Ablauf der Zeit gleich, kämpft ihr weiter, und die erste Wertung gewinnt."
+   }
+  },
+  {
+   "id": "yuko",
+   "cat": "scores",
+   "ja": "有効",
+   "kana": "ゆうこう",
+   "romaji": "yuko",
+   "say": "yoo-ko",
+   "he_translit": "יוקו",
+   "meaning": {
+    "he": "ניקוד ישן, קטן מוואזרי",
+    "ru": "Старая оценка, меньше вадза-ари",
+    "en": "Old score, smaller than waza-ari",
+    "de": "Alte Wertung, kleiner als Waza-ari"
+   },
+   "when": {
+    "he": "פעם ניתן על הטלה חלקית; בחוקי IJF של היום כבר לא משתמשים בו.",
+    "ru": "Раньше давался за неполный бросок; в нынешних правилах IJF его больше нет.",
+    "en": "Once given for a partial throw; current IJF rules no longer use it.",
+    "de": "Früher gab es ihn für einen Teilwurf; die heutigen IJF-Regeln nutzen ihn nicht mehr."
+   }
+  },
+  {
+   "id": "koka",
+   "cat": "scores",
+   "ja": "効果",
+   "kana": "こうか",
+   "romaji": "koka",
+   "say": "ko-ka",
+   "he_translit": "קוקה",
+   "meaning": {
+    "he": "ניקוד ישן, הקטן ביותר",
+    "ru": "Старая оценка, самая маленькая",
+    "en": "Old score, the smallest",
+    "de": "Alte Wertung, die kleinste"
+   },
+   "when": {
+    "he": "היה פעם הניקוד הקטן ביותר; הוא בוטל ולא נמצא בשימוש היום.",
+    "ru": "Когда-то была самой маленькой оценкой; её отменили, сегодня не используется.",
+    "en": "It was once the smallest score; it was removed and is not used today.",
+    "de": "Sie war einmal die kleinste Wertung; sie wurde abgeschafft und wird heute nicht genutzt."
+   }
+  },
+  {
+   "id": "maitta",
+   "cat": "scores",
+   "ja": "参った",
+   "kana": "まいった",
+   "romaji": "maitta",
+   "say": "ma-eet-ta",
+   "he_translit": "מאיטה",
+   "meaning": {
+    "he": "אני נכנע",
+    "ru": "Сдаюсь",
+    "en": "I give up",
+    "de": "Ich gebe auf"
+   },
+   "when": {
+    "he": "בחניקה או בבריח אפשר להיכנע במילה הזו או בטפיחה פעמיים, וזה איפון ליריב.",
+    "ru": "При удушении или болевом можно сдаться этим словом или двумя хлопками; это иппон сопернику.",
+    "en": "In a strangle or lock you can give up with this word or by tapping twice; it is ippon for the opponent.",
+    "de": "Bei Würge- oder Hebeltechnik kannst du mit diesem Wort oder zweimal Abklopfen aufgeben; das ist Ippon für den Gegner."
+   }
+  },
+  {
+   "id": "kiken-gachi",
+   "cat": "scores",
+   "ja": "棄権勝ち",
+   "kana": "きけんがち",
+   "romaji": "kiken-gachi",
+   "say": "kee-ken ga-chee",
+   "he_translit": "קיקן גאצ'י",
+   "meaning": {
+    "he": "ניצחון כי היריב פרש",
+    "ru": "Победа из-за отказа соперника",
+    "en": "Win because the opponent withdrew",
+    "de": "Sieg, weil der Gegner aufgibt"
+   },
+   "when": {
+    "he": "כשהיריב לא יכול להמשיך את הקרב, למשל בגלל פציעה.",
+    "ru": "Когда соперник не может продолжать схватку, например из-за травмы.",
+    "en": "When the opponent cannot continue the match, for example because of an injury.",
+    "de": "Wenn der Gegner nicht weiterkämpfen kann, zum Beispiel wegen einer Verletzung."
+   }
+  },
+  {
+   "id": "fusen-gachi",
+   "cat": "scores",
+   "ja": "不戦勝ち",
+   "kana": "ふせんがち",
+   "romaji": "fusen-gachi",
+   "say": "foo-sen ga-chee",
+   "he_translit": "פוסן גאצ'י",
+   "meaning": {
+    "he": "ניצחון בלי קרב",
+    "ru": "Победа без схватки",
+    "en": "Win without a fight",
+    "de": "Sieg ohne Kampf"
+   },
+   "when": {
+    "he": "כשהיריב לא הגיע לקרב, המתמודד שהגיע מנצח.",
+    "ru": "Когда соперник не вышел на схватку, побеждает тот, кто пришёл.",
+    "en": "When the opponent does not show up, the athlete who came wins.",
+    "de": "Wenn der Gegner nicht erscheint, gewinnt der, der da ist."
+   }
+  },
+  {
+   "id": "tori",
+   "cat": "principles",
+   "ja": "取り",
+   "kana": "とり",
+   "romaji": "tori",
+   "say": "toe-ree",
+   "he_translit": "טורי",
+   "meaning": {
+    "he": "מי שמבצע את הטכניקה",
+    "ru": "Тот, кто выполняет приём",
+    "en": "The one who does the technique",
+    "de": "Wer die Technik ausführt"
+   },
+   "when": {
+    "he": "בתרגול בזוגות טורי מטיל, ואחר כך מתחלפים בתפקידים.",
+    "ru": "В работе в парах тори бросает, потом меняемся ролями.",
+    "en": "In pair practice tori throws, then you swap roles.",
+    "de": "Beim Üben zu zweit wirft Tori, danach tauscht ihr die Rollen."
+   }
+  },
+  {
+   "id": "uke",
+   "cat": "principles",
+   "ja": "受け",
+   "kana": "うけ",
+   "romaji": "uke",
+   "say": "oo-keh",
+   "he_translit": "אוקה",
+   "meaning": {
+    "he": "מי שמקבל את הטכניקה",
+    "ru": "Тот, на ком выполняют приём",
+    "en": "The one who receives the technique",
+    "de": "Wer die Technik annimmt"
+   },
+   "when": {
+    "he": "אוקה טוב עוזר לבן הזוג ונופל בבטחה בבלימה נכונה.",
+    "ru": "Хороший уке помогает партнёру и безопасно падает с правильной страховкой.",
+    "en": "A good uke helps the partner and falls safely with a proper breakfall.",
+    "de": "Ein guter Uke hilft dem Partner und fällt sicher mit richtiger Fallschule."
+   }
+  },
+  {
+   "id": "kuzushi",
+   "cat": "principles",
+   "ja": "崩し",
+   "kana": "くずし",
+   "romaji": "kuzushi",
+   "say": "koo-zoo-shee",
+   "he_translit": "קוזושי",
+   "meaning": {
+    "he": "הוצאה משיווי משקל",
+    "ru": "Выведение из равновесия",
+    "en": "Breaking the balance",
+    "de": "Gleichgewicht brechen"
+   },
+   "when": {
+    "he": "השלב הראשון של כל הטלה: קודם מוציאים את היריב משיווי משקל.",
+    "ru": "Первый шаг любого броска: сначала выводим соперника из равновесия.",
+    "en": "The first step of every throw: first take the opponent off balance.",
+    "de": "Der erste Schritt jedes Wurfs: Bring den Gegner zuerst aus dem Gleichgewicht."
+   }
+  },
+  {
+   "id": "tsukuri",
+   "cat": "principles",
+   "ja": "作り",
+   "kana": "つくり",
+   "romaji": "tsukuri",
+   "say": "tsoo-koo-ree",
+   "he_translit": "צוקורי",
+   "meaning": {
+    "he": "כניסה והתאמה לטכניקה",
+    "ru": "Вход и подготовка приёма",
+    "en": "Fitting in for the technique",
+    "de": "Eindrehen, Vorbereiten der Technik"
+   },
+   "when": {
+    "he": "השלב השני: נכנסים למקום הנכון ומתאימים את הגוף להטלה.",
+    "ru": "Второй шаг: входим в правильную позицию и подстраиваем тело под бросок.",
+    "en": "The second step: move into the right position and fit your body to the throw.",
+    "de": "Der zweite Schritt: Geh in die richtige Position und pass deinen Körper an den Wurf an."
+   }
+  },
+  {
+   "id": "kake",
+   "cat": "principles",
+   "ja": "掛け",
+   "kana": "かけ",
+   "romaji": "kake",
+   "say": "ka-keh",
+   "he_translit": "קקה",
+   "meaning": {
+    "he": "ביצוע ההטלה",
+    "ru": "Выполнение броска",
+    "en": "Executing the throw",
+    "de": "Ausführen des Wurfs"
+   },
+   "when": {
+    "he": "השלב השלישי, אחרי קוזושי וצוקורי: מסיימים את ההטלה.",
+    "ru": "Третий шаг после кудзуси и цукури: завершаем бросок.",
+    "en": "The third step, after kuzushi and tsukuri: finish the throw.",
+    "de": "Der dritte Schritt nach Kuzushi und Tsukuri: Beende den Wurf."
+   }
+  },
+  {
+   "id": "seiryoku-zenyo",
+   "cat": "principles",
+   "ja": "精力善用",
+   "kana": "せいりょくぜんよう",
+   "romaji": "seiryoku zen'yo",
+   "say": "say-ryo-koo zen-yo",
+   "he_translit": "סייריוקו זניו",
+   "meaning": {
+    "he": "שימוש נכון ויעיל בכוח",
+    "ru": "Наилучшее использование сил",
+    "en": "Best use of energy",
+    "de": "Bester Einsatz der Kraft"
+   },
+   "when": {
+    "he": "אחד משני עקרונות היסוד של ג׳יגורו קאנו: להשיג הכי הרבה במאמץ נכון.",
+    "ru": "Один из двух главных принципов Дзигоро Кано: добиваться большего правильным усилием.",
+    "en": "One of Jigoro Kano's two main principles: achieve the most with the right effort.",
+    "de": "Eines der zwei Grundprinzipien von Jigoro Kano: Mit richtiger Anstrengung das Meiste erreichen."
+   }
+  },
+  {
+   "id": "jita-kyoei",
+   "cat": "principles",
+   "ja": "自他共栄",
+   "kana": "じたきょうえい",
+   "romaji": "jita kyoei",
+   "say": "jee-ta kyo-ay",
+   "he_translit": "ג'יטה קיואיי",
+   "meaning": {
+    "he": "הצלחה משותפת, לי ולאחרים",
+    "ru": "Взаимное процветание, мне и другим",
+    "en": "Mutual benefit, for me and others",
+    "de": "Gemeinsames Wohl, für mich und andere"
+   },
+   "when": {
+    "he": "העיקרון השני של קאנו: מתקדמים יחד ועוזרים זה לזה. מכאן השם Jita.",
+    "ru": "Второй принцип Кано: растём вместе и помогаем друг другу. Отсюда название Jita.",
+    "en": "Kano's second principle: we grow together and help each other. Jita is named after it.",
+    "de": "Kanos zweites Prinzip: Gemeinsam wachsen und einander helfen. Daher der Name Jita."
+   }
+  },
+  {
+   "id": "ju-no-ri",
+   "cat": "principles",
+   "ja": "柔の理",
+   "kana": "じゅうのり",
+   "romaji": "ju no ri",
+   "say": "joo no ree",
+   "he_translit": "ג'ו נו רי",
+   "meaning": {
+    "he": "עקרון הרכות: לוותר כדי לנצח",
+    "ru": "Принцип мягкости: уступить, чтобы победить",
+    "en": "Principle of gentleness: yield to win",
+    "de": "Prinzip der Nachgiebigkeit: nachgeben, um zu siegen"
+   },
+   "when": {
+    "he": "כשהיריב דוחף, לא נלחמים בכוח אלא משתמשים בתנועה שלו.",
+    "ru": "Когда соперник толкает, не боремся силой, а используем его движение.",
+    "en": "When the opponent pushes, don't fight force with force, use their movement.",
+    "de": "Wenn der Gegner drückt, kämpfst du nicht Kraft gegen Kraft, sondern nutzt seine Bewegung."
+   }
+  },
+  {
+   "id": "ju-yoku-go-o-seisu",
+   "cat": "principles",
+   "ja": "柔よく剛を制す",
+   "kana": "じゅうよくごうをせいす",
+   "romaji": "ju yoku go o seisu",
+   "say": "joo yo-koo go o say-soo",
+   "he_translit": "ג'ו יוקו גו או סייסו",
+   "meaning": {
+    "he": "הרך מנצח את הקשה",
+    "ru": "Мягкое побеждает жёсткое",
+    "en": "Softness overcomes hardness",
+    "de": "Das Weiche besiegt das Harte"
+   },
+   "when": {
+    "he": "פתגם ישן שמסביר למה גם ילד קטן יכול להטיל יריב גדול בטכניקה טובה.",
+    "ru": "Старая поговорка о том, почему и маленький с хорошей техникой может бросить большого.",
+    "en": "An old saying that explains why good technique lets a small person throw a big one.",
+    "de": "Ein alter Spruch: Mit guter Technik kann auch ein Kleiner einen Großen werfen."
+   }
+  },
+  {
+   "id": "happo-no-kuzushi",
+   "cat": "principles",
+   "ja": "八方の崩し",
+   "kana": "はっぽうのくずし",
+   "romaji": "happo no kuzushi",
+   "say": "hap-po no koo-zoo-shee",
+   "he_translit": "הפו נו קוזושי",
+   "meaning": {
+    "he": "הוצאה משיווי משקל לשמונה כיוונים",
+    "ru": "Выведение из равновесия в восьми направлениях",
+    "en": "Breaking balance in eight directions",
+    "de": "Gleichgewicht brechen in acht Richtungen"
+   },
+   "when": {
+    "he": "מתרגלים למשוך ולדחוף את בן הזוג קדימה, אחורה, לצדדים ובאלכסונים.",
+    "ru": "Учимся тянуть и толкать партнёра вперёд, назад, в стороны и по диагоналям.",
+    "en": "Practise pulling and pushing your partner forward, back, sideways and diagonally.",
+    "de": "Übe, deinen Partner nach vorn, hinten, zur Seite und schräg zu ziehen und zu schieben."
+   }
+  },
+  {
+   "id": "tai-sabaki",
+   "cat": "principles",
+   "ja": "体捌き",
+   "kana": "たいさばき",
+   "romaji": "tai sabaki",
+   "say": "tie sa-ba-kee",
+   "he_translit": "טאי סבאקי",
+   "meaning": {
+    "he": "תנועה וסיבוב של הגוף",
+    "ru": "Повороты и перемещения тела",
+    "en": "Turning and moving the body",
+    "de": "Drehen und Bewegen des Körpers"
+   },
+   "when": {
+    "he": "מתרגלים צעדים וסיבובים כדי להיכנס להטלה או לחמוק מהתקפה.",
+    "ru": "Отрабатываем шаги и повороты, чтобы войти в бросок или уйти от атаки.",
+    "en": "We practise steps and turns to enter a throw or avoid an attack.",
+    "de": "Du übst Schritte und Drehungen, um in einen Wurf zu gehen oder einem Angriff auszuweichen."
+   }
+  },
+  {
+   "id": "shisei",
+   "cat": "principles",
+   "ja": "姿勢",
+   "kana": "しせい",
+   "romaji": "shisei",
+   "say": "shee-say",
+   "he_translit": "שיסיי",
+   "meaning": {
+    "he": "יציבה, עמידה",
+    "ru": "Стойка, осанка",
+    "en": "Posture, stance",
+    "de": "Haltung, Stand"
+   },
+   "when": {
+    "he": "המאמן מזכיר לשמור על יציבה טובה: גב ישר וברכיים רכות.",
+    "ru": "Тренер напоминает держать хорошую осанку: спина прямая, колени мягкие.",
+    "en": "The coach reminds you to keep good posture: straight back, soft knees.",
+    "de": "Der Trainer erinnert dich an gute Haltung: gerader Rücken, lockere Knie."
+   }
+  },
+  {
+   "id": "shizentai",
+   "cat": "principles",
+   "ja": "自然体",
+   "kana": "しぜんたい",
+   "romaji": "shizentai",
+   "say": "shee-zen-tie",
+   "he_translit": "שיזנטאי",
+   "meaning": {
+    "he": "עמידה טבעית",
+    "ru": "Естественная стойка",
+    "en": "Natural stance",
+    "de": "Natürliche Haltung"
+   },
+   "when": {
+    "he": "עומדים זקוף ורגוע, רגליים ברוחב הכתפיים, מוכנים לזוז לכל כיוון.",
+    "ru": "Стоим прямо и спокойно, ноги на ширине плеч, готовы двигаться в любую сторону.",
+    "en": "Stand upright and relaxed, feet shoulder-width apart, ready to move any way.",
+    "de": "Du stehst aufrecht und locker, Füße schulterbreit, bereit für jede Richtung."
+   }
+  },
+  {
+   "id": "jigotai",
+   "cat": "principles",
+   "ja": "自護体",
+   "kana": "じごたい",
+   "romaji": "jigotai",
+   "say": "jee-go-tie",
+   "he_translit": "ג'יגוטאי",
+   "meaning": {
+    "he": "עמידת הגנה",
+    "ru": "Защитная стойка",
+    "en": "Defensive stance",
+    "de": "Verteidigungshaltung"
+   },
+   "when": {
+    "he": "רגליים רחבות וברכיים כפופות, כדי שיהיה קשה להטיל אותנו.",
+    "ru": "Ноги широко, колени согнуты, чтобы тебя было трудно бросить.",
+    "en": "Feet wide and knees bent, so it is hard to throw you.",
+    "de": "Füße weit und Knie gebeugt, damit man dich schwer werfen kann."
+   }
+  },
+  {
+   "id": "maai",
+   "cat": "principles",
+   "ja": "間合い",
+   "kana": "まあい",
+   "romaji": "maai",
+   "say": "ma-eye",
+   "he_translit": "מאאי",
+   "meaning": {
+    "he": "המרחק מהיריב",
+    "ru": "Дистанция до соперника",
+    "en": "Distance to the opponent",
+    "de": "Abstand zum Gegner"
+   },
+   "when": {
+    "he": "שומרים על מרחק נכון: קרוב מספיק לתקוף, רחוק מספיק להתגונן.",
+    "ru": "Держим правильную дистанцию: достаточно близко для атаки и далеко для защиты.",
+    "en": "Keep the right distance: close enough to attack, far enough to defend.",
+    "de": "Halte den richtigen Abstand: nah genug zum Angreifen, weit genug zum Verteidigen."
+   }
+  },
+  {
+   "id": "shin-gi-tai",
+   "cat": "principles",
+   "ja": "心技体",
+   "kana": "しんぎたい",
+   "romaji": "shin gi tai",
+   "say": "shin ghee tie",
+   "he_translit": "שין גי טאי",
+   "meaning": {
+    "he": "נפש, טכניקה, גוף",
+    "ru": "Дух, техника, тело",
+    "en": "Mind, technique, body",
+    "de": "Geist, Technik, Körper"
+   },
+   "when": {
+    "he": "מזכיר שג׳ודוקא טוב מפתח את שלושתם יחד ולא רק את הכוח.",
+    "ru": "Напоминает: хороший дзюдоист развивает все три вместе, а не только силу.",
+    "en": "A reminder that a good judoka develops all three together, not only strength.",
+    "de": "Eine Erinnerung: Ein guter Judoka entwickelt alle drei zusammen, nicht nur die Kraft."
+   }
+  },
+  {
+   "id": "waza",
+   "cat": "techniques",
+   "ja": "技",
+   "kana": "わざ",
+   "romaji": "waza",
+   "say": "wa-za",
+   "he_translit": "וואזה",
+   "meaning": {
+    "he": "טכניקה",
+    "ru": "Техника, приём",
+    "en": "Technique",
+    "de": "Technik"
+   },
+   "when": {
+    "he": "מופיע בסוף שמות של קבוצות טכניקות, למשל נגה וואזה.",
+    "ru": "Стоит в конце названий групп техник, например нагэ-вадза.",
+    "en": "It ends the names of technique groups, for example nage-waza.",
+    "de": "Steht am Ende von Namen von Technikgruppen, zum Beispiel Nage-waza."
+   }
+  },
+  {
+   "id": "tachi-waza",
+   "cat": "techniques",
+   "ja": "立ち技",
+   "kana": "たちわざ",
+   "romaji": "tachi-waza",
+   "say": "ta-chee wa-za",
+   "he_translit": "טאצ'י וואזה",
+   "meaning": {
+    "he": "טכניקות בעמידה",
+    "ru": "Техника в стойке",
+    "en": "Standing techniques",
+    "de": "Techniken im Stand"
+   },
+   "when": {
+    "he": "כל ההטלות שמבצעים כששני הג׳ודוקאים עומדים.",
+    "ru": "Все броски, которые выполняются, когда оба дзюдоиста стоят.",
+    "en": "All throws done while both judoka are standing.",
+    "de": "Alle Würfe, die ausgeführt werden, während beide Judoka stehen."
+   }
+  },
+  {
+   "id": "ne-waza",
+   "cat": "techniques",
+   "ja": "寝技",
+   "kana": "ねわざ",
+   "romaji": "ne-waza",
+   "say": "neh wa-za",
+   "he_translit": "נה וואזה",
+   "meaning": {
+    "he": "עבודת קרקע",
+    "ru": "Борьба в партере",
+    "en": "Ground techniques",
+    "de": "Bodentechniken"
+   },
+   "when": {
+    "he": "החלק של האימון שבו נאבקים בשכיבה על המזרן: החזקות, חניקות ובריחים.",
+    "ru": "Часть тренировки, где боремся лёжа: удержания, удушения и болевые.",
+    "en": "The part of practice where we fight on the mat: holds, strangles and locks.",
+    "de": "Der Teil des Trainings am Boden: Haltegriffe, Würgen und Hebel."
+   }
+  },
+  {
+   "id": "nage-waza",
+   "cat": "techniques",
+   "ja": "投げ技",
+   "kana": "なげわざ",
+   "romaji": "nage-waza",
+   "say": "na-geh wa-za",
+   "he_translit": "נגה וואזה",
+   "meaning": {
+    "he": "טכניקות הטלה",
+    "ru": "Техника бросков",
+    "en": "Throwing techniques",
+    "de": "Wurftechniken"
+   },
+   "when": {
+    "he": "כל ההטלות בג׳ודו, מחולקות לחמש קבוצות לפי החלק שעובד בהטלה.",
+    "ru": "Все броски дзюдо; их делят на пять групп по тому, что главное в броске.",
+    "en": "All judo throws, divided into five groups by what does the main work.",
+    "de": "Alle Judowürfe, eingeteilt in fünf Gruppen danach, was die Hauptarbeit macht."
+   }
+  },
+  {
+   "id": "katame-waza",
+   "cat": "techniques",
+   "ja": "固め技",
+   "kana": "かためわざ",
+   "romaji": "katame-waza",
+   "say": "ka-ta-meh wa-za",
+   "he_translit": "קטמה וואזה",
+   "meaning": {
+    "he": "טכניקות שליטה בקרקע",
+    "ru": "Техника сковывания",
+    "en": "Grappling techniques",
+    "de": "Haltetechniken am Boden"
+   },
+   "when": {
+    "he": "כוללות שלוש קבוצות: החזקות, חניקות ובריחים.",
+    "ru": "Включают три группы: удержания, удушения и болевые приёмы.",
+    "en": "They include three groups: hold-downs, strangles and joint locks.",
+    "de": "Dazu gehören drei Gruppen: Haltegriffe, Würgetechniken und Hebel."
+   }
+  },
+  {
+   "id": "osaekomi-waza",
+   "cat": "techniques",
+   "ja": "抑え込み技",
+   "kana": "おさえこみわざ",
+   "romaji": "osaekomi-waza",
+   "say": "o-sa-eh-ko-mee wa-za",
+   "he_translit": "אוסאקומי וואזה",
+   "meaning": {
+    "he": "החזקות",
+    "ru": "Удержания",
+    "en": "Hold-downs",
+    "de": "Haltegriffe"
+   },
+   "when": {
+    "he": "מחזיקים את היריב על הגב כך שלא יוכל לקום, למשל קסה גטמה.",
+    "ru": "Держим соперника на спине так, чтобы он не мог встать, например кэса-гатамэ.",
+    "en": "Hold the opponent on their back so they cannot get up, like kesa-gatame.",
+    "de": "Du hältst den Gegner auf dem Rücken, sodass er nicht aufstehen kann, etwa Kesa-gatame."
+   }
+  },
+  {
+   "id": "shime-waza",
+   "cat": "techniques",
+   "ja": "絞め技",
+   "kana": "しめわざ",
+   "romaji": "shime-waza",
+   "say": "shee-meh wa-za",
+   "he_translit": "שימה וואזה",
+   "meaning": {
+    "he": "חניקות",
+    "ru": "Удушающие приёмы",
+    "en": "Strangles",
+    "de": "Würgetechniken"
+   },
+   "when": {
+    "he": "לומדים רק בהשגחת המאמן ובזהירות, ומשחררים מיד כשבן הזוג טופח.",
+    "ru": "Учим только под присмотром тренера и осторожно; отпускаем сразу, как партнёр хлопнул.",
+    "en": "Learned only with the coach watching and carefully; let go as soon as your partner taps.",
+    "de": "Nur unter Aufsicht des Trainers und vorsichtig üben; lass sofort los, wenn dein Partner abklopft."
+   }
+  },
+  {
+   "id": "kansetsu-waza",
+   "cat": "techniques",
+   "ja": "関節技",
+   "kana": "かんせつわざ",
+   "romaji": "kansetsu-waza",
+   "say": "kan-set-soo wa-za",
+   "he_translit": "קנסצו וואזה",
+   "meaning": {
+    "he": "בריחים על מפרקים",
+    "ru": "Болевые приёмы на суставы",
+    "en": "Joint locks",
+    "de": "Hebeltechniken"
+   },
+   "when": {
+    "he": "בתחרויות ג׳ודו מותר בריח רק על המרפק, ומשחררים מיד כשבן הזוג טופח.",
+    "ru": "В соревнованиях по дзюдо болевой разрешён только на локоть; отпускаем сразу при хлопке.",
+    "en": "In judo competition only elbow locks are allowed; let go at once when your partner taps.",
+    "de": "Im Judowettkampf sind nur Armhebel am Ellbogen erlaubt; lass sofort los, wenn dein Partner abklopft."
+   }
+  },
+  {
+   "id": "te-waza",
+   "cat": "techniques",
+   "ja": "手技",
+   "kana": "てわざ",
+   "romaji": "te-waza",
+   "say": "teh wa-za",
+   "he_translit": "טה וואזה",
+   "meaning": {
+    "he": "הטלות ידיים",
+    "ru": "Броски руками",
+    "en": "Hand throws",
+    "de": "Handwürfe"
+   },
+   "when": {
+    "he": "הטלות שבהן הידיים והכתפיים עושות את רוב העבודה, למשל שהו נגה.",
+    "ru": "Броски, где главную работу делают руки и плечи, например сэои-нагэ.",
+    "en": "Throws where the arms and shoulders do most of the work, like seoi-nage.",
+    "de": "Würfe, bei denen Arme und Schultern die Hauptarbeit machen, etwa Seoi-nage."
+   }
+  },
+  {
+   "id": "koshi-waza",
+   "cat": "techniques",
+   "ja": "腰技",
+   "kana": "こしわざ",
+   "romaji": "koshi-waza",
+   "say": "ko-shee wa-za",
+   "he_translit": "קושי וואזה",
+   "meaning": {
+    "he": "הטלות מותן",
+    "ru": "Броски бедром",
+    "en": "Hip throws",
+    "de": "Hüftwürfe"
+   },
+   "when": {
+    "he": "הטלות שבהן מרימים את היריב מעל המותן, למשל או גושי.",
+    "ru": "Броски, где соперника поднимают через бедро, например о-госи.",
+    "en": "Throws where you lift the opponent over your hip, like o-goshi.",
+    "de": "Würfe, bei denen du den Gegner über die Hüfte hebst, etwa O-goshi."
+   }
+  },
+  {
+   "id": "ashi-waza",
+   "cat": "techniques",
+   "ja": "足技",
+   "kana": "あしわざ",
+   "romaji": "ashi-waza",
+   "say": "a-shee wa-za",
+   "he_translit": "אשי וואזה",
+   "meaning": {
+    "he": "הטלות רגליים",
+    "ru": "Броски ногами",
+    "en": "Foot and leg throws",
+    "de": "Fuß- und Beinwürfe"
+   },
+   "when": {
+    "he": "הטלות שבהן הרגל גוזזת, מטאטאת או חוסמת, למשל דה אשי בראי.",
+    "ru": "Броски, где нога подсекает, зацепляет или блокирует, например дэ-аси-барай.",
+    "en": "Throws where the leg reaps, sweeps or blocks, like de-ashi-harai.",
+    "de": "Würfe, bei denen das Bein sichelt, fegt oder blockiert, etwa De-ashi-harai."
+   }
+  },
+  {
+   "id": "sutemi-waza",
+   "cat": "techniques",
+   "ja": "捨身技",
+   "kana": "すてみわざ",
+   "romaji": "sutemi-waza",
+   "say": "soo-teh-mee wa-za",
+   "he_translit": "סוטמי וואזה",
+   "meaning": {
+    "he": "הטלות הקרבה",
+    "ru": "Броски с падением",
+    "en": "Sacrifice throws",
+    "de": "Opferwürfe"
+   },
+   "when": {
+    "he": "המטיל נופל בעצמו בכוונה כדי להטיל את היריב.",
+    "ru": "Бросающий сам намеренно падает, чтобы бросить соперника.",
+    "en": "The thrower falls on purpose to throw the opponent.",
+    "de": "Der Werfende fällt absichtlich selbst, um den Gegner zu werfen."
+   }
+  },
+  {
+   "id": "ma-sutemi-waza",
+   "cat": "techniques",
+   "ja": "真捨身技",
+   "kana": "ますてみわざ",
+   "romaji": "ma-sutemi-waza",
+   "say": "ma soo-teh-mee wa-za",
+   "he_translit": "מה סוטמי וואזה",
+   "meaning": {
+    "he": "הקרבה לאחור על הגב",
+    "ru": "Бросок с падением на спину",
+    "en": "Sacrifice falling onto the back",
+    "de": "Opferwurf nach hinten auf den Rücken"
+   },
+   "when": {
+    "he": "המטיל נופל ישר על הגב, למשל בטומוה נגה.",
+    "ru": "Бросающий падает прямо на спину, например в томоэ-нагэ.",
+    "en": "The thrower falls straight onto their back, as in tomoe-nage.",
+    "de": "Der Werfende fällt gerade auf den Rücken, wie bei Tomoe-nage."
+   }
+  },
+  {
+   "id": "yoko-sutemi-waza",
+   "cat": "techniques",
+   "ja": "横捨身技",
+   "kana": "よこすてみわざ",
+   "romaji": "yoko-sutemi-waza",
+   "say": "yo-ko soo-teh-mee wa-za",
+   "he_translit": "יוקו סוטמי וואזה",
+   "meaning": {
+    "he": "הקרבה לצד",
+    "ru": "Бросок с падением на бок",
+    "en": "Sacrifice falling to the side",
+    "de": "Opferwurf zur Seite"
+   },
+   "when": {
+    "he": "המטיל נופל על הצד, למשל ביוקו גקה.",
+    "ru": "Бросающий падает на бок, например в ёко-гакэ.",
+    "en": "The thrower falls onto their side, as in yoko-gake.",
+    "de": "Der Werfende fällt auf die Seite, wie bei Yoko-gake."
+   }
+  },
+  {
+   "id": "renraku-waza",
+   "cat": "techniques",
+   "ja": "連絡技",
+   "kana": "れんらくわざ",
+   "romaji": "renraku-waza",
+   "say": "ren-ra-koo wa-za",
+   "he_translit": "רנרקו וואזה",
+   "meaning": {
+    "he": "שילוב של טכניקות",
+    "ru": "Комбинация приёмов",
+    "en": "Combination techniques",
+    "de": "Kombinationstechniken"
+   },
+   "when": {
+    "he": "מתחילים בטכניקה אחת, וכשהיריב מגיב עוברים מיד לטכניקה אחרת.",
+    "ru": "Начинаем один приём и, когда соперник реагирует, сразу переходим к другому.",
+    "en": "Start one technique and, when the opponent reacts, switch at once to another.",
+    "de": "Du beginnst eine Technik und wechselst sofort zu einer anderen, wenn der Gegner reagiert."
+   }
+  },
+  {
+   "id": "kaeshi-waza",
+   "cat": "techniques",
+   "ja": "返し技",
+   "kana": "かえしわざ",
+   "romaji": "kaeshi-waza",
+   "say": "ka-eh-shee wa-za",
+   "he_translit": "קאשי וואזה",
+   "meaning": {
+    "he": "טכניקות נגד",
+    "ru": "Контрприёмы",
+    "en": "Counter techniques",
+    "de": "Kontertechniken"
+   },
+   "when": {
+    "he": "משתמשים בהתקפה של היריב כדי להטיל אותו בחזרה.",
+    "ru": "Используем атаку соперника, чтобы бросить его самого.",
+    "en": "Use the opponent's attack to throw them instead.",
+    "de": "Du nutzt den Angriff des Gegners, um ihn selbst zu werfen."
+   }
+  },
+  {
+   "id": "atemi-waza",
+   "cat": "techniques",
+   "ja": "当身技",
+   "kana": "あてみわざ",
+   "romaji": "atemi-waza",
+   "say": "a-teh-mee wa-za",
+   "he_translit": "אטמי וואזה",
+   "meaning": {
+    "he": "מכות וחבטות",
+    "ru": "Удары",
+    "en": "Striking techniques",
+    "de": "Schlagtechniken"
+   },
+   "when": {
+    "he": "נלמדות רק בקטה, ואסורות ברנדורי ובתחרות.",
+    "ru": "Изучаются только в ката; в рандори и на соревнованиях запрещены.",
+    "en": "Taught only in kata; not allowed in randori or competition.",
+    "de": "Nur in Kata gelehrt; im Randori und Wettkampf nicht erlaubt."
+   }
+  },
+  {
+   "id": "gokyo",
+   "cat": "techniques",
+   "ja": "五教",
+   "kana": "ごきょう",
+   "romaji": "gokyo",
+   "say": "go-kyo",
+   "he_translit": "גוקיו",
+   "meaning": {
+    "he": "חמש קבוצות ההטלות של הקודוקאן",
+    "ru": "Пять групп бросков Кодокан",
+    "en": "The Kodokan's five groups of throws",
+    "de": "Die fünf Wurfgruppen des Kodokan"
+   },
+   "when": {
+    "he": "רשימה של 40 הטלות בסיס בחמש קבוצות, שלומדים לפי הסדר.",
+    "ru": "Список из 40 базовых бросков в пяти группах, которые изучают по порядку.",
+    "en": "A list of 40 basic throws in five groups, learned in order.",
+    "de": "Eine Liste von 40 Grundwürfen in fünf Gruppen, die man der Reihe nach lernt."
+   }
+  },
+  {
+   "id": "o",
+   "cat": "techniques",
+   "ja": "大",
+   "kana": "おお",
+   "romaji": "o",
+   "say": "oh",
+   "he_translit": "או",
+   "meaning": {
+    "he": "גדול",
+    "ru": "Большой",
+    "en": "Big, major",
+    "de": "Groß"
+   },
+   "when": {
+    "he": "בתחילת שם של טכניקה, למשל או סוטו גארי.",
+    "ru": "В начале названия приёма, например о-сото-гари.",
+    "en": "At the start of a technique name, like o-soto-gari.",
+    "de": "Am Anfang eines Technik-Namens, etwa O-soto-gari."
+   }
+  },
+  {
+   "id": "ko",
+   "cat": "techniques",
+   "ja": "小",
+   "kana": "こ",
+   "romaji": "ko",
+   "say": "ko",
+   "he_translit": "קו",
+   "meaning": {
+    "he": "קטן",
+    "ru": "Малый",
+    "en": "Small, minor",
+    "de": "Klein"
+   },
+   "when": {
+    "he": "בתחילת שם של טכניקה, למשל קו אוצ׳י גארי.",
+    "ru": "В начале названия приёма, например ко-ути-гари.",
+    "en": "At the start of a technique name, like ko-uchi-gari.",
+    "de": "Am Anfang eines Technik-Namens, etwa Ko-uchi-gari."
+   }
+  },
+  {
+   "id": "gari",
+   "cat": "techniques",
+   "ja": "刈り",
+   "kana": "がり",
+   "romaji": "gari",
+   "say": "ga-ree",
+   "he_translit": "גארי",
+   "meaning": {
+    "he": "גזיזה",
+    "ru": "Подсечка, зацеп косой",
+    "en": "Reap",
+    "de": "Sichel"
+   },
+   "when": {
+    "he": "בסוף שם של הטלה שבה הרגל גוזזת את רגל היריב, כמו או סוטו גארי.",
+    "ru": "В конце названия броска, где нога «скашивает» ногу соперника, как о-сото-гари.",
+    "en": "Ends the name of a throw where your leg reaps the opponent's leg, like o-soto-gari.",
+    "de": "Am Ende eines Wurfnamens, bei dem dein Bein das des Gegners wegsichelt, wie O-soto-gari."
+   }
+  },
+  {
+   "id": "harai",
+   "cat": "techniques",
+   "ja": "払い",
+   "kana": "はらい",
+   "romaji": "harai",
+   "say": "ha-rye",
+   "he_translit": "הראי",
+   "meaning": {
+    "he": "טאטוא",
+    "ru": "Подметание",
+    "en": "Sweep",
+    "de": "Fegen"
+   },
+   "when": {
+    "he": "בשם של הטלה שבה מטאטאים את הרגל, כמו הראי גושי.",
+    "ru": "В названии броска, где ногу «подметают», как харай-госи.",
+    "en": "In the name of a throw with a sweeping leg, like harai-goshi.",
+    "de": "Im Namen eines Wurfs mit fegendem Bein, wie Harai-goshi."
+   }
+  },
+  {
+   "id": "guruma",
+   "cat": "techniques",
+   "ja": "車",
+   "kana": "ぐるま",
+   "romaji": "guruma",
+   "say": "goo-roo-ma",
+   "he_translit": "גורומה",
+   "meaning": {
+    "he": "גלגל",
+    "ru": "Колесо",
+    "en": "Wheel",
+    "de": "Rad"
+   },
+   "when": {
+    "he": "בשם של הטלה שבה היריב מסתובב כמו גלגל, כמו אשי גורומה.",
+    "ru": "В названии броска, где соперник вращается как колесо, как аси-гурума.",
+    "en": "In the name of a throw where the opponent turns like a wheel, like ashi-guruma.",
+    "de": "Im Namen eines Wurfs, bei dem sich der Gegner wie ein Rad dreht, wie Ashi-guruma."
+   }
+  },
+  {
+   "id": "otoshi",
+   "cat": "techniques",
+   "ja": "落とし",
+   "kana": "おとし",
+   "romaji": "otoshi",
+   "say": "o-toe-shee",
+   "he_translit": "אוטושי",
+   "meaning": {
+    "he": "הפלה, הורדה למטה",
+    "ru": "Сбрасывание вниз",
+    "en": "Drop",
+    "de": "Fallenlassen"
+   },
+   "when": {
+    "he": "בשם של הטלה שבה מפילים את היריב למטה, כמו טאי אוטושי.",
+    "ru": "В названии броска, где соперника роняют вниз, как тай-отоси.",
+    "en": "In the name of a throw that drops the opponent down, like tai-otoshi.",
+    "de": "Im Namen eines Wurfs, der den Gegner nach unten bringt, wie Tai-otoshi."
+   }
+  },
+  {
+   "id": "gake",
+   "cat": "techniques",
+   "ja": "掛け",
+   "kana": "がけ",
+   "romaji": "gake",
+   "say": "ga-keh",
+   "he_translit": "גקה",
+   "meaning": {
+    "he": "וו, תפיסה ברגל",
+    "ru": "Зацеп",
+    "en": "Hook",
+    "de": "Haken"
+   },
+   "when": {
+    "he": "בשם של הטלה שבה הרגל נתפסת כמו וו, כמו קו סוטו גקה.",
+    "ru": "В названии броска, где нога цепляет как крюк, как ко-сото-гакэ.",
+    "en": "In the name of a throw where the leg hooks, like ko-soto-gake.",
+    "de": "Im Namen eines Wurfs, bei dem das Bein hakt, wie Ko-soto-gake."
+   }
+  },
+  {
+   "id": "gaeshi",
+   "cat": "techniques",
+   "ja": "返し",
+   "kana": "がえし",
+   "romaji": "gaeshi",
+   "say": "ga-eh-shee",
+   "he_translit": "גאשי",
+   "meaning": {
+    "he": "הפיכה, נגד",
+    "ru": "Контр, переворот",
+    "en": "Counter, reversal",
+    "de": "Konter, Umkehr"
+   },
+   "when": {
+    "he": "בסוף שם של הטלת נגד, כמו או סוטו גאשי.",
+    "ru": "В конце названия контрброска, как о-сото-гаэси.",
+    "en": "Ends the name of a counter throw, like o-soto-gaeshi.",
+    "de": "Am Ende des Namens eines Konterwurfs, wie O-soto-gaeshi."
+   }
+  },
+  {
+   "id": "gatame",
+   "cat": "techniques",
+   "ja": "固め",
+   "kana": "がため",
+   "romaji": "gatame",
+   "say": "ga-ta-meh",
+   "he_translit": "גטמה",
+   "meaning": {
+    "he": "אחיזה, נעילה",
+    "ru": "Удержание, сковывание",
+    "en": "Hold, lock",
+    "de": "Halten, Fixieren"
+   },
+   "when": {
+    "he": "בסוף שם של החזקה או בריח, כמו קמי שיהו גטמה.",
+    "ru": "В конце названия удержания или болевого, как ками-сихо-гатамэ.",
+    "en": "Ends the name of a hold or lock, like kami-shiho-gatame.",
+    "de": "Am Ende des Namens eines Haltegriffs oder Hebels, wie Kami-shiho-gatame."
+   }
+  },
+  {
+   "id": "jime",
+   "cat": "techniques",
+   "ja": "絞め",
+   "kana": "じめ",
+   "romaji": "jime",
+   "say": "jee-meh",
+   "he_translit": "ג'ימה",
+   "meaning": {
+    "he": "חניקה",
+    "ru": "Удушение",
+    "en": "Strangle",
+    "de": "Würgen"
+   },
+   "when": {
+    "he": "בסוף שם של חניקה, כמו נמי ז׳וזי ג׳ימה.",
+    "ru": "В конце названия удушения, как нами-дзюдзи-дзимэ.",
+    "en": "Ends the name of a strangle, like nami-juji-jime.",
+    "de": "Am Ende des Namens einer Würgetechnik, wie Nami-juji-jime."
+   }
+  },
+  {
+   "id": "goshi",
+   "cat": "techniques",
+   "ja": "腰",
+   "kana": "ごし",
+   "romaji": "goshi",
+   "say": "go-shee",
+   "he_translit": "גושי",
+   "meaning": {
+    "he": "מותן (בשם טכניקה)",
+    "ru": "Бедро (в названии приёма)",
+    "en": "Hip (in a technique name)",
+    "de": "Hüfte (im Technik-Namen)"
+   },
+   "when": {
+    "he": "כך נשמעת המילה קושי בתוך שם של הטלה, כמו או גושי.",
+    "ru": "Так звучит слово коси внутри названия броска, как о-госи.",
+    "en": "This is how koshi sounds inside a throw's name, like o-goshi.",
+    "de": "So klingt Koshi innerhalb eines Wurfnamens, wie O-goshi."
+   }
+  },
+  {
+   "id": "nage",
+   "cat": "techniques",
+   "ja": "投げ",
+   "kana": "なげ",
+   "romaji": "nage",
+   "say": "na-geh",
+   "he_translit": "נגה",
+   "meaning": {
+    "he": "הטלה",
+    "ru": "Бросок",
+    "en": "Throw",
+    "de": "Wurf"
+   },
+   "when": {
+    "he": "בסוף שם של הטלה, כמו שהו נגה.",
+    "ru": "В конце названия броска, как сэои-нагэ.",
+    "en": "Ends the name of a throw, like seoi-nage.",
+    "de": "Am Ende eines Wurfnamens, wie Seoi-nage."
+   }
+  },
+  {
+   "id": "makikomi",
+   "cat": "techniques",
+   "ja": "巻き込み",
+   "kana": "まきこみ",
+   "romaji": "makikomi",
+   "say": "ma-kee-ko-mee",
+   "he_translit": "מקיקומי",
+   "meaning": {
+    "he": "גלגול פנימה, עטיפה",
+    "ru": "Наматывание",
+    "en": "Wrap-around",
+    "de": "Einwickeln"
+   },
+   "when": {
+    "he": "בשם של הטלה שבה עוטפים את היריב ונופלים יחד איתו, כמו סוטו מקיקומי.",
+    "ru": "В названии броска, где соперника «наматывают» на себя и падают вместе, как сото-макикоми.",
+    "en": "In the name of a throw where you wrap the opponent and fall together, like soto-makikomi.",
+    "de": "Im Namen eines Wurfs, bei dem du den Gegner einwickelst und mit ihm fällst, wie Soto-makikomi."
+   }
+  },
+  {
+   "id": "ukemi",
+   "cat": "ukemi",
+   "ja": "受け身",
+   "kana": "うけみ",
+   "romaji": "ukemi",
+   "say": "oo-keh-mee",
+   "he_translit": "אוקמי",
+   "meaning": {
+    "he": "בלימה, נפילה בטוחה",
+    "ru": "Страховка, безопасное падение",
+    "en": "Breakfall, safe falling",
+    "de": "Fallschule, sicheres Fallen"
+   },
+   "when": {
+    "he": "הדבר הראשון שלומדים בג׳ודו, כדי ליפול בלי להיפגע.",
+    "ru": "Первое, чему учатся в дзюдо, чтобы падать без травм.",
+    "en": "The first thing we learn in judo, so we can fall without getting hurt.",
+    "de": "Das Erste, was du im Judo lernst, damit du fallen kannst, ohne dich zu verletzen."
+   }
+  },
+  {
+   "id": "mae-ukemi",
+   "cat": "ukemi",
+   "ja": "前受け身",
+   "kana": "まえうけみ",
+   "romaji": "mae-ukemi",
+   "say": "ma-eh oo-keh-mee",
+   "he_translit": "מאה אוקמי",
+   "meaning": {
+    "he": "בלימה קדימה",
+    "ru": "Падение вперёд",
+    "en": "Forward breakfall",
+    "de": "Fallen nach vorn"
+   },
+   "when": {
+    "he": "נופלים קדימה על האמות והידיים, והראש מופנה הצידה.",
+    "ru": "Падаем вперёд на предплечья и ладони, голова повёрнута в сторону.",
+    "en": "Fall forward onto your forearms and hands, head turned to the side.",
+    "de": "Du fällst nach vorn auf Unterarme und Hände, den Kopf zur Seite gedreht."
+   }
+  },
+  {
+   "id": "ushiro-ukemi",
+   "cat": "ukemi",
+   "ja": "後ろ受け身",
+   "kana": "うしろうけみ",
+   "romaji": "ushiro-ukemi",
+   "say": "oo-shee-ro oo-keh-mee",
+   "he_translit": "אושירו אוקמי",
+   "meaning": {
+    "he": "בלימה לאחור",
+    "ru": "Падение назад",
+    "en": "Backward breakfall",
+    "de": "Fallen nach hinten"
+   },
+   "when": {
+    "he": "נופלים לאחור, מכניסים סנטר לחזה ומכים במזרן עם הידיים.",
+    "ru": "Падаем назад, прижимаем подбородок к груди и бьём руками по татами.",
+    "en": "Fall backwards, tuck your chin to your chest and slap the mat with your arms.",
+    "de": "Du fällst nach hinten, Kinn zur Brust, und schlägst mit den Armen auf die Matte."
+   }
+  },
+  {
+   "id": "yoko-ukemi",
+   "cat": "ukemi",
+   "ja": "横受け身",
+   "kana": "よこうけみ",
+   "romaji": "yoko-ukemi",
+   "say": "yo-ko oo-keh-mee",
+   "he_translit": "יוקו אוקמי",
+   "meaning": {
+    "he": "בלימה לצד",
+    "ru": "Падение на бок",
+    "en": "Side breakfall",
+    "de": "Fallen zur Seite"
+   },
+   "when": {
+    "he": "נופלים על הצד ומכים במזרן ביד של אותו צד, ימין או שמאל.",
+    "ru": "Падаем на бок и бьём по татами рукой той же стороны, правой или левой.",
+    "en": "Fall on your side and slap the mat with the arm on that side, right or left.",
+    "de": "Du fällst auf die Seite und schlägst mit dem Arm dieser Seite auf die Matte, rechts oder links."
+   }
+  },
+  {
+   "id": "zenpo-kaiten",
+   "cat": "ukemi",
+   "ja": "前方回転",
+   "kana": "ぜんぽうかいてん",
+   "romaji": "zenpo kaiten",
+   "say": "zem-po ka-ee-ten",
+   "he_translit": "זנפו קאיטן",
+   "meaning": {
+    "he": "גלגול קדימה מעל הכתף",
+    "ru": "Кувырок вперёд через плечо",
+    "en": "Forward roll over the shoulder",
+    "de": "Rolle vorwärts über die Schulter"
+   },
+   "when": {
+    "he": "מתגלגלים באלכסון מהכתף לירך הנגדית ומסיימים בבלימה לצד.",
+    "ru": "Катимся по диагонали от плеча к противоположному бедру и заканчиваем падением на бок.",
+    "en": "Roll diagonally from shoulder to opposite hip and finish with a side breakfall.",
+    "de": "Du rollst schräg von der Schulter zur anderen Hüfte und endest mit Fallen zur Seite."
+   }
+  },
+  {
+   "id": "mae-mawari-ukemi",
+   "cat": "ukemi",
+   "ja": "前回り受け身",
+   "kana": "まえまわりうけみ",
+   "romaji": "mae-mawari-ukemi",
+   "say": "ma-eh ma-wa-ree oo-keh-mee",
+   "he_translit": "מאה מווארי אוקמי",
+   "meaning": {
+    "he": "בלימה בגלגול קדימה",
+    "ru": "Страховка кувырком вперёд",
+    "en": "Rolling forward breakfall",
+    "de": "Fallen mit Rolle vorwärts"
+   },
+   "when": {
+    "he": "שם נוסף לגלגול קדימה מעל הכתף, כמו זנפו קאיטן.",
+    "ru": "Другое название кувырка вперёд через плечо, как дзэмпо-кайтэн.",
+    "en": "Another name for the forward shoulder roll, like zenpo kaiten.",
+    "de": "Ein anderer Name für die Rolle vorwärts über die Schulter, wie Zenpo kaiten."
+   }
+  },
+  {
+   "id": "randori",
+   "cat": "training",
+   "ja": "乱取り",
+   "kana": "らんどり",
+   "romaji": "randori",
+   "say": "ran-doe-ree",
+   "he_translit": "רנדורי",
+   "meaning": {
+    "he": "קרב חופשי באימון",
+    "ru": "Свободная схватка на тренировке",
+    "en": "Free practice fighting",
+    "de": "Freies Übungskämpfen"
+   },
+   "when": {
+    "he": "מנסים טכניקות מול בן זוג שמתנגד, בלי ניקוד ובשמירה זה על זה.",
+    "ru": "Пробуем приёмы против сопротивляющегося партнёра, без счёта и бережно друг к другу.",
+    "en": "Try techniques against a resisting partner, without scores and taking care of each other.",
+    "de": "Du probierst Techniken gegen einen Partner mit Widerstand, ohne Wertung und rücksichtsvoll."
+   }
+  },
+  {
+   "id": "uchikomi",
+   "cat": "training",
+   "ja": "打ち込み",
+   "kana": "うちこみ",
+   "romaji": "uchikomi",
+   "say": "oo-chee-ko-mee",
+   "he_translit": "אוצ'י קומי",
+   "meaning": {
+    "he": "תרגול כניסות בלי להטיל",
+    "ru": "Отработка входов без броска",
+    "en": "Repeating entries without throwing",
+    "de": "Eingänge üben ohne zu werfen"
+   },
+   "when": {
+    "he": "חוזרים על הכניסה להטלה שוב ושוב, ועוצרים לפני שבן הזוג נופל.",
+    "ru": "Много раз повторяем вход в бросок и останавливаемся, прежде чем партнёр упадёт.",
+    "en": "Repeat the entry to a throw many times and stop before your partner falls.",
+    "de": "Du wiederholst den Eingang zum Wurf oft und stoppst, bevor dein Partner fällt."
+   }
+  },
+  {
+   "id": "nagekomi",
+   "cat": "training",
+   "ja": "投げ込み",
+   "kana": "なげこみ",
+   "romaji": "nagekomi",
+   "say": "na-geh-ko-mee",
+   "he_translit": "נגה קומי",
+   "meaning": {
+    "he": "תרגול הטלות מלאות",
+    "ru": "Отработка бросков до конца",
+    "en": "Repeated full throws",
+    "de": "Wiederholte ganze Würfe"
+   },
+   "when": {
+    "he": "מטילים את בן הזוג שוב ושוב, ובן הזוג נופל בבלימה נכונה.",
+    "ru": "Бросаем партнёра снова и снова, а он падает с правильной страховкой.",
+    "en": "Throw your partner again and again while they fall with a good breakfall.",
+    "de": "Du wirfst deinen Partner immer wieder, und er fällt mit guter Fallschule."
+   }
+  },
+  {
+   "id": "butsukari",
+   "cat": "training",
+   "ja": "ぶつかり",
+   "kana": "ぶつかり",
+   "romaji": "butsukari",
+   "say": "boo-tsoo-ka-ree",
+   "he_translit": "בוצוקארי",
+   "meaning": {
+    "he": "תרגול כניסות, כמו אוצ׳י קומי",
+    "ru": "Отработка входов, как утикоми",
+    "en": "Entry drills, like uchikomi",
+    "de": "Eingangsübungen, wie Uchikomi"
+   },
+   "when": {
+    "he": "שם נוסף לחזרה על כניסות להטלה בלי לסיים אותה.",
+    "ru": "Другое название повторения входов в бросок без его завершения.",
+    "en": "Another name for repeating throw entries without finishing them.",
+    "de": "Ein anderer Name für das Wiederholen von Wurfeingängen ohne Abschluss."
+   }
+  },
+  {
+   "id": "kata",
+   "cat": "training",
+   "ja": "形",
+   "kana": "かた",
+   "romaji": "kata",
+   "say": "ka-ta",
+   "he_translit": "קטה",
+   "meaning": {
+    "he": "תבנית קבועה של טכניקות",
+    "ru": "Фиксированная форма техник",
+    "en": "Set form of techniques",
+    "de": "Feste Form von Techniken"
+   },
+   "when": {
+    "he": "שני ג׳ודוקאים מבצעים טכניקות בסדר קבוע ומדויק, ויש גם תחרויות קטה.",
+    "ru": "Двое выполняют приёмы в строгом порядке; по ката тоже проводят соревнования.",
+    "en": "Two judoka perform techniques in a fixed, exact order; there are kata competitions too.",
+    "de": "Zwei Judoka zeigen Techniken in fester, genauer Reihenfolge; es gibt auch Kata-Wettkämpfe."
+   }
+  },
+  {
+   "id": "nage-no-kata",
+   "cat": "training",
+   "ja": "投の形",
+   "kana": "なげのかた",
+   "romaji": "nage-no-kata",
+   "say": "na-geh no ka-ta",
+   "he_translit": "נגה נו קטה",
+   "meaning": {
+    "he": "הקטה של ההטלות",
+    "ru": "Ката бросков",
+    "en": "Kata of throws",
+    "de": "Kata der Würfe"
+   },
+   "when": {
+    "he": "15 הטלות, שלוש מכל אחת מחמש קבוצות ההטלה, מבוצעות לימין ולשמאל.",
+    "ru": "15 бросков, по три из каждой из пяти групп, выполняются вправо и влево.",
+    "en": "15 throws, three from each of the five groups, done to the right and left.",
+    "de": "15 Würfe, je drei aus den fünf Gruppen, nach rechts und links ausgeführt."
+   }
+  },
+  {
+   "id": "katame-no-kata",
+   "cat": "training",
+   "ja": "固の形",
+   "kana": "かためのかた",
+   "romaji": "katame-no-kata",
+   "say": "ka-ta-meh no ka-ta",
+   "he_translit": "קטמה נו קטה",
+   "meaning": {
+    "he": "הקטה של עבודת הקרקע",
+    "ru": "Ката сковывающих техник",
+    "en": "Kata of grappling",
+    "de": "Kata der Bodentechniken"
+   },
+   "when": {
+    "he": "15 טכניקות: חמש החזקות, חמש חניקות וחמישה בריחים.",
+    "ru": "15 техник: пять удержаний, пять удушений и пять болевых.",
+    "en": "15 techniques: five hold-downs, five strangles and five joint locks.",
+    "de": "15 Techniken: fünf Haltegriffe, fünf Würgetechniken und fünf Hebel."
+   }
+  },
+  {
+   "id": "ju-no-kata",
+   "cat": "training",
+   "ja": "柔の形",
+   "kana": "じゅうのかた",
+   "romaji": "ju-no-kata",
+   "say": "joo no ka-ta",
+   "he_translit": "ג'ו נו קטה",
+   "meaning": {
+    "he": "קטה של תנועות רכות",
+    "ru": "Ката мягкости",
+    "en": "Kata of gentleness",
+    "de": "Kata der Sanftheit"
+   },
+   "when": {
+    "he": "תנועות איטיות ורכות שמראות איך לוותר כדי לנצח, בלי הטלות חזקות.",
+    "ru": "Медленные мягкие движения показывают, как уступить, чтобы победить, без сильных бросков.",
+    "en": "Slow, soft movements that show how to yield to win, without hard throws.",
+    "de": "Langsame, weiche Bewegungen zeigen, wie man nachgibt, um zu siegen, ohne harte Würfe."
+   }
+  },
+  {
+   "id": "shiai",
+   "cat": "training",
+   "ja": "試合",
+   "kana": "しあい",
+   "romaji": "shiai",
+   "say": "shee-eye",
+   "he_translit": "שיאי",
+   "meaning": {
+    "he": "קרב תחרותי, תחרות",
+    "ru": "Соревновательная схватка",
+    "en": "Competition match",
+    "de": "Wettkampf"
+   },
+   "when": {
+    "he": "קרב עם שופט וניקוד, בתחרות או באימון מיוחד.",
+    "ru": "Схватка с судьёй и счётом, на соревнованиях или на особой тренировке.",
+    "en": "A match with a referee and scores, at a tournament or a special practice.",
+    "de": "Ein Kampf mit Kampfrichter und Wertung, im Turnier oder in einem besonderen Training."
+   },
+   "he_alt": [
+    "שיהיי"
+   ]
+  },
+  {
+   "id": "kumikata",
+   "cat": "training",
+   "ja": "組み方",
+   "kana": "くみかた",
+   "romaji": "kumikata",
+   "say": "koo-mee-ka-ta",
+   "he_translit": "קומיקטה",
+   "meaning": {
+    "he": "אחיזות, דרך התפיסה",
+    "ru": "Захваты, способы захвата",
+    "en": "Gripping",
+    "de": "Griffkampf, Griffarten"
+   },
+   "when": {
+    "he": "מתרגלים לתפוס דש ושרוול נכון ולהשתחרר מאחיזה של היריב.",
+    "ru": "Учимся правильно брать отворот и рукав и освобождаться от захвата соперника.",
+    "en": "Practise taking the lapel and sleeve correctly and breaking the opponent's grip.",
+    "de": "Übe, Revers und Ärmel richtig zu greifen und dich aus dem Griff des Gegners zu lösen."
+   }
+  },
+  {
+   "id": "hikite",
+   "cat": "training",
+   "ja": "引き手",
+   "kana": "ひきて",
+   "romaji": "hikite",
+   "say": "hee-kee-teh",
+   "he_translit": "היקיטה",
+   "meaning": {
+    "he": "היד המושכת",
+    "ru": "Тянущая рука",
+    "en": "Pulling hand",
+    "de": "Zughand"
+   },
+   "when": {
+    "he": "בדרך כלל היד שתופסת את השרוול ומושכת את היריב בזמן ההטלה.",
+    "ru": "Обычно рука, которая держит рукав и тянет соперника при броске.",
+    "en": "Usually the hand on the sleeve that pulls the opponent during the throw.",
+    "de": "Meist die Hand am Ärmel, die den Gegner beim Wurf zieht."
+   }
+  },
+  {
+   "id": "tsurite",
+   "cat": "training",
+   "ja": "釣り手",
+   "kana": "つりて",
+   "romaji": "tsurite",
+   "say": "tsoo-ree-teh",
+   "he_translit": "צוריטה",
+   "meaning": {
+    "he": "היד המרימה",
+    "ru": "Поднимающая рука",
+    "en": "Lifting hand",
+    "de": "Hebehand"
+   },
+   "when": {
+    "he": "בדרך כלל היד שתופסת את הדש ומכוונת ומרימה את היריב.",
+    "ru": "Обычно рука, которая держит отворот, направляет и поднимает соперника.",
+    "en": "Usually the hand on the lapel that guides and lifts the opponent.",
+    "de": "Meist die Hand am Revers, die den Gegner führt und anhebt."
+   }
+  },
+  {
+   "id": "tandoku-renshu",
+   "cat": "training",
+   "ja": "単独練習",
+   "kana": "たんどくれんしゅう",
+   "romaji": "tandoku renshu",
+   "say": "tan-doe-koo ren-shoo",
+   "he_translit": "טנדוקו רנשו",
+   "meaning": {
+    "he": "תרגול לבד",
+    "ru": "Тренировка в одиночку",
+    "en": "Solo practice",
+    "de": "Übung allein"
+   },
+   "when": {
+    "he": "מתרגלים תנועות, צעדים ובלימות בלי בן זוג.",
+    "ru": "Отрабатываем движения, шаги и падения без партнёра.",
+    "en": "Practise movements, steps and breakfalls without a partner.",
+    "de": "Du übst Bewegungen, Schritte und Fallen ohne Partner."
+   }
+  },
+  {
+   "id": "sotai-renshu",
+   "cat": "training",
+   "ja": "相対練習",
+   "kana": "そうたいれんしゅう",
+   "romaji": "sotai renshu",
+   "say": "so-tie ren-shoo",
+   "he_translit": "סוטאי רנשו",
+   "meaning": {
+    "he": "תרגול עם בן זוג",
+    "ru": "Тренировка с партнёром",
+    "en": "Practice with a partner",
+    "de": "Übung mit Partner"
+   },
+   "when": {
+    "he": "מתרגלים טכניקה יחד, ומתחלפים בתפקידי טורי ואוקה.",
+    "ru": "Отрабатываем приём вдвоём и меняемся ролями тори и уке.",
+    "en": "Practise a technique together, swapping the roles of tori and uke.",
+    "de": "Ihr übt eine Technik zusammen und tauscht die Rollen Tori und Uke."
+   }
+  },
+  {
+   "id": "keiko",
+   "cat": "training",
+   "ja": "稽古",
+   "kana": "けいこ",
+   "romaji": "keiko",
+   "say": "kay-ko",
+   "he_translit": "קייקו",
+   "meaning": {
+    "he": "אימון",
+    "ru": "Тренировка, занятие",
+    "en": "Practice, training",
+    "de": "Training, Übung"
+   },
+   "when": {
+    "he": "המילה היפנית לאימון, והיא מופיעה בשמות של סוגי אימון.",
+    "ru": "Японское слово для тренировки; встречается в названиях видов занятий.",
+    "en": "The Japanese word for practice; it appears in names of training types.",
+    "de": "Das japanische Wort für Training; es steckt in Namen von Trainingsarten."
+   }
+  },
+  {
+   "id": "yakusoku-geiko",
+   "cat": "training",
+   "ja": "約束稽古",
+   "kana": "やくそくげいこ",
+   "romaji": "yakusoku-geiko",
+   "say": "ya-koo-so-koo gay-ko",
+   "he_translit": "יקוסוקו גייקו",
+   "meaning": {
+    "he": "אימון בהסכמה",
+    "ru": "Договорная тренировка",
+    "en": "Agreed practice",
+    "de": "Vereinbartes Üben"
+   },
+   "when": {
+    "he": "זזים יחד בתנועה, ובן הזוג נותן להטיל אותו בלי להתנגד.",
+    "ru": "Двигаемся вместе, и партнёр даёт себя бросить без сопротивления.",
+    "en": "Move around together while your partner lets you throw without resisting.",
+    "de": "Ihr bewegt euch zusammen, und dein Partner lässt sich ohne Widerstand werfen."
+   }
+  },
+  {
+   "id": "kakari-geiko",
+   "cat": "training",
+   "ja": "掛かり稽古",
+   "kana": "かかりげいこ",
+   "romaji": "kakari-geiko",
+   "say": "ka-ka-ree gay-ko",
+   "he_translit": "קקרי גייקו",
+   "meaning": {
+    "he": "אחד תוקף, השני מתגונן",
+    "ru": "Один атакует, другой защищается",
+    "en": "One attacks, the other defends",
+    "de": "Einer greift an, der andere verteidigt"
+   },
+   "when": {
+    "he": "אחד תוקף בלי הפסקה, ובן הזוג רק מתגונן ולא תוקף בחזרה.",
+    "ru": "Один атакует без остановки, партнёр только защищается и не атакует в ответ.",
+    "en": "One attacks non-stop while the partner only defends and does not attack back.",
+    "de": "Einer greift ohne Pause an, der Partner verteidigt nur und greift nicht an."
+   }
+  },
+  {
+   "id": "kangeiko",
+   "cat": "training",
+   "ja": "寒稽古",
+   "kana": "かんげいこ",
+   "romaji": "kangeiko",
+   "say": "kan-gay-ko",
+   "he_translit": "קנגייקו",
+   "meaning": {
+    "he": "אימון חורף",
+    "ru": "Зимняя тренировка",
+    "en": "Winter training",
+    "de": "Wintertraining"
+   },
+   "when": {
+    "he": "מסורת יפנית של אימונים מיוחדים בימים הקרים של החורף, לחיזוק הרוח.",
+    "ru": "Японская традиция особых тренировок в холодные зимние дни для закалки духа.",
+    "en": "A Japanese tradition of special practices on cold winter days to build spirit.",
+    "de": "Eine japanische Tradition besonderer Trainings an kalten Wintertagen, um den Geist zu stärken."
+   }
+  },
+  {
+   "id": "shochugeiko",
+   "cat": "training",
+   "ja": "暑中稽古",
+   "kana": "しょちゅうげいこ",
+   "romaji": "shochugeiko",
+   "say": "show-choo-gay-ko",
+   "he_translit": "שוצ'ו גייקו",
+   "meaning": {
+    "he": "אימון קיץ",
+    "ru": "Летняя тренировка",
+    "en": "Summer training",
+    "de": "Sommertraining"
+   },
+   "when": {
+    "he": "מסורת יפנית של אימונים מיוחדים בימים החמים ביותר של הקיץ.",
+    "ru": "Японская традиция особых тренировок в самые жаркие летние дни.",
+    "en": "A Japanese tradition of special practices on the hottest summer days.",
+    "de": "Eine japanische Tradition besonderer Trainings an den heißesten Sommertagen."
+   }
+  },
+  {
+   "id": "kyu",
+   "cat": "training",
+   "ja": "級",
+   "kana": "きゅう",
+   "romaji": "kyu",
+   "say": "kyoo",
+   "he_translit": "קיו",
+   "meaning": {
+    "he": "דרגת תלמיד, לפני חגורה שחורה",
+    "ru": "Ученическая степень до чёрного пояса",
+    "en": "Student grade before black belt",
+    "de": "Schülergrad vor dem schwarzen Gürtel"
+   },
+   "when": {
+    "he": "כל חגורה צבעונית היא דרגת קיו, ועולים לחגורה הבאה במבחן חגורה.",
+    "ru": "Каждый цветной пояс это степень кю; её получают на экзамене.",
+    "en": "Each coloured belt is a kyu grade, earned at a belt exam.",
+    "de": "Jeder farbige Gürtel ist ein Kyu-Grad, den du in einer Gürtelprüfung erreichst."
+   }
+  },
+  {
+   "id": "dan",
+   "cat": "training",
+   "ja": "段",
+   "kana": "だん",
+   "romaji": "dan",
+   "say": "dan",
+   "he_translit": "דאן",
+   "meaning": {
+    "he": "דרגת חגורה שחורה",
+    "ru": "Степень чёрного пояса",
+    "en": "Black belt grade",
+    "de": "Grad des schwarzen Gürtels"
+   },
+   "when": {
+    "he": "אחרי החגורות הצבעוניות מגיעות דרגות הדאן, מדאן ראשון ומעלה.",
+    "ru": "После цветных поясов идут степени дан, начиная с первого дана.",
+    "en": "After the coloured belts come the dan grades, from first dan upwards.",
+    "de": "Nach den farbigen Gürteln kommen die Dan-Grade, ab dem ersten Dan."
+   }
+  },
+  {
+   "id": "shodan",
+   "cat": "training",
+   "ja": "初段",
+   "kana": "しょだん",
+   "romaji": "shodan",
+   "say": "show-dan",
+   "he_translit": "שודאן",
+   "meaning": {
+    "he": "דאן ראשון, חגורה שחורה ראשונה",
+    "ru": "Первый дан, первый чёрный пояс",
+    "en": "First dan, first black belt",
+    "de": "Erster Dan, erster schwarzer Gürtel"
+   },
+   "when": {
+    "he": "הדרגה הראשונה של חגורה שחורה, אחרי כל החגורות הצבעוניות.",
+    "ru": "Первая степень чёрного пояса после всех цветных поясов.",
+    "en": "The first black belt grade, after all the coloured belts.",
+    "de": "Der erste Grad des schwarzen Gürtels, nach allen farbigen Gürteln."
+   }
+  },
+  {
+   "id": "yudansha",
+   "cat": "training",
+   "ja": "有段者",
+   "kana": "ゆうだんしゃ",
+   "romaji": "yudansha",
+   "say": "yoo-dan-sha",
+   "he_translit": "יודנשה",
+   "meaning": {
+    "he": "בעל דרגת דאן",
+    "ru": "Обладатель дана",
+    "en": "Dan grade holder",
+    "de": "Träger eines Dan-Grades"
+   },
+   "when": {
+    "he": "כך קוראים לג׳ודוקאים עם חגורה שחורה.",
+    "ru": "Так называют дзюдоистов с чёрным поясом.",
+    "en": "The name for judoka with a black belt.",
+    "de": "So nennt man Judoka mit schwarzem Gürtel."
+   }
+  },
+  {
+   "id": "mudansha",
+   "cat": "training",
+   "ja": "無段者",
+   "kana": "むだんしゃ",
+   "romaji": "mudansha",
+   "say": "moo-dan-sha",
+   "he_translit": "מודנשה",
+   "meaning": {
+    "he": "מי שעוד אין לו דאן",
+    "ru": "Тот, у кого ещё нет дана",
+    "en": "Someone without a dan grade yet",
+    "de": "Jemand ohne Dan-Grad"
+   },
+   "when": {
+    "he": "כך קוראים לג׳ודוקאים עם חגורה צבעונית.",
+    "ru": "Так называют дзюдоистов с цветным поясом.",
+    "en": "The name for judoka with a coloured belt.",
+    "de": "So nennt man Judoka mit farbigem Gürtel."
+   }
+  },
+  {
+   "id": "migi",
+   "cat": "body",
+   "ja": "右",
+   "kana": "みぎ",
+   "romaji": "migi",
+   "say": "mee-ghee",
+   "he_translit": "מיגי",
+   "meaning": {
+    "he": "ימין",
+    "ru": "Право",
+    "en": "Right",
+    "de": "Rechts"
+   },
+   "when": {
+    "he": "המאמן אומר ״מיגי״ כשעושים את הטכניקה לצד ימין.",
+    "ru": "Тренер говорит «миги», когда делаем приём в правую сторону.",
+    "en": "The coach says \"migi\" when we do the technique to the right side.",
+    "de": "Der Trainer sagt „Migi“, wenn ihr die Technik nach rechts macht."
+   }
+  },
+  {
+   "id": "hidari",
+   "cat": "body",
+   "ja": "左",
+   "kana": "ひだり",
+   "romaji": "hidari",
+   "say": "hee-da-ree",
+   "he_translit": "הידרי",
+   "meaning": {
+    "he": "שמאל",
+    "ru": "Лево",
+    "en": "Left",
+    "de": "Links"
+   },
+   "when": {
+    "he": "המאמן אומר ״הידרי״ כשעושים את הטכניקה לצד שמאל.",
+    "ru": "Тренер говорит «хидари», когда делаем приём в левую сторону.",
+    "en": "The coach says \"hidari\" when we do the technique to the left side.",
+    "de": "Der Trainer sagt „Hidari“, wenn ihr die Technik nach links macht."
+   }
+  },
+  {
+   "id": "mae",
+   "cat": "body",
+   "ja": "前",
+   "kana": "まえ",
+   "romaji": "mae",
+   "say": "ma-eh",
+   "he_translit": "מאה",
+   "meaning": {
+    "he": "קדימה, מלפנים",
+    "ru": "Вперёд, спереди",
+    "en": "Front, forward",
+    "de": "Vorn, nach vorn"
+   },
+   "when": {
+    "he": "מופיע בשמות כמו מאה אוקמי, בלימה קדימה.",
+    "ru": "Встречается в названиях, например маэ-укэми, падение вперёд.",
+    "en": "Appears in names like mae-ukemi, the forward breakfall.",
+    "de": "Steht in Namen wie Mae-ukemi, Fallen nach vorn."
+   }
+  },
+  {
+   "id": "ushiro",
+   "cat": "body",
+   "ja": "後ろ",
+   "kana": "うしろ",
+   "romaji": "ushiro",
+   "say": "oo-shee-ro",
+   "he_translit": "אושירו",
+   "meaning": {
+    "he": "אחורה, מאחור",
+    "ru": "Назад, сзади",
+    "en": "Back, behind",
+    "de": "Hinten, nach hinten"
+   },
+   "when": {
+    "he": "מופיע בשמות כמו אושירו אוקמי ואושירו גושי.",
+    "ru": "Встречается в названиях, например усиро-укэми и усиро-госи.",
+    "en": "Appears in names like ushiro-ukemi and ushiro-goshi.",
+    "de": "Steht in Namen wie Ushiro-ukemi und Ushiro-goshi."
+   }
+  },
+  {
+   "id": "yoko",
+   "cat": "body",
+   "ja": "横",
+   "kana": "よこ",
+   "romaji": "yoko",
+   "say": "yo-ko",
+   "he_translit": "יוקו",
+   "meaning": {
+    "he": "צד, הצידה",
+    "ru": "Сбоку, в сторону",
+    "en": "Side, sideways",
+    "de": "Seite, seitlich"
+   },
+   "when": {
+    "he": "מופיע בשמות כמו יוקו אוקמי ויוקו שיהו גטמה.",
+    "ru": "Встречается в названиях, например ёко-укэми и ёко-сихо-гатамэ.",
+    "en": "Appears in names like yoko-ukemi and yoko-shiho-gatame.",
+    "de": "Steht in Namen wie Yoko-ukemi und Yoko-shiho-gatame."
+   }
+  },
+  {
+   "id": "uchi",
+   "cat": "body",
+   "ja": "内",
+   "kana": "うち",
+   "romaji": "uchi",
+   "say": "oo-chee",
+   "he_translit": "אוצ'י",
+   "meaning": {
+    "he": "בפנים, מבפנים",
+    "ru": "Внутри, изнутри",
+    "en": "Inside, inner",
+    "de": "Innen"
+   },
+   "when": {
+    "he": "בשמות כמו או אוצ׳י גארי: הרגל עובדת מבפנים.",
+    "ru": "В названиях вроде о-ути-гари: нога работает изнутри.",
+    "en": "In names like o-uchi-gari: the leg works from the inside.",
+    "de": "In Namen wie O-uchi-gari: Das Bein arbeitet von innen."
+   }
+  },
+  {
+   "id": "soto",
+   "cat": "body",
+   "ja": "外",
+   "kana": "そと",
+   "romaji": "soto",
+   "say": "so-toe",
+   "he_translit": "סוטו",
+   "meaning": {
+    "he": "בחוץ, מבחוץ",
+    "ru": "Снаружи",
+    "en": "Outside, outer",
+    "de": "Außen"
+   },
+   "when": {
+    "he": "בשמות כמו או סוטו גארי: הרגל עובדת מבחוץ.",
+    "ru": "В названиях вроде о-сото-гари: нога работает снаружи.",
+    "en": "In names like o-soto-gari: the leg works from the outside.",
+    "de": "In Namen wie O-soto-gari: Das Bein arbeitet von außen."
+   }
+  },
+  {
+   "id": "ura",
+   "cat": "body",
+   "ja": "裏",
+   "kana": "うら",
+   "romaji": "ura",
+   "say": "oo-ra",
+   "he_translit": "אורה",
+   "meaning": {
+    "he": "הצד האחורי, ההפוך",
+    "ru": "Обратная сторона",
+    "en": "Back side, reverse",
+    "de": "Rückseite, Kehrseite"
+   },
+   "when": {
+    "he": "בשמות כמו אורה נגה, הטלה לאחור.",
+    "ru": "В названиях вроде ура-нагэ, бросок назад.",
+    "en": "In names like ura-nage, a throw backwards.",
+    "de": "In Namen wie Ura-nage, ein Wurf nach hinten."
+   }
+  },
+  {
+   "id": "ashi",
+   "cat": "body",
+   "ja": "足",
+   "kana": "あし",
+   "romaji": "ashi",
+   "say": "a-shee",
+   "he_translit": "אשי",
+   "meaning": {
+    "he": "רגל, כף רגל",
+    "ru": "Нога, стопа",
+    "en": "Leg, foot",
+    "de": "Bein, Fuß"
+   },
+   "when": {
+    "he": "בשמות של הטלות רגליים, כמו דה אשי בראי.",
+    "ru": "В названиях бросков ногами, как дэ-аси-барай.",
+    "en": "In the names of leg throws, like de-ashi-harai.",
+    "de": "In Namen von Beinwürfen, wie De-ashi-harai."
+   }
+  },
+  {
+   "id": "te",
+   "cat": "body",
+   "ja": "手",
+   "kana": "て",
+   "romaji": "te",
+   "say": "teh",
+   "he_translit": "טה",
+   "meaning": {
+    "he": "יד",
+    "ru": "Рука, кисть",
+    "en": "Hand",
+    "de": "Hand"
+   },
+   "when": {
+    "he": "בשמות כמו טה וואזה, הטלות ידיים.",
+    "ru": "В названиях вроде тэ-вадза, броски руками.",
+    "en": "In names like te-waza, hand throws.",
+    "de": "In Namen wie Te-waza, Handwürfe."
+   }
+  },
+  {
+   "id": "koshi",
+   "cat": "body",
+   "ja": "腰",
+   "kana": "こし",
+   "romaji": "koshi",
+   "say": "ko-shee",
+   "he_translit": "קושי",
+   "meaning": {
+    "he": "מותן",
+    "ru": "Бедро, поясница",
+    "en": "Hip",
+    "de": "Hüfte"
+   },
+   "when": {
+    "he": "בשמות כמו קושי גורומה; באמצע שם נשמע גושי.",
+    "ru": "В названиях вроде коси-гурума; внутри названия звучит как госи.",
+    "en": "In names like koshi-guruma; inside a name it sounds like goshi.",
+    "de": "In Namen wie Koshi-guruma; mitten im Namen klingt es wie Goshi."
+   }
+  },
+  {
+   "id": "kubi",
+   "cat": "body",
+   "ja": "首",
+   "kana": "くび",
+   "romaji": "kubi",
+   "say": "koo-bee",
+   "he_translit": "קובי",
+   "meaning": {
+    "he": "צוואר",
+    "ru": "Шея",
+    "en": "Neck",
+    "de": "Hals"
+   },
+   "when": {
+    "he": "שומרים על הצוואר: לא נופלים על הראש ולא מושכים בצוואר.",
+    "ru": "Бережём шею: не падаем на голову и не тянем за шею.",
+    "en": "Protect the neck: never land on your head or pull on someone's neck.",
+    "de": "Schütze den Hals: Fall nie auf den Kopf und zieh niemanden am Hals."
+   }
+  },
+  {
+   "id": "eri",
+   "cat": "body",
+   "ja": "襟",
+   "kana": "えり",
+   "romaji": "eri",
+   "say": "eh-ree",
+   "he_translit": "ארי",
+   "meaning": {
+    "he": "דש החליפה",
+    "ru": "Отворот кимоно",
+    "en": "Collar, lapel",
+    "de": "Kragen, Revers"
+   },
+   "when": {
+    "he": "תופסים בדש של הג׳ודוגי, וגם בשמות כמו אוקורי ארי שימה.",
+    "ru": "Берёмся за отворот кимоно; слово есть и в названиях, как окури-эри-дзимэ.",
+    "en": "We grip the judogi lapel; it is also in names like okuri-eri-jime.",
+    "de": "Du greifst das Revers des Judogi; es steckt auch in Namen wie Okuri-eri-jime."
+   }
+  },
+  {
+   "id": "sode",
+   "cat": "body",
+   "ja": "袖",
+   "kana": "そで",
+   "romaji": "sode",
+   "say": "so-deh",
+   "he_translit": "סודה",
+   "meaning": {
+    "he": "שרוול",
+    "ru": "Рукав",
+    "en": "Sleeve",
+    "de": "Ärmel"
+   },
+   "when": {
+    "he": "תופסים בשרוול של היריב, וגם בשמות כמו סודה צ׳ורי קומי גושי.",
+    "ru": "Берёмся за рукав соперника; слово есть и в названиях, как содэ-цурикоми-госи.",
+    "en": "We grip the opponent's sleeve; it is also in names like sode-tsurikomi-goshi.",
+    "de": "Du greifst den Ärmel des Gegners; es steckt auch in Namen wie Sode-tsurikomi-goshi."
+   }
+  },
+  {
+   "id": "hiza",
+   "cat": "body",
+   "ja": "膝",
+   "kana": "ひざ",
+   "romaji": "hiza",
+   "say": "hee-za",
+   "he_translit": "היזה",
+   "meaning": {
+    "he": "ברך",
+    "ru": "Колено",
+    "en": "Knee",
+    "de": "Knie"
+   },
+   "when": {
+    "he": "בשמות כמו היזה גורומה, הטלה עם חסימה בברך.",
+    "ru": "В названиях вроде хиза-гурума, бросок с блоком колена.",
+    "en": "In names like hiza-guruma, a throw blocking the knee.",
+    "de": "In Namen wie Hiza-guruma, ein Wurf mit Blocken am Knie."
+   }
+  },
+  {
+   "id": "hara",
+   "cat": "body",
+   "ja": "腹",
+   "kana": "はら",
+   "romaji": "hara",
+   "say": "ha-ra",
+   "he_translit": "הרא",
+   "meaning": {
+    "he": "בטן",
+    "ru": "Живот",
+    "en": "Belly",
+    "de": "Bauch"
+   },
+   "when": {
+    "he": "בשמות כמו אודה הישיגי הרה גטמה.",
+    "ru": "В названиях вроде удэ-хисиги-хара-гатамэ.",
+    "en": "In names like ude-hishigi-hara-gatame.",
+    "de": "In Namen wie Ude-hishigi-hara-gatame."
+   }
+  },
+  {
+   "id": "mata",
+   "cat": "body",
+   "ja": "股",
+   "kana": "また",
+   "romaji": "mata",
+   "say": "ma-ta",
+   "he_translit": "מטא",
+   "meaning": {
+    "he": "ירך פנימית",
+    "ru": "Внутренняя часть бедра",
+    "en": "Inner thigh",
+    "de": "Innenseite des Oberschenkels"
+   },
+   "when": {
+    "he": "בשמות כמו אוצ׳י מטה, הטלה דרך הירך הפנימית.",
+    "ru": "В названиях вроде ути-мата, бросок через внутреннюю часть бедра.",
+    "en": "In names like uchi-mata, a throw through the inner thigh.",
+    "de": "In Namen wie Uchi-mata, ein Wurf über die Innenseite des Oberschenkels."
+   }
+  },
+  {
+   "id": "ichi",
+   "cat": "numbers",
+   "ja": "一",
+   "kana": "いち",
+   "romaji": "ichi",
+   "say": "ee-chee",
+   "he_translit": "איצ'י",
+   "meaning": {
+    "he": "אחת",
+    "ru": "Один",
+    "en": "One",
+    "de": "Eins"
+   },
+   "when": {
+    "he": "סופרים ביפנית בזמן החימום.",
+    "ru": "Считаем по-японски во время разминки.",
+    "en": "We count in Japanese during the warm-up.",
+    "de": "Beim Aufwärmen zählt ihr auf Japanisch."
+   }
+  },
+  {
+   "id": "ni",
+   "cat": "numbers",
+   "ja": "二",
+   "kana": "に",
+   "romaji": "ni",
+   "say": "nee",
+   "he_translit": "ני",
+   "meaning": {
+    "he": "שתיים",
+    "ru": "Два",
+    "en": "Two",
+    "de": "Zwei"
+   },
+   "when": {
+    "he": "סופרים ביפנית בזמן החימום.",
+    "ru": "Считаем по-японски во время разминки.",
+    "en": "We count in Japanese during the warm-up.",
+    "de": "Beim Aufwärmen zählt ihr auf Japanisch."
+   }
+  },
+  {
+   "id": "san",
+   "cat": "numbers",
+   "ja": "三",
+   "kana": "さん",
+   "romaji": "san",
+   "say": "san",
+   "he_translit": "סן",
+   "meaning": {
+    "he": "שלוש",
+    "ru": "Три",
+    "en": "Three",
+    "de": "Drei"
+   },
+   "when": {
+    "he": "סופרים ביפנית בזמן החימום.",
+    "ru": "Считаем по-японски во время разминки.",
+    "en": "We count in Japanese during the warm-up.",
+    "de": "Beim Aufwärmen zählt ihr auf Japanisch."
+   }
+  },
+  {
+   "id": "shi",
+   "cat": "numbers",
+   "ja": "四",
+   "kana": "し / よん",
+   "romaji": "shi / yon",
+   "say": "shee / yon",
+   "he_translit": "שי / יון",
+   "meaning": {
+    "he": "ארבע",
+    "ru": "Четыре",
+    "en": "Four",
+    "de": "Vier"
+   },
+   "when": {
+    "he": "סופרים ביפנית בזמן החימום; יש שתי צורות, ושתיהן נכונות.",
+    "ru": "Считаем по-японски во время разминки; есть две формы, обе верные.",
+    "en": "We count in Japanese during the warm-up; both forms are correct.",
+    "de": "Beim Aufwärmen zählt ihr auf Japanisch; beide Formen sind richtig."
+   }
+  },
+  {
+   "id": "go",
+   "cat": "numbers",
+   "ja": "五",
+   "kana": "ご",
+   "romaji": "go",
+   "say": "go",
+   "he_translit": "גו",
+   "meaning": {
+    "he": "חמש",
+    "ru": "Пять",
+    "en": "Five",
+    "de": "Fünf"
+   },
+   "when": {
+    "he": "סופרים ביפנית בזמן החימום.",
+    "ru": "Считаем по-японски во время разминки.",
+    "en": "We count in Japanese during the warm-up.",
+    "de": "Beim Aufwärmen zählt ihr auf Japanisch."
+   }
+  },
+  {
+   "id": "roku",
+   "cat": "numbers",
+   "ja": "六",
+   "kana": "ろく",
+   "romaji": "roku",
+   "say": "ro-koo",
+   "he_translit": "רוקו",
+   "meaning": {
+    "he": "שש",
+    "ru": "Шесть",
+    "en": "Six",
+    "de": "Sechs"
+   },
+   "when": {
+    "he": "סופרים ביפנית בזמן החימום.",
+    "ru": "Считаем по-японски во время разминки.",
+    "en": "We count in Japanese during the warm-up.",
+    "de": "Beim Aufwärmen zählt ihr auf Japanisch."
+   }
+  },
+  {
+   "id": "shichi",
+   "cat": "numbers",
+   "ja": "七",
+   "kana": "しち / なな",
+   "romaji": "shichi / nana",
+   "say": "shee-chee / na-na",
+   "he_translit": "שיצ'י / ננה",
+   "meaning": {
+    "he": "שבע",
+    "ru": "Семь",
+    "en": "Seven",
+    "de": "Sieben"
+   },
+   "when": {
+    "he": "סופרים ביפנית בזמן החימום; יש שתי צורות, ושתיהן נכונות.",
+    "ru": "Считаем по-японски во время разминки; есть две формы, обе верные.",
+    "en": "We count in Japanese during the warm-up; both forms are correct.",
+    "de": "Beim Aufwärmen zählt ihr auf Japanisch; beide Formen sind richtig."
+   }
+  },
+  {
+   "id": "hachi",
+   "cat": "numbers",
+   "ja": "八",
+   "kana": "はち",
+   "romaji": "hachi",
+   "say": "ha-chee",
+   "he_translit": "האצ'י",
+   "meaning": {
+    "he": "שמונה",
+    "ru": "Восемь",
+    "en": "Eight",
+    "de": "Acht"
+   },
+   "when": {
+    "he": "סופרים ביפנית בזמן החימום.",
+    "ru": "Считаем по-японски во время разминки.",
+    "en": "We count in Japanese during the warm-up.",
+    "de": "Beim Aufwärmen zählt ihr auf Japanisch."
+   }
+  },
+  {
+   "id": "ku",
+   "cat": "numbers",
+   "ja": "九",
+   "kana": "く / きゅう",
+   "romaji": "ku / kyu",
+   "say": "koo / kyoo",
+   "he_translit": "קו / קיו",
+   "meaning": {
+    "he": "תשע",
+    "ru": "Девять",
+    "en": "Nine",
+    "de": "Neun"
+   },
+   "when": {
+    "he": "סופרים ביפנית בזמן החימום; יש שתי צורות, ושתיהן נכונות.",
+    "ru": "Считаем по-японски во время разминки; есть две формы, обе верные.",
+    "en": "We count in Japanese during the warm-up; both forms are correct.",
+    "de": "Beim Aufwärmen zählt ihr auf Japanisch; beide Formen sind richtig."
+   }
+  },
+  {
+   "id": "ju",
+   "cat": "numbers",
+   "ja": "十",
+   "kana": "じゅう",
+   "romaji": "ju",
+   "say": "joo",
+   "he_translit": "ג'ו",
+   "meaning": {
+    "he": "עשר",
+    "ru": "Десять",
+    "en": "Ten",
+    "de": "Zehn"
+   },
+   "when": {
+    "he": "סופרים ביפנית בזמן החימום.",
+    "ru": "Считаем по-японски во время разминки.",
+    "en": "We count in Japanese during the warm-up.",
+    "de": "Beim Aufwärmen zählt ihr auf Japanisch."
+   }
+  }
+ ]
+}
