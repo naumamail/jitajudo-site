@@ -1,0 +1,1875 @@
+{
+ "source": "Names are common BJJ terms (facts). Descriptions are written by Jita. No academy curriculum was copied.",
+ "techniques": [
+  {
+   "id": "closed-guard",
+   "cat": "position",
+   "name": "Closed guard",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "You are on your back with your legs locked around the opponent's waist. The base of guard play: break his posture, then attack or sweep.",
+    "de": "Du liegst auf dem Rücken und hast die Beine um die Hüfte des Gegners gekreuzt. Die Basis des Guard-Spiels: Haltung brechen, dann angreifen oder sweepen.",
+    "he": "אתה על הגב והרגליים נעולות סביב המותניים של היריב. הבסיס של משחק הגארד: לשבור לו את היציבה ואז לתקוף או לבצע סוויפ.",
+    "ru": "Ты на спине, ноги скрещены за поясницей соперника. Основа игры из гарда: сломать ему осанку, затем атаковать или делать свип."
+   }
+  },
+  {
+   "id": "open-guard",
+   "cat": "position",
+   "name": "Open guard",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Guard with the legs not locked: feet and knees on the opponent's hips, knees or arms keep distance and steer him. Starting point for most modern guards.",
+    "de": "Guard ohne gekreuzte Beine: Füße und Knie an Hüfte, Knien oder Armen des Gegners halten Distanz und lenken ihn. Ausgangspunkt der meisten modernen Guards.",
+    "he": "גארד בלי נעילת רגליים: כפות הרגליים והברכיים על המותניים, הברכיים או הידיים של היריב שומרות מרחק ומכוונות אותו. נקודת המוצא לרוב הגארדים המודרניים.",
+    "ru": "Гард без замка ногами: стопы и колени упираются в бёдра, колени или руки соперника, держат дистанцию и управляют им. Отправная точка большинства современных гардов."
+   }
+  },
+  {
+   "id": "half-guard",
+   "cat": "position",
+   "name": "Half guard",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "You trap one of the opponent's legs between yours. From the bottom, win the underhook and stay on your side; from the top, flatten him and pass.",
+    "de": "Du klemmst ein Bein des Gegners zwischen deinen Beinen ein. Unten: Underhook holen und auf der Seite bleiben; oben: ihn flach drücken und passen.",
+    "he": "אתה לוכד רגל אחת של היריב בין הרגליים שלך. מלמטה: להשיג אנדרהוק ולהישאר על הצד; מלמעלה: להשכיב אותו שטוח ולעבור.",
+    "ru": "Ты зажимаешь одну ногу соперника между своими. Снизу: взять андерхук и остаться на боку; сверху: прижать его к ковру и проходить."
+   }
+  },
+  {
+   "id": "z-guard",
+   "cat": "position",
+   "name": "Knee shield half guard (Z-guard)",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Half guard with your top knee across the opponent's chest or hip as a frame. It keeps him from crushing you and creates space for sweeps.",
+    "de": "Half Guard, bei der dein oberes Knie als Rahmen quer vor Brust oder Hüfte des Gegners liegt. So kann er dich nicht plattdrücken, und du hast Platz für Sweeps.",
+    "he": "חצי גארד שבו הברך העליונה שלך חוסמת את החזה או האגן של היריב. היא מונעת ממנו למעוך אותך ויוצרת מרחב לסוויפים.",
+    "ru": "Полугард, в котором верхнее колено упирается поперёк в грудь или бедро соперника. Колено не даёт тебя придавить и создаёт место для свипов."
+   }
+  },
+  {
+   "id": "butterfly-guard",
+   "cat": "position",
+   "name": "Butterfly guard",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Seated guard with both insteps hooked inside the opponent's thighs. Stay upright, control his upper body and lift with the hooks to sweep.",
+    "de": "Sitzende Guard mit beiden Fußrücken als Haken innen an den Oberschenkeln des Gegners. Bleib aufrecht, kontrolliere den Oberkörper und heb mit den Haken zum Sweep.",
+    "he": "גארד בישיבה עם שני גבי כפות הרגליים כווים מבפנים לירכי היריב. להישאר זקוף, לשלוט בפלג הגוף העליון שלו ולהרים עם הווים לסוויפ.",
+    "ru": "Гард сидя, подъёмы обеих стоп зацеплены за внутреннюю сторону бёдер соперника. Сиди прямо, контролируй его верх и поднимай крюками для свипа."
+   }
+  },
+  {
+   "id": "spider-guard",
+   "cat": "position",
+   "name": "Spider guard",
+   "lvl": 2,
+   "gi": "gi",
+   "d": {
+    "en": "Open guard with sleeve grips and your feet pressing into the opponent's biceps. Pulling the sleeves while pushing the arms gives strong control at distance.",
+    "de": "Open Guard mit Ärmelgriffen, deine Füße drücken in die Bizepse des Gegners. Ziehen mit den Händen und Drücken mit den Füßen gibt dir viel Kontrolle auf Distanz.",
+    "he": "גארד פתוח עם אחיזות שרוול וכפות רגליים שלוחצות על הזרועות של היריב. משיכה בשרוולים ודחיפה ברגליים נותנות שליטה חזקה מרחוק.",
+    "ru": "Открытый гард с захватами за рукава, стопы упираются в бицепсы соперника. Тянешь руками и толкаешь ногами: сильный контроль на дистанции."
+   }
+  },
+  {
+   "id": "lasso-guard",
+   "cat": "position",
+   "name": "Lasso guard",
+   "lvl": 2,
+   "gi": "gi",
+   "d": {
+    "en": "Your leg wraps around the opponent's arm from the outside while you hold that sleeve. Very hard to break and a base for sweeps and triangles.",
+    "de": "Dein Bein schlingt sich von außen um den Arm des Gegners, während du den Ärmel hältst. Schwer zu lösen und eine Basis für Sweeps und Triangles.",
+    "he": "הרגל שלך כורכת את זרוע היריב מבחוץ בזמן שאתה מחזיק את השרוול. קשה מאוד להשתחרר ממנו, והוא בסיס לסוויפים ולטריאנגל.",
+    "ru": "Твоя нога обвивает руку соперника снаружи, а ты держишь этот рукав. Очень трудно сбросить, база для свипов и треугольника."
+   }
+  },
+  {
+   "id": "de-la-riva-guard",
+   "cat": "position",
+   "name": "De la Riva guard",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Open guard against a standing opponent: your leg hooks his lead leg from the outside, with grips on ankle and sleeve or collar. Good for off-balancing and back takes.",
+    "de": "Open Guard gegen einen stehenden Gegner: dein Bein hakt von außen um sein vorderes Bein, dazu Griffe an Knöchel und Ärmel oder Kragen. Gut zum Kippen und für Back Takes.",
+    "he": "גארד פתוח מול יריב עומד: הרגל שלך כווה מבחוץ סביב הרגל הקדמית שלו, עם אחיזה בקרסול ובשרוול או בצווארון. טוב להוצאה משיווי משקל ולתפיסת גב.",
+    "ru": "Открытый гард против стоящего соперника: твоя нога снаружи зацепляет его ближнюю ногу, захваты за щиколотку и рукав или воротник. Хорош для выведения из равновесия и взятия спины."
+   }
+  },
+  {
+   "id": "reverse-de-la-riva-guard",
+   "cat": "position",
+   "name": "Reverse De la Riva guard",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Your leg hooks the opponent's lead leg from the inside. Useful against passes to the outside and as an entry to sweeps and leg entanglements.",
+    "de": "Dein Bein hakt das vordere Bein des Gegners von innen. Hilft gegen Passes nach außen und als Einstieg in Sweeps und Leg Entanglements.",
+    "he": "הרגל שלך כווה את הרגל הקדמית של היריב מבפנים. שימושי נגד מעברים מבחוץ וככניסה לסוויפים ולמשחק רגליים.",
+    "ru": "Твоя нога зацепляет ближнюю ногу соперника изнутри. Полезен против прохода снаружи и как вход в свипы и игру в ноги."
+   }
+  },
+  {
+   "id": "x-guard",
+   "cat": "position",
+   "name": "X-guard",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Underneath a standing opponent, your legs form an X around one of his legs while you hold it. Lets you lift him and tip him in almost any direction.",
+    "de": "Unter einem stehenden Gegner bilden deine Beine ein X um eines seiner Beine, das du festhältst. So kannst du ihn anheben und fast in jede Richtung kippen.",
+    "he": "מתחת ליריב עומד, הרגליים שלך יוצרות X סביב אחת מרגליו ואתה מחזיק אותה. מאפשר להרים אותו ולהפיל אותו כמעט לכל כיוון.",
+    "ru": "Под стоящим соперником твои ноги образуют X вокруг одной его ноги, которую ты держишь. Можно приподнять его и опрокинуть почти в любую сторону."
+   }
+  },
+  {
+   "id": "single-leg-x-guard",
+   "cat": "position",
+   "name": "Single-leg X (ashi garami)",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "You sit under one leg of the opponent, one foot on his hip and the other leg hooked behind his knee. Strong for sweeps and a common entry to leg locks.",
+    "de": "Du sitzt unter einem Bein des Gegners, ein Fuß an seiner Hüfte, das andere Bein hinter seinem Knie. Stark für Sweeps und häufiger Einstieg in Leglocks.",
+    "he": "אתה יושב מתחת לרגל אחת של היריב, כף רגל אחת על המותן שלו והרגל השנייה כווה מאחורי הברך. חזק לסוויפים וכניסה נפוצה לנעילות רגליים.",
+    "ru": "Ты сидишь под одной ногой соперника: одна стопа на его бедре, другая нога за его коленом. Сильная позиция для свипов и частый вход в болевые на ноги."
+   }
+  },
+  {
+   "id": "mount",
+   "cat": "position",
+   "name": "Mount",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "You sit on the opponent's torso with your knees on the mat. A dominant position: keep your weight low, adjust your base and attack arms and neck.",
+    "de": "Du sitzt auf dem Oberkörper des Gegners, die Knie am Boden. Eine dominante Position: Gewicht tief halten, Basis anpassen und Arme und Hals angreifen.",
+    "he": "אתה יושב על פלג הגוף של היריב והברכיים על המזרן. עמדה שולטת: להחזיק משקל נמוך, לשמור על בסיס ולתקוף ידיים וצוואר.",
+    "ru": "Ты сидишь на корпусе соперника, колени на ковре. Доминирующая позиция: держи вес низко, следи за базой и атакуй руки и шею."
+   }
+  },
+  {
+   "id": "side-control",
+   "cat": "position",
+   "name": "Side control",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "You lie across the opponent from the side, chest to chest, his hips blocked. Control the head and near hip so he cannot turn in or recover guard.",
+    "de": "Du liegst seitlich quer über dem Gegner, Brust an Brust, seine Hüfte blockiert. Kontrolliere Kopf und nahe Hüfte, damit er sich nicht eindrehen oder die Guard zurückholen kann.",
+    "he": "אתה שוכב לרוחב על היריב מהצד, חזה אל חזה, והאגן שלו חסום. לשלוט בראש ובמותן הקרובה כדי שלא יסתובב אליך או יחזיר גארד.",
+    "ru": "Ты лежишь поперёк соперника сбоку, грудь к груди, его бёдра заблокированы. Контролируй голову и ближнее бедро, чтобы он не развернулся и не вернул гард."
+   }
+  },
+  {
+   "id": "scarf-hold",
+   "cat": "position",
+   "name": "Scarf hold (kesa gatame)",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "You sit beside the opponent, hip against his ribs, trapping his head and one arm. Heavy and simple; keep your legs wide for base.",
+    "de": "Du sitzt seitlich neben dem Gegner, Hüfte an seinen Rippen, und klemmst Kopf und einen Arm ein. Schwer und einfach; halt die Beine weit für eine gute Basis.",
+    "he": "אתה יושב לצד היריב, האגן צמוד לצלעות שלו, ולוכד את הראש ויד אחת. עמדה כבדה ופשוטה; רגליים רחבות לבסיס יציב.",
+    "ru": "Ты сидишь сбоку от соперника, бедро прижато к его рёбрам, зажимаешь голову и одну руку. Тяжёлый и простой контроль; ноги шире для базы."
+   }
+  },
+  {
+   "id": "knee-on-belly",
+   "cat": "position",
+   "name": "Knee on belly",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "One knee on the opponent's stomach, the other leg posted out, grips on collar and hip or belt. Mobile pressure that makes him react and opens attacks.",
+    "de": "Ein Knie auf dem Bauch des Gegners, das andere Bein abgestützt, Griffe an Kragen und Hüfte oder Gürtel. Mobiler Druck, der ihn zu Reaktionen zwingt.",
+    "he": "ברך אחת על הבטן של היריב, הרגל השנייה פתוחה לבסיס, אחיזה בצווארון ובמותן או בחגורה. לחץ נייד שמכריח אותו להגיב ופותח התקפות.",
+    "ru": "Одно колено на животе соперника, другая нога отставлена, захваты за воротник и бедро или пояс. Мобильное давление, заставляющее его реагировать."
+   }
+  },
+  {
+   "id": "north-south",
+   "cat": "position",
+   "name": "North-south",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "You lie on the opponent head to head in the opposite direction, chest on his chest. Good for pressure, kimuras and chokes.",
+    "de": "Du liegst Kopf an Kopf in Gegenrichtung auf dem Gegner, Brust auf Brust. Gut für Druck, Kimuras und Würger.",
+    "he": "אתה שוכב על היריב ראש מול ראש בכיוון ההפוך, חזה על חזה. טוב ללחץ, לקימורה ולחניקות.",
+    "ru": "Ты лежишь на сопернике в обратном направлении, голова к голове, грудь на груди. Удобно для давления, кимуры и удушений."
+   }
+  },
+  {
+   "id": "back-control",
+   "cat": "position",
+   "name": "Back control",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "You are behind the opponent with both hooks in and a seatbelt grip. The strongest position: keep your chest glued to his back and hunt the neck.",
+    "de": "Du bist hinter dem Gegner, beide Haken drin, dazu der Seatbelt-Griff. Die stärkste Position: Brust an seinem Rücken halten und den Hals angreifen.",
+    "he": "אתה מאחורי היריב עם שני הווים בפנים ואחיזת סיטבלט. העמדה החזקה ביותר: החזה צמוד לגב שלו ומחפשים את הצוואר.",
+    "ru": "Ты за спиной соперника, оба крюка внутри и захват «ремень безопасности». Сильнейшая позиция: грудь прижата к его спине, охоться за шеей."
+   }
+  },
+  {
+   "id": "turtle",
+   "cat": "position",
+   "name": "Turtle",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "On knees and elbows, curled up with elbows tight to the knees. A defensive, temporary position: protect the neck and work back to guard or to your feet.",
+    "de": "Auf Knien und Ellbogen, eingerollt, Ellbogen eng an den Knien. Eine defensive Übergangsposition: Hals schützen und zurück in die Guard oder auf die Füße.",
+    "he": "על הברכיים והמרפקים, מכונס, המרפקים צמודים לברכיים. עמדת הגנה זמנית: לשמור על הצוואר ולחזור לגארד או לעמידה.",
+    "ru": "На коленях и локтях, сжавшись, локти прижаты к коленям. Временная защитная позиция: береги шею и возвращайся в гард или на ноги."
+   }
+  },
+  {
+   "id": "upa-bridge-escape",
+   "cat": "escape",
+   "name": "Upa / bridge escape",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "From bottom mount, trap one arm and the same-side foot, then bridge high over your shoulder to roll the opponent into your guard.",
+    "de": "Unten im Mount: Arm und Fuß derselben Seite einklemmen, dann hoch über die Schulter bridgen und den Gegner in deine Guard rollen.",
+    "he": "מלמטה במאונט: ללכוד יד ורגל באותו צד, לגשר גבוה מעל הכתף ולגלגל את היריב אל תוך הגארד שלך.",
+    "ru": "Снизу в маунте: зажми руку и стопу соперника с одной стороны, сделай высокий мост через плечо и перекати его к себе в гард."
+   }
+  },
+  {
+   "id": "elbow-knee-escape-mount",
+   "cat": "escape",
+   "name": "Elbow-knee escape (shrimp) from mount",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "From bottom mount, frame and shrimp to slide your knee inside past the opponent's leg, then recover half guard or full guard.",
+    "de": "Unten im Mount: Rahmen bauen, shrimpen und das Knie innen an seinem Bein vorbeischieben, dann Half Guard oder Full Guard zurückholen.",
+    "he": "מלמטה במאונט: לבנות מסגרת, לעשות שרימפ ולהכניס את הברך פנימה מעבר לרגל של היריב, ואז לחזור לחצי גארד או לגארד מלא.",
+    "ru": "Снизу в маунте: поставь рамки, сделай креветку и проведи колено внутрь мимо его ноги, затем верни полугард или полный гард."
+   }
+  },
+  {
+   "id": "heel-drag-escape",
+   "cat": "escape",
+   "name": "Heel drag escape from mount",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "When the opponent sits high, bridge to lift him slightly and use one heel to drag his leg back into half guard.",
+    "de": "Wenn der Gegner hoch sitzt, kurz bridgen und mit einer Ferse sein Bein zurück in die Half Guard ziehen.",
+    "he": "כשהיריב יושב גבוה, לגשר קצת כדי להרים אותו ולגרור עם העקב את הרגל שלו חזרה לחצי גארד.",
+    "ru": "Когда соперник сидит высоко, приподними его мостом и пяткой затяни его ногу обратно в полугард."
+   }
+  },
+  {
+   "id": "side-control-reguard",
+   "cat": "escape",
+   "name": "Shrimp to guard from side control",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Frame on the neck and hip, shrimp away to make space, then bring your knee in and recover guard.",
+    "de": "Rahmen an Hals und Hüfte, wegshrimpen für Platz, dann das Knie hineinbringen und die Guard zurückholen.",
+    "he": "מסגרת על הצוואר ועל האגן, שרימפ החוצה ליצירת מרחב, ואז להכניס את הברך ולהחזיר גארד.",
+    "ru": "Рамки на шею и бедро, креветка в сторону для пространства, затем заведи колено и верни гард."
+   }
+  },
+  {
+   "id": "side-control-to-knees",
+   "cat": "escape",
+   "name": "Escape to knees from side control",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Bridge, shrimp and win the underhook on the near side, then turn in toward the opponent and come up to your knees.",
+    "de": "Bridgen, shrimpen und auf der nahen Seite den Underhook holen, dann zum Gegner eindrehen und auf die Knie kommen.",
+    "he": "גשר, שרימפ והשגת אנדרהוק בצד הקרוב, ואז להסתובב לכיוון היריב ולעלות על הברכיים.",
+    "ru": "Мост, креветка и андерхук с ближней стороны, затем развернись к сопернику и выйди на колени."
+   }
+  },
+  {
+   "id": "ghost-escape",
+   "cat": "escape",
+   "name": "Ghost escape from side control",
+   "lvl": 3,
+   "gi": "both",
+   "d": {
+    "en": "An advanced side control escape: turn away, slip your far leg under your body and slide out the back door to your knees. Requires good timing.",
+    "de": "Fortgeschrittene Flucht aus Side Control: wegdrehen, das ferne Bein unter dir durchschieben und nach hinten raus auf die Knie rutschen. Braucht gutes Timing.",
+    "he": "בריחה מתקדמת מסייד קונטרול: מסתובבים הצידה, מעבירים את הרגל הרחוקה מתחת לגוף ומחליקים החוצה מאחור אל הברכיים. דורש תזמון טוב.",
+    "ru": "Продвинутый уход из бокового контроля: отворачиваешься, протягиваешь дальнюю ногу под собой и выскальзываешь назад на колени. Нужен хороший тайминг."
+   }
+  },
+  {
+   "id": "knee-on-belly-escape",
+   "cat": "escape",
+   "name": "Knee on belly escape",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Push the knee toward your feet while turning into the opponent and shrimping, then recover guard or come up.",
+    "de": "Drück das Knie Richtung deiner Füße, dreh dich zum Gegner ein und shrimpe, dann Guard zurückholen oder aufstehen.",
+    "he": "לדחוף את הברך לכיוון הרגליים שלך תוך סיבוב לכיוון היריב ושרימפ, ואז להחזיר גארד או לקום.",
+    "ru": "Толкни колено к своим ногам, развернись к сопернику и сделай креветку, затем верни гард или вставай."
+   }
+  },
+  {
+   "id": "scarf-hold-escape",
+   "cat": "escape",
+   "name": "Scarf hold escape",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Make space with your hips and free your trapped elbow, then bridge into the opponent or bring your leg over his head to escape.",
+    "de": "Mit der Hüfte Platz schaffen und den eingeklemmten Ellbogen befreien, dann in den Gegner hinein bridgen oder dein Bein über seinen Kopf bringen.",
+    "he": "ליצור מרחב עם האגן ולשחרר את המרפק הלכוד, ואז לגשר לתוך היריב או להעביר רגל מעל הראש שלו.",
+    "ru": "Освободи место бёдрами и вытащи зажатый локоть, затем сделай мост в сторону соперника или заведи ногу через его голову."
+   }
+  },
+  {
+   "id": "north-south-escape",
+   "cat": "escape",
+   "name": "North-south escape",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Frame on the hips and shoulders, walk your hips away to the side and turn to face the opponent to recover guard.",
+    "de": "Rahmen an Hüfte und Schultern, die Hüfte zur Seite wegbewegen und dich zum Gegner drehen, um die Guard zurückzuholen.",
+    "he": "מסגרת על האגן והכתפיים, להזיז את האגן הצידה ולהסתובב מול היריב כדי להחזיר גארד.",
+    "ru": "Рамки на бёдра и плечи, отведи бёдра в сторону и развернись к сопернику, чтобы вернуть гард."
+   }
+  },
+  {
+   "id": "back-escape",
+   "cat": "escape",
+   "name": "Back escape (shoulders to the mat)",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Defend the choke first, then slide your shoulders to the mat on the side of the lower hook and turn your chest into the opponent.",
+    "de": "Zuerst den Würger verteidigen, dann die Schultern auf der Seite des unteren Hakens zur Matte schieben und dich mit der Brust zum Gegner drehen.",
+    "he": "קודם להגן על החניקה, אחר כך להחליק את הכתפיים למזרן בצד של הוו התחתון ולסובב את החזה אל היריב.",
+    "ru": "Сначала защити шею, затем опусти плечи на ковёр со стороны нижнего крюка и развернись грудью к сопернику."
+   }
+  },
+  {
+   "id": "choke-defense-back",
+   "cat": "escape",
+   "name": "Hand fighting against the rear naked choke",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Tuck your chin, use two hands on the choking arm and pull it down off the neck. Survive first, then escape.",
+    "de": "Kinn einziehen, mit beiden Händen den würgenden Arm greifen und vom Hals nach unten ziehen. Erst überleben, dann entkommen.",
+    "he": "להוריד סנטר, לתפוס את היד החונקת בשתי ידיים ולמשוך אותה למטה מהצוואר. קודם לשרוד, אחר כך לברוח.",
+    "ru": "Прижми подбородок, двумя руками возьми душащую руку и стяни её с шеи. Сначала выжить, потом уходить."
+   }
+  },
+  {
+   "id": "granby-roll",
+   "cat": "escape",
+   "name": "Granby roll",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "A shoulder roll from turtle or near-pinned positions that turns your hips back toward the opponent so you can recover guard.",
+    "de": "Eine Schulterrolle aus der Turtle oder fast gepinnten Lagen, die deine Hüfte zurück zum Gegner dreht, damit du die Guard zurückholst.",
+    "he": "גלגול על הכתף ממצב צב או ממצבי הצמדה, שמסובב את האגן שלך בחזרה אל היריב כדי להחזיר גארד.",
+    "ru": "Перекат через плечо из черепахи или почти прижатых позиций, разворачивающий бёдра к сопернику, чтобы вернуть гард."
+   }
+  },
+  {
+   "id": "hitchhiker-escape",
+   "cat": "escape",
+   "name": "Hitchhiker armbar escape",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "When an armbar comes from the top, turn your thumb out like a hitchhiker and roll toward the opponent's legs to free the elbow.",
+    "de": "Wenn ein Armbar von oben kommt, dreh den Daumen nach außen wie ein Anhalter und roll zu seinen Beinen, um den Ellbogen zu befreien.",
+    "he": "כשמגיע מנוף מרפק מלמעלה, לסובב את האגודל החוצה כמו טרמפיסט ולהתגלגל לכיוון הרגליים של היריב כדי לשחרר את המרפק.",
+    "ru": "Когда сверху идёт рычаг локтя, разверни большой палец наружу, как автостопщик, и катись к его ногам, освобождая локоть."
+   }
+  },
+  {
+   "id": "triangle-defense",
+   "cat": "escape",
+   "name": "Triangle defense (posture)",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Keep both arms inside or both outside, never one in and one out. Posture up, keep the trapped shoulder low and stack or step around to escape.",
+    "de": "Beide Arme innen oder beide außen, nie einer drin und einer draußen. Aufrichten, die eingeklemmte Schulter tief halten und stacken oder herumgehen.",
+    "he": "שתי הידיים בפנים או שתיהן בחוץ, אף פעם לא אחת בפנים ואחת בחוץ. ליישר יציבה, להוריד את הכתף הלכודה ולערום או לעקוף כדי לצאת.",
+    "ru": "Обе руки внутри или обе снаружи, никогда одна внутри, одна снаружи. Выпрямись, держи зажатое плечо ниже и дави стеком или обходи, чтобы выйти."
+   }
+  },
+  {
+   "id": "guillotine-defense",
+   "cat": "escape",
+   "name": "Guillotine defense",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Hand fight the choking arm, turn your head toward the opponent's chest and move to the side of the trapped arm to take off the pressure and pass.",
+    "de": "Kämpf mit den Händen gegen den Würgearm, dreh den Kopf zu seiner Brust und geh auf die Seite des eingeklemmten Arms, um Druck rauszunehmen und zu passen.",
+    "he": "לנטרל עם הידיים את היד החונקת, לסובב את הראש אל החזה של היריב ולעבור לצד של היד הלכודה כדי להוריד לחץ ולעבור.",
+    "ru": "Борись руками с душащей рукой, поверни голову к его груди и уходи в сторону зажатой руки, снимая давление и проходя."
+   }
+  },
+  {
+   "id": "kimura-defense",
+   "cat": "escape",
+   "name": "Kimura defense",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Grab your own belt, pants or wrist so the arm cannot be turned behind you, then turn into the opponent to take off the pressure.",
+    "de": "Greif deinen Gürtel, deine Hose oder dein Handgelenk, damit der Arm nicht hinter dich gedreht wird, dann dreh dich zum Gegner ein.",
+    "he": "לתפוס את החגורה, המכנסיים או פרק היד שלך כדי שהיד לא תסתובב לאחור, ואז להסתובב אל היריב כדי להוריד את הלחץ.",
+    "ru": "Возьмись за свой пояс, штаны или запястье, чтобы руку не завели за спину, затем развернись к сопернику и сними давление."
+   }
+  },
+  {
+   "id": "scissor-sweep",
+   "cat": "sweep",
+   "name": "Scissor sweep",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "From closed guard with collar and sleeve control, put one shin across the opponent's belly and chop his knee with the other leg while pulling him forward.",
+    "de": "Aus der Closed Guard mit Kragen- und Ärmelgriff: ein Schienbein quer über seinen Bauch, mit dem anderen Bein sein Knie wegschneiden und ihn nach vorne ziehen.",
+    "he": "מגארד סגור עם אחיזת צווארון ושרוול: שוק אחת לרוחב הבטן של היריב, הרגל השנייה קוצרת את הברך שלו, ומושכים אותו קדימה.",
+    "ru": "Из закрытого гарда с захватом воротника и рукава: голень поперёк его живота, другой ногой подсекаешь его колено и тянешь его вперёд."
+   }
+  },
+  {
+   "id": "hip-bump-sweep",
+   "cat": "sweep",
+   "name": "Hip bump sweep",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "When the opponent postures up in your closed guard, sit up, post on one hand and drive your hip into his shoulder to roll him over.",
+    "de": "Wenn der Gegner sich in deiner Closed Guard aufrichtet: aufsetzen, auf eine Hand stützen und die Hüfte in seine Schulter treiben, um ihn umzurollen.",
+    "he": "כשהיריב מתיישר בגארד הסגור שלך: להתיישב, להישען על יד אחת ולדחוף את האגן לתוך הכתף שלו כדי לגלגל אותו.",
+    "ru": "Когда соперник выпрямляется в твоём закрытом гарде: сядь, обопрись на руку и толкни бедром в его плечо, перекатывая его."
+   }
+  },
+  {
+   "id": "flower-sweep",
+   "cat": "sweep",
+   "name": "Flower sweep (pendulum sweep)",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "From closed guard, control one arm, hook under the same-side leg and swing your other leg like a pendulum to tip the opponent over.",
+    "de": "Aus der Closed Guard einen Arm kontrollieren, unter das Bein derselben Seite greifen und dein anderes Bein wie ein Pendel schwingen, um ihn umzukippen.",
+    "he": "מגארד סגור: לשלוט ביד אחת, לאחוז מתחת לרגל באותו צד ולהניף את הרגל השנייה כמו מטוטלת כדי להפיל את היריב.",
+    "ru": "Из закрытого гарда контролируй одну руку, подхвати ногу с той же стороны и качни другой ногой, как маятником, опрокидывая соперника."
+   }
+  },
+  {
+   "id": "butterfly-sweep",
+   "cat": "sweep",
+   "name": "Butterfly sweep",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Get an underhook and control the opposite arm, lean to the side of the overhook and lift with your hook to throw the opponent over.",
+    "de": "Underhook holen und den anderen Arm kontrollieren, zur Seite des Overhooks fallen und mit dem Haken anheben, um ihn rüberzuwerfen.",
+    "he": "להשיג אנדרהוק ולשלוט ביד השנייה, להישכב לצד האוברהוק ולהרים עם הוו כדי להעיף את היריב מעליך.",
+    "ru": "Возьми андерхук и контролируй другую руку, заваливайся в сторону оверхука и подбрасывай крюком, перебрасывая соперника."
+   }
+  },
+  {
+   "id": "ankle-pick-sweep",
+   "cat": "sweep",
+   "name": "Ankle grab sweep from seated guard",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Sitting against a standing opponent, grab one ankle and push his other knee with your foot so he falls back, then come up on top.",
+    "de": "Im Sitzen gegen einen stehenden Gegner einen Knöchel greifen und mit dem Fuß sein anderes Knie wegdrücken, sodass er nach hinten fällt; dann nach oben kommen.",
+    "he": "בישיבה מול יריב עומד: לתפוס קרסול אחד ולדחוף עם כף הרגל את הברך השנייה שלו כדי שייפול לאחור, ואז לעלות למעלה.",
+    "ru": "Сидя против стоящего соперника, возьми одну щиколотку и толкни стопой другое его колено, чтобы он упал назад; затем выходи наверх."
+   }
+  },
+  {
+   "id": "tripod-sweep",
+   "cat": "sweep",
+   "name": "Tripod sweep",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Against a standing opponent, hold one ankle, hook behind that heel and push his hip with your other foot so he falls backward.",
+    "de": "Gegen einen stehenden Gegner: einen Knöchel halten, die Ferse von hinten haken und mit dem anderen Fuß gegen seine Hüfte drücken, sodass er nach hinten fällt.",
+    "he": "מול יריב עומד: לאחוז בקרסול, לכוות מאחורי העקב ולדחוף עם הרגל השנייה את המותן שלו כדי שייפול לאחור.",
+    "ru": "Против стоящего соперника: держи щиколотку, зацепи пятку сзади и толкай другой стопой его бедро, чтобы он упал назад."
+   }
+  },
+  {
+   "id": "sickle-sweep",
+   "cat": "sweep",
+   "name": "Sickle sweep",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "A follow-up to the tripod sweep: keep the ankle and reap the opponent's other leg from behind his knee to cut his base.",
+    "de": "Die Ergänzung zum Tripod Sweep: Knöchel halten und mit dem Bein das andere Bein des Gegners hinter dem Knie wegsicheln.",
+    "he": "המשך לסוויפ טריפוד: להחזיק את הקרסול ולקצור עם הרגל את הרגל השנייה של היריב מאחורי הברך.",
+    "ru": "Продолжение свипа «тренога»: держи щиколотку и подсеки ногой другую его ногу под коленом."
+   }
+  },
+  {
+   "id": "old-school-sweep",
+   "cat": "sweep",
+   "name": "Old school sweep",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "From half guard with the underhook, come up on your side, grab the opponent's trapped ankle and drive forward to come up on top.",
+    "de": "Aus der Half Guard mit Underhook: auf die Seite kommen, den eingeklemmten Knöchel greifen und nach vorne drücken, bis du oben bist.",
+    "he": "מחצי גארד עם אנדרהוק: לעלות על הצד, לתפוס את הקרסול הלכוד של היריב ולדחוף קדימה עד שאתה למעלה.",
+    "ru": "Из полугарда с андерхуком: выйди на бок, возьми его зажатую щиколотку и дави вперёд, выходя наверх."
+   }
+  },
+  {
+   "id": "dogfight-sweep",
+   "cat": "sweep",
+   "name": "Dogfight sweep",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "From half guard, come up to your knee with a deep underhook, head against the opponent's chest, and drive or lift his leg to take the top.",
+    "de": "Aus der Half Guard mit tiefem Underhook aufs Knie kommen, Kopf an seiner Brust, und drücken oder sein Bein anheben, um oben zu landen.",
+    "he": "מחצי גארד לעלות על ברך עם אנדרהוק עמוק, הראש צמוד לחזה של היריב, ולדחוף או להרים את הרגל שלו כדי לעלות למעלה.",
+    "ru": "Из полугарда выйди на колено с глубоким андерхуком, голова у его груди, дави или поднимай его ногу и выходи наверх."
+   }
+  },
+  {
+   "id": "half-butterfly-sweep",
+   "cat": "sweep",
+   "name": "Half butterfly sweep",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "With one butterfly hook and the underhook from half guard, lift the opponent's leg and tip him over to the side where he cannot post.",
+    "de": "Mit einem Butterfly-Haken und dem Underhook aus der Half Guard sein Bein anheben und ihn zu der Seite kippen, auf der er sich nicht abstützen kann.",
+    "he": "עם וו בטרפליי אחד ואנדרהוק מחצי גארד: להרים את הרגל של היריב ולהפיל אותו לצד שבו הוא לא יכול להישען.",
+    "ru": "С одним крюком-бабочкой и андерхуком из полугарда подними его ногу и опрокинь его в ту сторону, где ему не на что опереться."
+   }
+  },
+  {
+   "id": "waiter-sweep",
+   "cat": "sweep",
+   "name": "Waiter sweep (deep half guard)",
+   "lvl": 3,
+   "gi": "both",
+   "d": {
+    "en": "From deep half guard underneath the opponent, lift his free leg like a waiter carrying a tray and tip him over.",
+    "de": "Aus der Deep Half Guard unter dem Gegner sein freies Bein anheben wie ein Kellner das Tablett und ihn umkippen.",
+    "he": "מדיפ חצי גארד מתחת ליריב, להרים את הרגל החופשית שלו כמו מלצר שמחזיק מגש ולהפיל אותו.",
+    "ru": "Из глубокого полугарда под соперником подними его свободную ногу, как официант поднос, и опрокинь его."
+   }
+  },
+  {
+   "id": "x-guard-sweep",
+   "cat": "sweep",
+   "name": "X-guard technical stand-up sweep",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "From X-guard, extend your legs to off-balance the opponent, then stand up holding his leg and take him down.",
+    "de": "Aus der X-Guard die Beine strecken, um ihn aus dem Gleichgewicht zu bringen, dann mit seinem Bein in der Hand aufstehen und ihn umwerfen.",
+    "he": "מאקס גארד ליישר את הרגליים כדי להוציא את היריב משיווי משקל, ואז לקום כשאתה מחזיק את הרגל שלו ולהפיל אותו.",
+    "ru": "Из X-гарда выпрями ноги, выводя соперника из равновесия, затем встань, держа его ногу, и сбей его."
+   }
+  },
+  {
+   "id": "single-leg-x-sweep",
+   "cat": "sweep",
+   "name": "Single-leg X sweep",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "From single-leg X, push with the foot on the hip and turn the opponent's knee out so he falls; then come up holding the leg.",
+    "de": "Aus Single-Leg-X mit dem Fuß an der Hüfte drücken und sein Knie nach außen drehen, bis er fällt; dann mit dem Bein in der Hand aufstehen.",
+    "he": "מסינגל לג X לדחוף עם כף הרגל שעל המותן ולסובב את הברך של היריב החוצה עד שייפול; ואז לקום כשאתה מחזיק את הרגל.",
+    "ru": "Из одинарного X толкай стопой в бедро и выворачивай его колено наружу, пока он не упадёт; затем вставай, держа ногу."
+   }
+  },
+  {
+   "id": "dlr-sweep",
+   "cat": "sweep",
+   "name": "De la Riva sweep",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Use the De la Riva hook and the ankle grip to pull the opponent's weight onto one leg, then kick the other leg out so he falls.",
+    "de": "Mit dem De-la-Riva-Haken und dem Knöchelgriff sein Gewicht auf ein Bein ziehen, dann das andere Bein wegschieben, damit er fällt.",
+    "he": "עם וו הדה לה ריבה ואחיזת הקרסול למשוך את המשקל של היריב לרגל אחת, ואז לבעוט את הרגל השנייה כדי שייפול.",
+    "ru": "Крюком де ла Ривы и захватом щиколотки перенеси вес соперника на одну ногу, затем выбей другую, чтобы он упал."
+   }
+  },
+  {
+   "id": "spider-sweep",
+   "cat": "sweep",
+   "name": "Spider guard sweep",
+   "lvl": 2,
+   "gi": "gi",
+   "d": {
+    "en": "Use your feet on the biceps to load the opponent's weight, then hook one leg and pull the sleeves to tip him over.",
+    "de": "Mit den Füßen an den Bizepsen sein Gewicht laden, dann ein Bein haken und an den Ärmeln ziehen, um ihn umzukippen.",
+    "he": "עם כפות הרגליים על הזרועות להעמיס את המשקל של היריב, ואז לכוות רגל אחת ולמשוך בשרוולים כדי להפיל אותו.",
+    "ru": "Стопами на бицепсах загрузи вес соперника, затем зацепи одну ногу и потяни за рукава, опрокидывая его."
+   }
+  },
+  {
+   "id": "lasso-sweep",
+   "cat": "sweep",
+   "name": "Lasso sweep",
+   "lvl": 2,
+   "gi": "gi",
+   "d": {
+    "en": "From lasso guard, pull the sleeve across and drive the lasso leg to the side while your other foot pushes the hip, tipping the opponent over.",
+    "de": "Aus der Lasso Guard den Ärmel quer ziehen und das Lasso-Bein zur Seite treiben, während der andere Fuß gegen die Hüfte drückt, bis er kippt.",
+    "he": "מלאסו גארד: למשוך את השרוול לרוחב ולדחוף את רגל הלאסו הצידה, בזמן שהרגל השנייה דוחפת את המותן, עד שהיריב נופל.",
+    "ru": "Из лассо-гарда тяни рукав поперёк и уводи лассо-ногу в сторону, пока другая стопа толкает бедро, опрокидывая соперника."
+   }
+  },
+  {
+   "id": "shin-to-shin-sweep",
+   "cat": "sweep",
+   "name": "Shin-to-shin sweep",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Place your shin against the inside of the opponent's shin, hold his ankle and lift the leg to break his balance, then sweep or enter X-guard.",
+    "de": "Dein Schienbein innen an sein Schienbein legen, seinen Knöchel halten und das Bein anheben, um sein Gleichgewicht zu brechen; dann sweepen oder in die X-Guard.",
+    "he": "להצמיד את השוק שלך לצד הפנימי של השוק של היריב, לאחוז בקרסול ולהרים את הרגל כדי לשבור שיווי משקל; ואז סוויפ או כניסה לאקס גארד.",
+    "ru": "Приставь голень к внутренней стороне его голени, держи щиколотку и поднимай ногу, ломая равновесие; затем свип или вход в X-гард."
+   }
+  },
+  {
+   "id": "balloon-sweep",
+   "cat": "sweep",
+   "name": "Balloon sweep (overhead sweep)",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "With both feet on the opponent's hips and grips on his collar or arms, roll back and lift him over your head.",
+    "de": "Beide Füße an seiner Hüfte, Griffe an Kragen oder Armen: nach hinten rollen und ihn über deinen Kopf heben.",
+    "he": "שתי כפות הרגליים על המותניים של היריב ואחיזה בצווארון או בידיים: להתגלגל לאחור ולהרים אותו מעל הראש.",
+    "ru": "Обе стопы на бёдрах соперника, захваты за воротник или руки: откатись назад и перебрось его через голову."
+   }
+  },
+  {
+   "id": "lumberjack-sweep",
+   "cat": "sweep",
+   "name": "Lumberjack sweep",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "When the opponent stands up in your guard, grab behind both his heels and push your hips into his knees so he falls back like a tree.",
+    "de": "Wenn der Gegner in deiner Guard aufsteht: hinter beide Fersen greifen und mit der Hüfte gegen seine Knie drücken, bis er wie ein Baum nach hinten fällt.",
+    "he": "כשהיריב קם בגארד שלך: לתפוס מאחורי שני העקבים ולדחוף עם האגן לברכיים שלו כדי שייפול לאחור כמו עץ.",
+    "ru": "Когда соперник встаёт в твоём гарде: возьмись за обе пятки сзади и толкни бёдрами в колени, чтобы он упал назад, как дерево."
+   }
+  },
+  {
+   "id": "electric-chair-sweep",
+   "cat": "sweep",
+   "name": "Electric chair sweep",
+   "lvl": 3,
+   "gi": "both",
+   "d": {
+    "en": "From half guard with the lockdown, take the opponent's free leg over your shoulder and spread his legs to tip him over. Go slowly: it strains the hips.",
+    "de": "Aus der Half Guard mit Lockdown sein freies Bein auf die Schulter nehmen und die Beine auseinanderziehen, um ihn zu kippen. Langsam, das belastet die Hüfte.",
+    "he": "מחצי גארד עם לוקדאון: להעלות את הרגל החופשית של היריב על הכתף ולפשק את הרגליים שלו כדי להפיל אותו. לבצע לאט, זה מעמיס על המפשעה.",
+    "ru": "Из полугарда с локдауном закинь его свободную ногу на плечо и разведи его ноги, опрокидывая его. Делай медленно: нагрузка на тазобедренные суставы."
+   }
+  },
+  {
+   "id": "closed-guard-break-standing",
+   "cat": "pass",
+   "name": "Standing closed guard break",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Build strong posture, stand up one leg at a time while controlling the hips, then let your knee or hips open the opponent's crossed ankles.",
+    "de": "Stabile Haltung, mit Kontrolle der Hüfte ein Bein nach dem anderen aufstehen und dann mit Knie oder Hüfte seine gekreuzten Füße öffnen.",
+    "he": "יציבה חזקה, לקום רגל אחר רגל תוך שליטה במותניים, ואז לפתוח עם הברך או האגן את הקרסוליים הנעולים של היריב.",
+    "ru": "Сильная осанка, вставай по одной ноге, контролируя бёдра, затем коленом или бёдрами раскрой его скрещённые ноги."
+   }
+  },
+  {
+   "id": "closed-guard-break-kneeling",
+   "cat": "pass",
+   "name": "Kneeling closed guard break",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Kneel with a wide base, pin the opponent's hips, slide one knee to his tailbone and step the other leg back to pry his legs apart.",
+    "de": "Breit knien, seine Hüfte fixieren, ein Knie an sein Steißbein schieben und das andere Bein zurückstellen, um seine Beine aufzuhebeln.",
+    "he": "לכרוע בבסיס רחב, להצמיד את האגן של היריב, להכניס ברך אחת לעצם הזנב שלו ולהוציא את הרגל השנייה לאחור כדי לפתוח את הרגליים שלו.",
+    "ru": "Встань на колени с широкой базой, прижми его бёдра, поставь одно колено к его копчику и отставь другую ногу назад, раскрывая его ноги."
+   }
+  },
+  {
+   "id": "toreando-pass",
+   "cat": "pass",
+   "name": "Toreando pass",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Grip the opponent's knees or pants, push his legs to one side like a bullfighter's cape and move around them quickly to side control.",
+    "de": "Seine Knie oder Hose greifen, die Beine wie das Tuch eines Toreros zur Seite schieben und schnell drumherum in die Side Control gehen.",
+    "he": "לאחוז בברכיים או במכנסיים של היריב, לדחוף את הרגליים הצידה כמו גלימה של מטאדור ולעקוף אותן מהר לסייד קונטרול.",
+    "ru": "Возьмись за колени или штаны соперника, отведи его ноги в сторону, как плащ тореадора, и быстро обойди их в боковой контроль."
+   }
+  },
+  {
+   "id": "knee-slice-pass",
+   "cat": "pass",
+   "name": "Knee slice pass (knee cut)",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Slide your knee diagonally across the opponent's thigh to the mat while controlling the underhook or collar and the far arm, then settle into side control.",
+    "de": "Das Knie diagonal über seinen Oberschenkel zur Matte schieben, dabei Underhook oder Kragen und den fernen Arm kontrollieren, dann in die Side Control.",
+    "he": "להחליק את הברך באלכסון מעל הירך של היריב אל המזרן, תוך שליטה באנדרהוק או בצווארון וביד הרחוקה, ולהתייצב בסייד קונטרול.",
+    "ru": "Проведи колено по диагонали через его бедро к ковру, контролируя андерхук или воротник и дальнюю руку, затем закрепись в боковом контроле."
+   }
+  },
+  {
+   "id": "double-under-pass",
+   "cat": "pass",
+   "name": "Double-under pass (stack pass)",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Scoop both arms under the opponent's legs, lift his hips and stack him onto his shoulders, then walk around his legs to side control.",
+    "de": "Beide Arme unter seine Beine bringen, seine Hüfte anheben und ihn auf die Schultern stacken, dann um die Beine herum in die Side Control gehen.",
+    "he": "להכניס את שתי הידיים מתחת לרגליים של היריב, להרים את האגן ולערום אותו על הכתפיים, ואז ללכת סביב הרגליים לסייד קונטרול.",
+    "ru": "Заведи обе руки под его ноги, подними таз и сложи его на плечи, затем обойди ноги в боковой контроль."
+   }
+  },
+  {
+   "id": "over-under-pass",
+   "cat": "pass",
+   "name": "Over-under pass",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "One arm goes under one leg and the other over the other leg; pin his hips with your head and shoulder and walk around under heavy pressure.",
+    "de": "Ein Arm unter einem Bein, der andere über dem anderen Bein; mit Kopf und Schulter die Hüfte festnageln und mit viel Druck herumgehen.",
+    "he": "יד אחת מתחת לרגל אחת והשנייה מעל הרגל השנייה; להצמיד את האגן עם הראש והכתף ולעקוף בלחץ כבד.",
+    "ru": "Одна рука под одной ногой, другая над другой; прижми его таз головой и плечом и обходи с тяжёлым давлением."
+   }
+  },
+  {
+   "id": "leg-drag-pass",
+   "cat": "pass",
+   "name": "Leg drag pass",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Pull one of the opponent's legs across his body and pin it there with your hip so his hips turn away, then move to side control or the back.",
+    "de": "Ein Bein des Gegners quer über seinen Körper ziehen und mit der Hüfte dort festhalten, sodass seine Hüfte wegdreht, dann in Side Control oder an den Rücken.",
+    "he": "למשוך רגל אחת של היריב לרוחב הגוף שלו ולהצמיד אותה שם עם האגן, כך שהאגן שלו מסתובב, ואז לעבור לסייד קונטרול או לגב.",
+    "ru": "Перетяни одну его ногу через его корпус и прижми её бедром, разворачивая его таз, затем уходи в боковой контроль или на спину."
+   }
+  },
+  {
+   "id": "x-pass",
+   "cat": "pass",
+   "name": "X-pass",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Against a seated open guard, step quickly across the opponent's legs in an X pattern while gripping the knees, and pass before he can reconnect.",
+    "de": "Gegen eine sitzende Open Guard schnell in X-Form über seine Beine steppen, die Knie greifen und passen, bevor er wieder Kontakt findet.",
+    "he": "מול גארד פתוח בישיבה: לצעוד מהר בצורת X מעבר לרגליים של היריב תוך אחיזה בברכיים, ולעבור לפני שהוא מתחבר שוב.",
+    "ru": "Против открытого гарда сидя быстро шагни крест-накрест через его ноги, держа колени, и пройди, пока он не восстановил контакт."
+   }
+  },
+  {
+   "id": "long-step-pass",
+   "cat": "pass",
+   "name": "Long step pass",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "From a pinned half guard or headquarters, take a big step back with your trapped leg, turning your hips, to free it and land in side control.",
+    "de": "Aus gepinnter Half Guard oder Headquarters mit dem gefangenen Bein einen großen Schritt nach hinten machen, Hüfte drehen, Bein befreien und in Side Control landen.",
+    "he": "מחצי גארד מוצמד או מהדקווטרס: צעד גדול לאחור עם הרגל הלכודה, תוך סיבוב האגן, כדי לשחרר אותה ולנחות בסייד קונטרול.",
+    "ru": "Из прижатого полугарда или позиции headquarters сделай длинный шаг назад зажатой ногой, разворачивая таз, освободи её и приземлись в боковом контроле."
+   }
+  },
+  {
+   "id": "half-guard-pass",
+   "cat": "pass",
+   "name": "Half guard pass (crossface and underhook)",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Flatten the opponent with a crossface and your own underhook, then free your trapped leg with your other foot and slide out to side control or mount.",
+    "de": "Den Gegner mit Crossface und eigenem Underhook flach machen, dann mit dem anderen Fuß dein gefangenes Bein befreien und in Side Control oder Mount rutschen.",
+    "he": "להשכיב את היריב עם קרוספייס ואנדרהוק שלך, לשחרר את הרגל הלכודה בעזרת הרגל השנייה ולהחליק לסייד קונטרול או למאונט.",
+    "ru": "Прижми соперника кроссфейсом и своим андерхуком, затем другой стопой освободи зажатую ногу и выходи в боковой контроль или маунт."
+   }
+  },
+  {
+   "id": "smash-pass",
+   "cat": "pass",
+   "name": "Half guard smash pass",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Fold the opponent's knees to one side and drive your chest into them, crushing his guard before you clear your leg.",
+    "de": "Seine Knie zur Seite falten und mit der Brust darauf drücken, sodass seine Guard zusammenbricht, bevor du dein Bein befreist.",
+    "he": "לקפל את הברכיים של היריב לצד אחד וללחוץ עליהן עם החזה, למעוך את הגארד לפני שמשחררים את הרגל.",
+    "ru": "Сложи его колени в одну сторону и навались на них грудью, раздавливая гард, прежде чем освобождать ногу."
+   }
+  },
+  {
+   "id": "body-lock-pass",
+   "cat": "pass",
+   "name": "Body lock pass",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Lock your hands around the opponent's waist, keep your hips heavy on his and walk your legs free from his guard.",
+    "de": "Die Hände um seine Hüfte schließen, deine Hüfte schwer auf seiner halten und die Beine Schritt für Schritt aus seiner Guard befreien.",
+    "he": "לנעול את הידיים סביב המותניים של היריב, להחזיק את האגן כבד עליו ולשחרר את הרגליים מהגארד צעד אחר צעד.",
+    "ru": "Сцепи руки вокруг его пояса, держи бёдра тяжело на его бёдрах и шагами освобождай ноги из гарда."
+   }
+  },
+  {
+   "id": "backstep-pass",
+   "cat": "pass",
+   "name": "Backstep pass",
+   "lvl": 3,
+   "gi": "both",
+   "d": {
+    "en": "From half guard on top, turn your back toward the opponent's legs and step your free leg over to swing your trapped leg out. Watch out for leg attacks.",
+    "de": "Oben in der Half Guard den Rücken zu seinen Beinen drehen und mit dem freien Bein drübersteigen, um das gefangene Bein herauszuholen. Achte auf Beinangriffe.",
+    "he": "למעלה בחצי גארד: לסובב את הגב לכיוון הרגליים של היריב ולהעביר את הרגל החופשית כדי לשחרר את הרגל הלכודה. להיזהר מהתקפות רגליים.",
+    "ru": "Сверху в полугарде развернись спиной к его ногам и перешагни свободной ногой, вытаскивая зажатую. Следи за атаками на ноги."
+   }
+  },
+  {
+   "id": "butterfly-pass",
+   "cat": "pass",
+   "name": "Butterfly guard pass",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Kill the hooks by flattening the opponent or pinning his knees, then hop or step around his legs while keeping your head low and to the side.",
+    "de": "Die Haken ausschalten, indem du ihn flach drückst oder seine Knie pinnst, dann um seine Beine springen oder steppen, Kopf tief und seitlich.",
+    "he": "לנטרל את הווים בהשכבת היריב או בהצמדת הברכיים שלו, ואז לקפוץ או לצעוד סביב הרגליים כשהראש נמוך ובצד.",
+    "ru": "Нейтрализуй крюки, прижав соперника к ковру или прижав его колени, затем перепрыгни или обойди ноги, держа голову низко и сбоку."
+   }
+  },
+  {
+   "id": "spider-pass",
+   "cat": "pass",
+   "name": "Spider guard pass",
+   "lvl": 2,
+   "gi": "gi",
+   "d": {
+    "en": "Break the sleeve grips first, then lower your level, stack a leg or step around to the side and pass before the feet come back.",
+    "de": "Zuerst die Ärmelgriffe lösen, dann tiefer gehen, ein Bein stacken oder seitlich herumsteppen und passen, bevor die Füße zurückkommen.",
+    "he": "קודם לשבור את אחיזות השרוול, אחר כך להנמיך, לערום רגל או לצעוד הצידה ולעבור לפני שכפות הרגליים חוזרות.",
+    "ru": "Сначала сбрось захваты за рукава, затем опустись ниже, сложи одну ногу или обойди сбоку и проходи, пока стопы не вернулись."
+   }
+  },
+  {
+   "id": "dlr-pass",
+   "cat": "pass",
+   "name": "De la Riva guard pass",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Free your leg from the hook by turning the knee out or stepping back, kill the ankle grip and pin the hips before going around.",
+    "de": "Dein Bein vom Haken befreien, indem du das Knie nach außen drehst oder zurücksteppst, den Knöchelgriff lösen und die Hüfte pinnen, bevor du herumgehst.",
+    "he": "לשחרר את הרגל מהוו בסיבוב הברך החוצה או בצעד אחורה, לנטרל את אחיזת הקרסול ולהצמיד את האגן לפני שעוקפים.",
+    "ru": "Освободи ногу от крюка, развернув колено наружу или отшагнув, сбрось захват щиколотки и прижми таз, прежде чем обходить."
+   }
+  },
+  {
+   "id": "leg-weave-pass",
+   "cat": "pass",
+   "name": "Leg weave pass",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Thread one arm under one leg and pin the other leg with your knee or hip, then turn the opponent's legs to one side and pass.",
+    "de": "Einen Arm unter ein Bein fädeln und das andere Bein mit Knie oder Hüfte fixieren, dann seine Beine zur Seite drehen und passen.",
+    "he": "להשחיל יד מתחת לרגל אחת ולהצמיד את הרגל השנייה עם הברך או האגן, ואז לסובב את הרגליים של היריב הצידה ולעבור.",
+    "ru": "Продень руку под одну ногу, другую прижми коленом или бедром, затем разверни его ноги в сторону и проходи."
+   }
+  },
+  {
+   "id": "hip-switch-pass",
+   "cat": "pass",
+   "name": "Hip switch pass",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "From half guard on top, switch your hips to face the opponent's feet, posting on your free leg, to loosen his leg lock and slide out.",
+    "de": "Oben in der Half Guard die Hüfte Richtung seiner Füße drehen und auf dem freien Bein abstützen, damit sich sein Beingriff lockert, und herausgleiten.",
+    "he": "למעלה בחצי גארד: להחליף כיוון אגן אל כפות הרגליים של היריב עם בסיס על הרגל החופשית, כדי לשחרר את הנעילה שלו ולהחליק החוצה.",
+    "ru": "Сверху в полугарде смени положение бёдер лицом к его стопам, опираясь на свободную ногу, ослабь его захват ногами и выскользни."
+   }
+  },
+  {
+   "id": "rear-naked-choke",
+   "cat": "submission",
+   "name": "Rear naked choke",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "From back control, slide one arm around the neck with the elbow under the chin and lock behind the head. Squeeze slowly and let go as soon as your partner taps.",
+    "de": "Aus der Back Control einen Arm um den Hals legen, Ellbogen unter dem Kinn, und hinter dem Kopf schließen. Langsam zuziehen und sofort lösen, wenn der Partner abklopft.",
+    "he": "מהגב: להכניס יד סביב הצוואר עם המרפק מתחת לסנטר ולנעול מאחורי הראש. ללחוץ לאט ולשחרר מיד כשהשותף טופח.",
+    "ru": "Со спины заведи руку вокруг шеи, локоть под подбородком, и замкни за головой. Затягивай медленно и сразу отпускай, когда партнёр хлопает."
+   }
+  },
+  {
+   "id": "guillotine-choke",
+   "cat": "submission",
+   "name": "Guillotine choke",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "A front choke: wrap your arm around the opponent's neck from the front and lift with your forearm under the chin, often from guard or standing.",
+    "de": "Ein Würger von vorne: den Arm um seinen Hals legen und mit dem Unterarm unter dem Kinn anheben, oft aus der Guard oder im Stand.",
+    "he": "חניקה מלפנים: לכרוך את היד סביב הצוואר של היריב מלפנים ולהרים עם האמה מתחת לסנטר, לרוב מגארד או בעמידה.",
+    "ru": "Удушение спереди: обхвати шею соперника рукой спереди и поднимай предплечьем под подбородком, часто из гарда или в стойке."
+   }
+  },
+  {
+   "id": "arm-in-guillotine",
+   "cat": "submission",
+   "name": "Arm-in guillotine (high elbow)",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "A guillotine that traps one arm together with the head; keep the elbow high and turn toward the trapped arm to close the choke.",
+    "de": "Eine Guillotine, die einen Arm mit dem Kopf einschließt; Ellbogen hoch halten und zur Seite des eingeklemmten Arms drehen, um zuzuziehen.",
+    "he": "גיליוטינה שלוכדת יד אחת יחד עם הראש; להחזיק את המרפק גבוה ולהסתובב לצד היד הלכודה כדי לסגור את החניקה.",
+    "ru": "Гильотина с захватом руки вместе с головой; держи локоть высоко и поворачивайся к зажатой руке, закрывая удушение."
+   }
+  },
+  {
+   "id": "triangle-choke",
+   "cat": "submission",
+   "name": "Triangle choke from guard",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Trap the opponent's head and one arm between your legs and lock them in a triangle behind his neck. Angle off and pull the head down to finish.",
+    "de": "Kopf und einen Arm des Gegners zwischen deinen Beinen einschließen und die Beine hinter seinem Nacken zum Dreieck schließen. Winkel suchen und den Kopf runterziehen.",
+    "he": "ללכוד בין הרגליים את הראש ויד אחת של היריב ולנעול משולש מאחורי העורף. לזוז לזווית ולמשוך את הראש למטה כדי לסיים.",
+    "ru": "Зажми ногами голову и одну руку соперника и замкни треугольник за его шеей. Уйди под угол и тяни голову вниз для завершения."
+   }
+  },
+  {
+   "id": "mounted-triangle",
+   "cat": "submission",
+   "name": "Triangle from mount",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "From high mount, step one leg over an isolated arm and lock the triangle while sitting up. Then fall to the side or finish from the top.",
+    "de": "Aus dem High Mount ein Bein über einen isolierten Arm stellen und das Dreieck im Sitzen schließen. Dann zur Seite fallen oder von oben beenden.",
+    "he": "ממאונט גבוה להעביר רגל מעל יד מבודדת ולנעול טריאנגל בישיבה. ואז ליפול הצידה או לסיים מלמעלה.",
+    "ru": "Из высокого маунта перешагни ногой через изолированную руку и замкни треугольник сидя. Затем завались на бок или завершай сверху."
+   }
+  },
+  {
+   "id": "arm-triangle",
+   "cat": "submission",
+   "name": "Arm triangle (head and arm choke)",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Trap the opponent's head and one arm with your arms, move to the side away from his trapped arm and squeeze with your shoulder.",
+    "de": "Kopf und einen Arm des Gegners mit deinen Armen einschließen, auf die Seite gegenüber seinem eingeklemmten Arm rutschen und mit der Schulter zudrücken.",
+    "he": "ללכוד בזרועות שלך את הראש ויד אחת של היריב, לרדת לצד הנגדי ליד הלכודה וללחוץ עם הכתף.",
+    "ru": "Обхвати руками его голову и одну руку, сползи в сторону, противоположную зажатой руке, и сдавливай плечом."
+   }
+  },
+  {
+   "id": "darce-choke",
+   "cat": "submission",
+   "name": "D'Arce choke",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Thread your arm through the opponent's armpit and under his neck, then lock behind your own other arm. Common against turtle or from half guard top.",
+    "de": "Den Arm durch seine Achsel und unter seinem Hals durchfädeln, dann hinter deinem anderen Arm verschließen. Häufig gegen Turtle oder oben aus der Half Guard.",
+    "he": "להשחיל את היד דרך בית השחי של היריב ומתחת לצוואר שלו, ולנעול מאחורי היד השנייה שלך. נפוץ מול צב או מלמעלה בחצי גארד.",
+    "ru": "Продень руку через подмышку соперника и под его шею, замкни за своей другой рукой. Часто против черепахи или сверху в полугарде."
+   }
+  },
+  {
+   "id": "anaconda-choke",
+   "cat": "submission",
+   "name": "Anaconda choke",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "From a front headlock, thread your arm under the neck and arm, lock your hands and roll to the side to tighten the choke.",
+    "de": "Aus dem Front Headlock den Arm unter Hals und Arm durchfädeln, die Hände schließen und zur Seite rollen, um den Würger zuzuziehen.",
+    "he": "מפרונט הדלוק להשחיל את היד מתחת לצוואר וליד, לנעול את הידיים ולהתגלגל הצידה כדי להדק את החניקה.",
+    "ru": "Из фронтального захвата головы продень руку под шею и руку, сцепи замок и перекатись в сторону, затягивая удушение."
+   }
+  },
+  {
+   "id": "north-south-choke",
+   "cat": "submission",
+   "name": "North-south choke",
+   "lvl": 3,
+   "gi": "both",
+   "d": {
+    "en": "From north-south, wrap the opponent's neck with your arm and press your chest and armpit down on the far side of his neck.",
+    "de": "Aus North-South den Arm um seinen Hals legen und mit Brust und Achsel auf die andere Halsseite drücken.",
+    "he": "מנורת' סאות' לכרוך את היד סביב הצוואר של היריב וללחוץ עם החזה ובית השחי על הצד השני של הצוואר.",
+    "ru": "Из позиции север-юг обхвати шею соперника рукой и дави грудью и подмышкой на дальнюю сторону его шеи."
+   }
+  },
+  {
+   "id": "ezekiel-choke",
+   "cat": "submission",
+   "name": "Ezekiel choke",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Holding your own sleeve (or your wrist in no-gi), lay one forearm across the opponent's throat and push with the other hand. Often from mount.",
+    "de": "Mit Griff in deinen eigenen Ärmel (ohne Gi ans Handgelenk) einen Unterarm über seinen Hals legen und mit der anderen Hand drücken. Oft aus dem Mount.",
+    "he": "באחיזה בשרוול שלך (או בפרק היד בנו-גי) להניח אמה על הגרון של היריב ולדחוף עם היד השנייה. לרוב ממאונט.",
+    "ru": "Держась за свой рукав (без ги за запястье), положи предплечье на горло соперника и дави другой рукой. Чаще всего из маунта."
+   }
+  },
+  {
+   "id": "cross-collar-choke-guard",
+   "cat": "submission",
+   "name": "Cross collar choke from guard",
+   "lvl": 1,
+   "gi": "gi",
+   "d": {
+    "en": "From closed guard, insert both hands deep in opposite sides of the opponent's collar, pull him down and bring your elbows toward the mat.",
+    "de": "Aus der Closed Guard beide Hände tief in gegenüberliegende Seiten seines Kragens stecken, ihn herunterziehen und die Ellbogen Richtung Matte führen.",
+    "he": "מגארד סגור להכניס את שתי הידיים עמוק לצדדים הנגדיים של הצווארון של היריב, למשוך אותו למטה ולהוריד את המרפקים לכיוון המזרן.",
+    "ru": "Из закрытого гарда заведи обе руки глубоко за противоположные стороны его воротника, притяни его и разводи локти к ковру."
+   }
+  },
+  {
+   "id": "cross-collar-choke-mount",
+   "cat": "submission",
+   "name": "Cross collar choke from mount",
+   "lvl": 1,
+   "gi": "gi",
+   "d": {
+    "en": "From mount, set a deep first collar grip, then the second hand on the other side, and lower your chest toward the opponent while flaring the elbows.",
+    "de": "Aus dem Mount zuerst einen tiefen Kragengriff setzen, dann die zweite Hand auf der anderen Seite, und mit der Brust tiefer gehen, Ellbogen nach außen.",
+    "he": "ממאונט: אחיזת צווארון ראשונה עמוקה, אחר כך היד השנייה בצד השני, ולהנמיך את החזה אל היריב תוך פתיחת המרפקים.",
+    "ru": "Из маунта сначала глубокий захват воротника, затем вторая рука с другой стороны, опускай грудь к сопернику, разводя локти."
+   }
+  },
+  {
+   "id": "bow-and-arrow-choke",
+   "cat": "submission",
+   "name": "Bow and arrow choke",
+   "lvl": 2,
+   "gi": "gi",
+   "d": {
+    "en": "From the back, hold the collar with one hand and the opponent's pants or leg with the other, then stretch your body like a bow to tighten the collar.",
+    "de": "Vom Rücken aus mit einer Hand den Kragen und mit der anderen Hose oder Bein greifen, dann den Körper wie einen Bogen strecken, um den Kragen zuzuziehen.",
+    "he": "מהגב: יד אחת בצווארון והשנייה במכנסיים או ברגל של היריב, ולמתוח את הגוף כמו קשת כדי להדק את הצווארון.",
+    "ru": "Со спины держи одной рукой воротник, другой его штаны или ногу и вытягивайся, как лук, затягивая воротник."
+   }
+  },
+  {
+   "id": "sliding-collar-choke",
+   "cat": "submission",
+   "name": "Sliding collar choke",
+   "lvl": 2,
+   "gi": "gi",
+   "d": {
+    "en": "From the back, feed the lapel to your other hand, grip deep in the collar and pull it across the neck while your free hand controls the other lapel.",
+    "de": "Vom Rücken aus das Revers an die andere Hand übergeben, tief in den Kragen greifen und ihn quer über den Hals ziehen, während die freie Hand das andere Revers kontrolliert.",
+    "he": "מהגב להעביר את הדש ליד השנייה, לאחוז עמוק בצווארון ולמשוך אותו על הצוואר בזמן שהיד החופשית שולטת בדש השני.",
+    "ru": "Со спины передай лацкан в другую руку, возьми глубоко за воротник и тяни его поперёк шеи, свободной рукой контролируя другой лацкан."
+   }
+  },
+  {
+   "id": "clock-choke",
+   "cat": "submission",
+   "name": "Clock choke",
+   "lvl": 2,
+   "gi": "gi",
+   "d": {
+    "en": "Against turtle, grip deep in the collar, put your weight on the opponent's back and walk your legs around like a clock hand to tighten it.",
+    "de": "Gegen die Turtle tief in den Kragen greifen, dein Gewicht auf seinen Rücken legen und mit den Beinen wie ein Uhrzeiger herumlaufen, um zuzuziehen.",
+    "he": "מול צב: לאחוז עמוק בצווארון, להעמיס משקל על הגב של היריב וללכת עם הרגליים מסביב כמו מחוג של שעון כדי להדק.",
+    "ru": "Против черепахи возьми глубоко за воротник, навались на его спину и обходи ногами по кругу, как стрелка часов, затягивая удушение."
+   }
+  },
+  {
+   "id": "loop-choke",
+   "cat": "submission",
+   "name": "Loop choke",
+   "lvl": 2,
+   "gi": "gi",
+   "d": {
+    "en": "With one deep collar grip, loop your arm over the back of the opponent's neck as he dives forward, then fall to the side to close it.",
+    "de": "Mit einem tiefen Kragengriff deinen Arm wie eine Schlinge über seinen Nacken legen, wenn er nach vorne kommt, und zur Seite fallen, um zuzuziehen.",
+    "he": "עם אחיזת צווארון עמוקה אחת, לכרוך את היד כמו לולאה מעל העורף של היריב כשהוא נשען קדימה, וליפול הצידה כדי לסגור.",
+    "ru": "С одним глубоким захватом воротника накинь руку петлёй ему на затылок, когда он наклоняется вперёд, и завались на бок, закрывая удушение."
+   }
+  },
+  {
+   "id": "baseball-bat-choke",
+   "cat": "submission",
+   "name": "Baseball bat choke",
+   "lvl": 2,
+   "gi": "gi",
+   "d": {
+    "en": "Two collar grips held like a baseball bat, one thumb in and one out; turning your body toward the opponent's head tightens the collar.",
+    "de": "Zwei Kragengriffe wie ein Baseballschläger, ein Daumen innen, einer außen; wenn du dich Richtung seines Kopfes drehst, zieht sich der Kragen zu.",
+    "he": "שתי אחיזות צווארון כמו מחבט בייסבול, אגודל אחד בפנים ואחד בחוץ; סיבוב הגוף לכיוון הראש של היריב מהדק את הצווארון.",
+    "ru": "Два захвата воротника, как бейсбольная бита: один большой палец внутрь, другой наружу; разворот к его голове затягивает воротник."
+   }
+  },
+  {
+   "id": "paper-cutter-choke",
+   "cat": "submission",
+   "name": "Paper cutter choke",
+   "lvl": 2,
+   "gi": "gi",
+   "d": {
+    "en": "From side control, grip deep in the collar near the opponent's head and lower that forearm across his throat like the blade of a paper cutter.",
+    "de": "Aus Side Control tief in den Kragen nahe seinem Kopf greifen und diesen Unterarm wie die Klinge eines Papierschneiders über seinen Hals senken.",
+    "he": "מסייד קונטרול לאחוז עמוק בצווארון ליד הראש של היריב ולהוריד את האמה הזאת על הגרון שלו כמו להב של חותך נייר.",
+    "ru": "Из бокового контроля возьми глубоко за воротник у его головы и опусти это предплечье на горло, как нож бумажного резака."
+   }
+  },
+  {
+   "id": "armbar-guard",
+   "cat": "submission",
+   "name": "Armbar from guard",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Control one arm, put your foot on the hip, pivot and swing your leg over the head, then squeeze your knees and lift your hips slowly against the elbow.",
+    "de": "Einen Arm kontrollieren, Fuß an die Hüfte, eindrehen und das Bein über den Kopf schwingen, dann Knie zusammen und die Hüfte langsam gegen den Ellbogen anheben.",
+    "he": "לשלוט ביד אחת, כף רגל על המותן, להסתובב ולהעביר את הרגל מעל הראש, ואז לסגור ברכיים ולהרים את האגן לאט נגד המרפק.",
+    "ru": "Контролируй одну руку, стопа на бедро, развернись и перекинь ногу через голову, сожми колени и медленно поднимай таз против локтя."
+   }
+  },
+  {
+   "id": "armbar-mount",
+   "cat": "submission",
+   "name": "Armbar from mount",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "From high mount, isolate an arm, put weight on the chest, step around the head and sit back close to the shoulder with your knees tight.",
+    "de": "Aus dem High Mount einen Arm isolieren, Gewicht auf die Brust, um den Kopf herumsteigen und dich nah an der Schulter zurücksetzen, Knie eng.",
+    "he": "ממאונט גבוה לבודד יד, להעמיס משקל על החזה, לעקוף את הראש ולשבת לאחור קרוב לכתף עם ברכיים צמודות.",
+    "ru": "Из высокого маунта изолируй руку, перенеси вес на грудь, обойди голову и садись назад близко к плечу, колени плотно."
+   }
+  },
+  {
+   "id": "armbar-back",
+   "cat": "submission",
+   "name": "Armbar from back control",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "When the opponent defends the choke with both hands, slide out to the side, trap one arm and swing your leg over his face to finish.",
+    "de": "Wenn der Gegner den Würger mit beiden Händen verteidigt, zur Seite rausrutschen, einen Arm einklemmen und das Bein über sein Gesicht schwingen.",
+    "he": "כשהיריב מגן על החניקה בשתי ידיים, להחליק הצידה, ללכוד יד אחת ולהעביר את הרגל מעל הפנים שלו כדי לסיים.",
+    "ru": "Когда соперник защищает шею обеими руками, выскользни в сторону, зажми одну руку и перекинь ногу через его лицо."
+   }
+  },
+  {
+   "id": "armbar-knee-on-belly",
+   "cat": "submission",
+   "name": "Armbar from knee on belly",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "When the opponent pushes your knee, catch the pushing arm, step around his head and sit back into the armbar.",
+    "de": "Wenn der Gegner gegen dein Knie drückt, den drückenden Arm fangen, um seinen Kopf steigen und dich in den Armbar setzen.",
+    "he": "כשהיריב דוחף את הברך שלך, לתפוס את היד הדוחפת, לעקוף את הראש ולשבת לאחור למנוף מרפק.",
+    "ru": "Когда соперник упирается в твоё колено, поймай упирающуюся руку, обойди голову и садись на рычаг локтя."
+   }
+  },
+  {
+   "id": "kimura-guard",
+   "cat": "submission",
+   "name": "Kimura from guard",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "When the opponent posts a hand, grab his wrist, bring your other arm over his shoulder to hold your own wrist, hip out and turn the arm slowly behind his back.",
+    "de": "Wenn der Gegner eine Hand abstützt, sein Handgelenk greifen, den anderen Arm über seine Schulter führen und dein Handgelenk fassen, Hüfte raus, Arm langsam hinter den Rücken.",
+    "he": "כשהיריב מניח יד על המזרן, לתפוס את פרק היד שלו, להעביר את היד השנייה מעל הכתף שלו ולאחוז בפרק היד שלך, להוציא אגן ולסובב את היד לאט לאחור.",
+    "ru": "Когда соперник упирается рукой, возьми его запястье, заведи другую руку через его плечо за своё запястье, отведи таз и медленно заводи руку за спину."
+   }
+  },
+  {
+   "id": "kimura-side-control",
+   "cat": "submission",
+   "name": "Kimura from side control",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "From side control, lock the figure-four grip on the opponent's arm, step over the head if needed and lift the elbow while keeping the wrist down.",
+    "de": "Aus Side Control den Figure-Four-Griff an seinem Arm schließen, bei Bedarf über den Kopf steigen und den Ellbogen anheben, während das Handgelenk unten bleibt.",
+    "he": "מסייד קונטרול לנעול אחיזת 4 על היד של היריב, אם צריך לעבור מעל הראש, ולהרים את המרפק כשפרק היד נשאר למטה.",
+    "ru": "Из бокового контроля закрой ключ «четвёркой» на руку соперника, при необходимости перешагни через голову и поднимай локоть, держа запястье внизу."
+   }
+  },
+  {
+   "id": "kimura-north-south",
+   "cat": "submission",
+   "name": "Kimura from north-south",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "From north-south, catch the arm the opponent uses to frame, lock the figure-four and turn the arm toward his head while your weight stays on his chest.",
+    "de": "Aus North-South den Arm fangen, mit dem er rahmt, Figure-Four schließen und den Arm Richtung seines Kopfes drehen, dein Gewicht bleibt auf seiner Brust.",
+    "he": "מנורת' סאות' לתפוס את היד שהיריב משתמש בה כמסגרת, לנעול אחיזת 4 ולסובב את היד לכיוון הראש שלו כשהמשקל נשאר על החזה.",
+    "ru": "Из позиции север-юг поймай руку, которой он ставит рамку, закрой ключ «четвёркой» и выкручивай руку к его голове, вес на его груди."
+   }
+  },
+  {
+   "id": "americana-side-control",
+   "cat": "submission",
+   "name": "Americana from side control",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Pin the far wrist to the mat with the elbow bent, lock the figure-four and slide the wrist toward the hips while lifting the elbow slightly.",
+    "de": "Das ferne Handgelenk mit gebeugtem Ellbogen auf die Matte drücken, Figure-Four schließen und das Handgelenk Richtung Hüfte schieben, Ellbogen leicht anheben.",
+    "he": "להצמיד את פרק היד הרחוק למזרן כשהמרפק כפוף, לנעול אחיזת 4 ולהחליק את פרק היד לכיוון האגן תוך הרמה קלה של המרפק.",
+    "ru": "Прижми дальнее запястье к ковру при согнутом локте, закрой ключ «четвёркой» и веди запястье к бёдрам, слегка приподнимая локоть."
+   }
+  },
+  {
+   "id": "americana-mount",
+   "cat": "submission",
+   "name": "Americana from mount",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "When the opponent pushes up, bring his arm to the mat beside his head, lock the figure-four and slide the wrist along the mat toward his hip like a paintbrush.",
+    "de": "Wenn der Gegner von unten drückt, seinen Arm neben seinem Kopf auf die Matte bringen, Figure-Four schließen und das Handgelenk wie einen Pinsel zur Hüfte ziehen.",
+    "he": "כשהיריב דוחף למעלה, להוריד את היד שלו למזרן ליד הראש, לנעול אחיזת 4 ולהחליק את פרק היד על המזרן לכיוון האגן, כמו מכחול.",
+    "ru": "Когда соперник отталкивает, прижми его руку к ковру у головы, закрой ключ «четвёркой» и веди запястье по ковру к его бедру, как кистью."
+   }
+  },
+  {
+   "id": "omoplata",
+   "cat": "submission",
+   "name": "Omoplata",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "A shoulder lock with your legs: from guard, swing your leg over the opponent's shoulder, sit up facing his feet and lean forward slowly while controlling his hips.",
+    "de": "Ein Schulterhebel mit den Beinen: aus der Guard ein Bein über seine Schulter schwingen, Richtung seiner Füße aufsetzen und langsam nach vorne lehnen, Hüfte kontrollieren.",
+    "he": "נעילת כתף עם הרגליים: מגארד להעביר רגל מעל הכתף של היריב, להתיישב עם הפנים לרגליים שלו ולהישען קדימה לאט תוך שליטה באגן.",
+    "ru": "Плечевой ключ ногами: из гарда перекинь ногу через его плечо, сядь лицом к его ногам и медленно наклоняйся вперёд, контролируя его таз."
+   }
+  },
+  {
+   "id": "straight-ankle-lock",
+   "cat": "submission",
+   "name": "Straight ankle lock",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Trap the opponent's foot under your armpit with your forearm under his Achilles tendon, keep his knee between your legs and arch back slowly.",
+    "de": "Den Fuß des Gegners unter der Achsel einklemmen, Unterarm unter seiner Achillessehne, sein Knie zwischen deinen Beinen, und dich langsam nach hinten strecken.",
+    "he": "ללכוד את כף הרגל של היריב מתחת לבית השחי, האמה מתחת לגיד אכילס, הברך שלו בין הרגליים שלך, ולהתקשת לאחור לאט.",
+    "ru": "Зажми стопу соперника под мышкой, предплечье под ахилловым сухожилием, его колено между твоими ногами, и медленно прогибайся назад."
+   }
+  },
+  {
+   "id": "kneebar",
+   "cat": "submission",
+   "name": "Kneebar",
+   "lvl": 3,
+   "gi": "both",
+   "d": {
+    "en": "Like an armbar on the leg: the opponent's knee is held against your hips and you extend slowly. Restricted for lower belts in many rulesets.",
+    "de": "Wie ein Armbar am Bein: sein Knie liegt an deiner Hüfte und du streckst dich langsam. In vielen Regelwerken für niedrigere Gürtel nicht erlaubt.",
+    "he": "כמו מנוף מרפק, אבל על הרגל: הברך של היריב צמודה לאגן שלך ומיישרים לאט. אסור לחגורות נמוכות בהרבה תקנונים.",
+    "ru": "Как рычаг локтя, только на ногу: колено соперника у твоего таза, разгибаешься медленно. Во многих правилах запрещён для младших поясов."
+   },
+   "restricted": "ibjjf"
+  },
+  {
+   "id": "toe-hold",
+   "cat": "submission",
+   "name": "Toe hold",
+   "lvl": 3,
+   "gi": "both",
+   "d": {
+    "en": "A figure-four grip on the foot that twists the ankle and knee. Apply very slowly; restricted for lower belts in many rulesets.",
+    "de": "Ein Figure-Four-Griff am Fuß, der Knöchel und Knie verdreht. Sehr langsam ansetzen; in vielen Regelwerken für niedrigere Gürtel nicht erlaubt.",
+    "he": "אחיזת 4 על כף הרגל שמסובבת את הקרסול והברך. לבצע לאט מאוד; אסור לחגורות נמוכות בהרבה תקנונים.",
+    "ru": "Ключ «четвёркой» на стопу, скручивающий голеностоп и колено. Выполнять очень медленно; во многих правилах запрещён для младших поясов."
+   },
+   "restricted": "ibjjf"
+  },
+  {
+   "id": "heel-hook",
+   "cat": "submission",
+   "name": "Outside heel hook",
+   "lvl": 3,
+   "gi": "nogi",
+   "d": {
+    "en": "A rotational leg lock from an outside leg entanglement that loads the knee. It can injure before pain is felt; restricted in many beginner rulesets, train only under supervision.",
+    "de": "Ein Rotationshebel aus einer äußeren Beinverschlingung, der das Knie belastet. Kann verletzen, bevor es schmerzt; in vielen Anfänger-Regelwerken verboten, nur unter Aufsicht üben.",
+    "he": "נעילת רגל סיבובית מסבך רגליים חיצוני שמעמיסה על הברך. עלולה לפצוע עוד לפני שמרגישים כאב; אסורה בהרבה תקנונים למתחילים, להתאמן רק בהשגחה.",
+    "ru": "Скручивающий болевой из внешнего переплетения ног, нагружает колено. Может травмировать раньше, чем появится боль; во многих правилах для начинающих запрещён, только под контролем."
+   },
+   "restricted": "ibjjf"
+  },
+  {
+   "id": "inside-heel-hook",
+   "cat": "submission",
+   "name": "Inside heel hook",
+   "lvl": 3,
+   "gi": "nogi",
+   "d": {
+    "en": "A heel hook from the inside leg position that turns the heel across the body. Very dangerous for the knee; restricted in many beginner rulesets, practice slowly with supervision.",
+    "de": "Ein Heel Hook aus der inneren Beinposition, der die Ferse quer zum Körper dreht. Sehr gefährlich fürs Knie; in vielen Anfänger-Regelwerken verboten, nur langsam unter Aufsicht üben.",
+    "he": "היל הוק מעמדת הרגליים הפנימית, שמסובב את העקב לרוחב הגוף. מסוכן מאוד לברך; אסור בהרבה תקנונים למתחילים, להתאמן לאט ובהשגחה.",
+    "ru": "Хилхук из внутреннего положения ног, пятка выкручивается поперёк корпуса. Очень опасен для колена; во многих правилах для начинающих запрещён, тренировать медленно под контролем."
+   },
+   "restricted": "ibjjf"
+  },
+  {
+   "id": "calf-slicer",
+   "cat": "submission",
+   "name": "Calf slicer",
+   "lvl": 3,
+   "gi": "both",
+   "d": {
+    "en": "Your shin is wedged behind the opponent's knee and you fold his leg over it, compressing the calf. Restricted for lower belts in many rulesets.",
+    "de": "Dein Schienbein steckt hinter seinem Knie, und du faltest sein Bein darüber, sodass die Wade gequetscht wird. In vielen Regelwerken für niedrigere Gürtel verboten.",
+    "he": "השוק שלך תקועה מאחורי הברך של היריב ומקפלים את הרגל שלו מעליה, כך שהשוק שלו נלחצת. אסור לחגורות נמוכות בהרבה תקנונים.",
+    "ru": "Твоя голень вставлена под колено соперника, и ты сгибаешь его ногу через неё, сдавливая икру. Во многих правилах запрещён для младших поясов."
+   },
+   "restricted": "ibjjf"
+  },
+  {
+   "id": "biceps-slicer",
+   "cat": "submission",
+   "name": "Biceps slicer",
+   "lvl": 3,
+   "gi": "both",
+   "d": {
+    "en": "The opponent's arm is bent over your forearm or shin, compressing the biceps. Restricted for lower belts in many rulesets; apply very gently.",
+    "de": "Der Arm des Gegners wird über deinen Unterarm oder dein Schienbein gebeugt, sodass der Bizeps gequetscht wird. In vielen Regelwerken für niedrigere Gürtel verboten; sehr behutsam.",
+    "he": "היד של היריב מקופלת מעל האמה או השוק שלך, כך שהשריר הדו־ראשי נלחץ. אסור לחגורות נמוכות בהרבה תקנונים; לבצע בעדינות רבה.",
+    "ru": "Рука соперника сгибается через твоё предплечье или голень, сдавливая бицепс. Во многих правилах запрещён для младших поясов; выполнять очень бережно."
+   },
+   "restricted": "ibjjf"
+  },
+  {
+   "id": "breakfall",
+   "cat": "takedown",
+   "name": "Breakfall (ukemi)",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Falling safely backward, sideways and forward: tuck the chin, slap the mat with the arm and spread the impact. Learn it before any throw.",
+    "de": "Sicher fallen nach hinten, zur Seite und nach vorne: Kinn einziehen, mit dem Arm auf die Matte schlagen und den Aufprall verteilen. Vor jedem Wurf lernen.",
+    "he": "ליפול בבטחה לאחור, לצד וקדימה: סנטר לחזה, מכה במזרן עם היד ופיזור עוצמת הנפילה. ללמוד לפני כל הטלה.",
+    "ru": "Безопасное падение назад, на бок и вперёд: подбородок к груди, хлопок рукой по ковру, удар распределяется. Учить до любых бросков."
+   }
+  },
+  {
+   "id": "guard-pull",
+   "cat": "takedown",
+   "name": "Guard pull",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Sitting into guard to take the fight to the ground on your terms. Grip first, then sit down close to the opponent; never jump on a partner without control.",
+    "de": "Sich in die Guard setzen, um den Kampf zu deinen Bedingungen auf den Boden zu bringen. Erst greifen, dann nah am Gegner absetzen; nie unkontrolliert auf den Partner springen.",
+    "he": "לשבת לגארד כדי להוריד את הקרב לקרקע בתנאים שלך. קודם אחיזה, אחר כך לשבת קרוב ליריב; לא לקפוץ על שותף בלי שליטה.",
+    "ru": "Затягивание в гард, чтобы перевести схватку в партер на твоих условиях. Сначала захват, потом садись близко к сопернику; не прыгай на партнёра без контроля."
+   }
+  },
+  {
+   "id": "double-leg",
+   "cat": "takedown",
+   "name": "Double-leg takedown",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Lower your level, penetrate with a deep step between the opponent's feet, wrap both legs behind the knees and drive through with your head up.",
+    "de": "Tief gehen, mit einem tiefen Schritt zwischen seine Füße eindringen, beide Beine hinter den Knien umfassen und mit erhobenem Kopf durchdrücken.",
+    "he": "להנמיך את הגוף, להיכנס בצעד עמוק בין כפות הרגליים של היריב, לחבק את שתי הרגליים מאחורי הברכיים ולדחוף קדימה עם הראש למעלה.",
+    "ru": "Опустись ниже, сделай глубокий проходной шаг между его стопами, обхвати обе ноги под коленями и продави вперёд, держа голову поднятой."
+   }
+  },
+  {
+   "id": "single-leg",
+   "cat": "takedown",
+   "name": "Single-leg takedown",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Attack one leg, lift it between your legs or to your hip and finish by turning the corner or tripping the standing leg.",
+    "de": "Ein Bein angreifen, zwischen deinen Beinen oder an der Hüfte anheben und mit einem Richtungswechsel oder einem Fußfeger am Standbein abschließen.",
+    "he": "לתקוף רגל אחת, להרים אותה בין הרגליים שלך או אל המותן ולסיים בשינוי כיוון או בטאטוא של רגל העמידה.",
+    "ru": "Атакуй одну ногу, подними её между своими ногами или к бедру и завершай поворотом за угол или подсечкой опорной ноги."
+   }
+  },
+  {
+   "id": "high-crotch",
+   "cat": "takedown",
+   "name": "High crotch",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "A single-leg variation with your head on the outside and your arm deep between the opponent's legs; you lift or drive at an angle.",
+    "de": "Eine Single-Leg-Variante mit dem Kopf außen und dem Arm tief zwischen seinen Beinen; du hebst an oder drückst schräg durch.",
+    "he": "וריאציה של סינגל לג עם הראש בחוץ והיד עמוק בין הרגליים של היריב; מרימים או דוחפים בזווית.",
+    "ru": "Вариант захвата одной ноги: голова снаружи, рука глубоко между ногами соперника; поднимаешь или продавливаешь под углом."
+   }
+  },
+  {
+   "id": "ankle-pick",
+   "cat": "takedown",
+   "name": "Ankle pick",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Pull the opponent's head or collar down so his weight moves forward, then step to the side and pick up the ankle he is standing on.",
+    "de": "Seinen Kopf oder Kragen nach unten ziehen, sodass sein Gewicht nach vorne geht, dann zur Seite treten und den belasteten Knöchel aufheben.",
+    "he": "למשוך למטה את הראש או הצווארון של היריב כדי שהמשקל שלו יעבור קדימה, לצעוד הצידה ולתפוס את הקרסול שעליו הוא עומד.",
+    "ru": "Притяни его голову или воротник вниз, чтобы вес ушёл вперёд, затем шагни в сторону и подхвати опорную щиколотку."
+   }
+  },
+  {
+   "id": "knee-tap",
+   "cat": "takedown",
+   "name": "Knee tap",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Pull the opponent forward by the head or arm while you step in and block his knee with your hand, so he falls over the blocked leg.",
+    "de": "Den Gegner an Kopf oder Arm nach vorne ziehen, dabei hineinsteppen und mit der Hand sein Knie blockieren, sodass er über das Bein fällt.",
+    "he": "למשוך את היריב קדימה בראש או ביד, להיכנס בצעד ולחסום עם היד את הברך שלו, כך שהוא נופל מעל הרגל החסומה.",
+    "ru": "Тяни соперника вперёд за голову или руку, шагни внутрь и заблокируй рукой его колено, чтобы он упал через заблокированную ногу."
+   }
+  },
+  {
+   "id": "body-lock-takedown",
+   "cat": "takedown",
+   "name": "Body lock takedown",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Lock your hands around the opponent's waist from the front or back, pull his hips into yours and trip him or sit him down.",
+    "de": "Die Hände um seine Hüfte schließen, von vorne oder hinten, seine Hüfte an deine ziehen und ihn umhaken oder absetzen.",
+    "he": "לנעול ידיים סביב המותניים של היריב מלפנים או מאחור, להצמיד את האגן שלו לשלך ולהכשיל או להושיב אותו.",
+    "ru": "Сцепи руки вокруг его пояса спереди или сзади, прижми его таз к своему и подсеки или усади его."
+   }
+  },
+  {
+   "id": "osoto-gari",
+   "cat": "takedown",
+   "name": "Osoto gari (major outer reap)",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Break the opponent's balance backward over one heel, step deep beside him and reap that leg from behind with your leg.",
+    "de": "Den Gegner nach hinten über eine Ferse aus dem Gleichgewicht bringen, tief neben ihn treten und dieses Bein mit deinem Bein von hinten wegsicheln.",
+    "he": "להוציא את היריב משיווי משקל לאחור מעל עקב אחד, לצעוד עמוק לצדו ולקצור את הרגל הזאת מאחור עם הרגל שלך.",
+    "ru": "Выведи соперника из равновесия назад на одну пятку, шагни глубоко сбоку и подсеки эту ногу сзади своей ногой."
+   }
+  },
+  {
+   "id": "ouchi-gari",
+   "cat": "takedown",
+   "name": "Ouchi gari (major inner reap)",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Drive the opponent back and reap his leg from the inside with your leg, following him to the mat in a good passing position.",
+    "de": "Den Gegner nach hinten treiben und sein Bein mit deinem Bein von innen wegsicheln, dann ihm in guter Passposition zur Matte folgen.",
+    "he": "לדחוף את היריב לאחור ולקצור את הרגל שלו מבפנים עם הרגל שלך, ולרדת איתו למזרן בעמדה טובה למעבר.",
+    "ru": "Дави соперника назад и подсеки его ногу изнутри своей ногой, уходя за ним в партер в удобной для прохода позиции."
+   }
+  },
+  {
+   "id": "o-goshi",
+   "cat": "takedown",
+   "name": "O goshi (hip throw)",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Wrap the opponent's waist, turn in so your hips are lower than his, then lift and rotate him over your hip.",
+    "de": "Seine Hüfte umfassen, eindrehen, bis deine Hüfte tiefer ist als seine, dann anheben und ihn über deine Hüfte drehen.",
+    "he": "לחבק את המותניים של היריב, להסתובב פנימה כך שהאגן שלך נמוך משלו, ולהרים ולסובב אותו מעל האגן.",
+    "ru": "Обхвати его пояс, развернись так, чтобы твой таз был ниже его, затем подними и переверни его через бедро."
+   }
+  },
+  {
+   "id": "seoi-nage",
+   "cat": "takedown",
+   "name": "Seoi nage (shoulder throw)",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Pull the opponent forward, turn in low with your back to him and lift him over your shoulder. Land him under control and keep your grip.",
+    "de": "Den Gegner nach vorne ziehen, tief mit dem Rücken zu ihm eindrehen und ihn über die Schulter heben. Kontrolliert landen lassen und den Griff halten.",
+    "he": "למשוך את היריב קדימה, להסתובב נמוך עם הגב אליו ולהרים אותו מעל הכתף. להנחית אותו בשליטה ולשמור על האחיזה.",
+    "ru": "Потяни соперника вперёд, развернись низко спиной к нему и перебрось его через плечо. Приземляй его под контролем, не отпуская захват."
+   }
+  },
+  {
+   "id": "sumi-gaeshi",
+   "cat": "takedown",
+   "name": "Sumi gaeshi (sacrifice throw)",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "You sit down under the opponent, hook inside his thigh with your foot and roll back to throw him over you, coming up on top.",
+    "de": "Du setzt dich unter den Gegner, hakst mit dem Fuß innen an seinem Oberschenkel ein und rollst nach hinten, um ihn über dich zu werfen und oben zu landen.",
+    "he": "אתה מתיישב מתחת ליריב, כווה עם כף הרגל מבפנים לירך שלו ומתגלגל לאחור כדי להעיף אותו מעליך ולעלות למעלה.",
+    "ru": "Ты садишься под соперника, цепляешь стопой его бедро изнутри и откатываешься назад, перебрасывая его через себя и выходя наверх."
+   }
+  },
+  {
+   "id": "tomoe-nage",
+   "cat": "takedown",
+   "name": "Tomoe nage (circle throw)",
+   "lvl": 3,
+   "gi": "gi",
+   "d": {
+    "en": "Holding the collar or sleeves, you drop under the opponent, place a foot on his belly or hip and throw him over your head.",
+    "de": "Mit Griff an Kragen oder Ärmeln lässt du dich unter den Gegner fallen, setzt einen Fuß an Bauch oder Hüfte und wirfst ihn über deinen Kopf.",
+    "he": "באחיזה בצווארון או בשרוולים יורדים מתחת ליריב, מניחים כף רגל על הבטן או האגן שלו ומעיפים אותו מעל הראש.",
+    "ru": "Держа воротник или рукава, падаешь под соперника, ставишь стопу ему на живот или бедро и перебрасываешь его через голову."
+   }
+  },
+  {
+   "id": "collar-drag",
+   "cat": "takedown",
+   "name": "Collar drag",
+   "lvl": 2,
+   "gi": "gi",
+   "d": {
+    "en": "With a collar grip, step to the side and pull the opponent's head forward and past you, getting behind him or taking him down.",
+    "de": "Mit einem Kragengriff zur Seite treten und seinen Kopf nach vorne an dir vorbeiziehen, um hinter ihn zu kommen oder ihn umzuwerfen.",
+    "he": "עם אחיזת צווארון לצעוד הצידה ולמשוך את הראש של היריב קדימה ומעבר לך, כדי להגיע לגב שלו או להפיל אותו.",
+    "ru": "Держа воротник, шагни в сторону и протяни его голову вперёд мимо себя, выходя ему за спину или сбивая его."
+   }
+  },
+  {
+   "id": "sprawl",
+   "cat": "takedown",
+   "name": "Sprawl",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "The basic defense against leg attacks: shoot your legs back, drop your hips heavily on the opponent's shoulders and keep his head down.",
+    "de": "Die Grundverteidigung gegen Beinangriffe: Beine nach hinten schießen, die Hüfte schwer auf seine Schultern fallen lassen und seinen Kopf unten halten.",
+    "he": "ההגנה הבסיסית נגד התקפות רגליים: לזרוק את הרגליים לאחור, להפיל את האגן בכבדות על הכתפיים של היריב ולהחזיק את הראש שלו למטה.",
+    "ru": "Базовая защита от проходов в ноги: выбрось ноги назад, тяжело опусти таз на его плечи и держи его голову внизу."
+   }
+  },
+  {
+   "id": "shrimp",
+   "cat": "control",
+   "name": "Shrimping (hip escape)",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "The core movement of BJJ: push off one foot, move your hips away and turn onto your side. It creates the space you need for almost every escape.",
+    "de": "Die Grundbewegung im BJJ: von einem Fuß abdrücken, die Hüfte wegschieben und auf die Seite drehen. Schafft den Platz für fast jede Flucht.",
+    "he": "התנועה הבסיסית ב-BJJ: לדחוף מרגל אחת, להזיז את האגן הצידה ולהסתובב על הצד. יוצרת את המרחב שצריך כמעט לכל בריחה.",
+    "ru": "Базовое движение BJJ: оттолкнись одной стопой, отведи таз и повернись на бок. Даёт пространство почти для любого ухода."
+   }
+  },
+  {
+   "id": "technical-stand-up",
+   "cat": "control",
+   "name": "Technical stand-up",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Getting up safely from sitting: post one hand behind you, lift your hips and swing the leg back under you while your other hand stays up for protection.",
+    "de": "Sicher aus dem Sitzen aufstehen: eine Hand hinter dir abstützen, Hüfte anheben und das Bein unter dir zurückziehen, die andere Hand bleibt zum Schutz oben.",
+    "he": "לקום בבטחה מישיבה: להישען על יד מאחור, להרים את האגן ולהעביר את הרגל לאחור מתחת לגוף, כשהיד השנייה למעלה להגנה.",
+    "ru": "Безопасный подъём из положения сидя: упрись рукой сзади, подними таз и проведи ногу назад под собой, второй рукой защищайся."
+   }
+  },
+  {
+   "id": "posture-in-guard",
+   "cat": "control",
+   "name": "Posture in closed guard",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "On top in closed guard: hips back, back straight, head up and hands on the hips or chest so you cannot be pulled down or attacked.",
+    "de": "Oben in der Closed Guard: Hüfte zurück, Rücken gerade, Kopf hoch und Hände an Hüfte oder Brust, damit du nicht heruntergezogen oder angegriffen wirst.",
+    "he": "למעלה בגארד סגור: אגן לאחור, גב ישר, ראש למעלה וידיים על המותניים או החזה, כדי שלא ימשכו אותך למטה ולא יתקפו אותך.",
+    "ru": "Сверху в закрытом гарде: таз назад, спина прямая, голова вверх, руки на бёдрах или груди, чтобы тебя не притянули и не атаковали."
+   }
+  },
+  {
+   "id": "breaking-posture",
+   "cat": "control",
+   "name": "Breaking posture from closed guard",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "From the bottom, pull the opponent down with your knees and grips on the collar or head so his posture breaks and attacks open up.",
+    "de": "Von unten den Gegner mit den Knien und Griffen an Kragen oder Kopf zu dir ziehen, damit seine Haltung bricht und Angriffe möglich werden.",
+    "he": "מלמטה למשוך את היריב אליך עם הברכיים ואחיזה בצווארון או בראש, כדי לשבור את היציבה שלו ולפתוח התקפות.",
+    "ru": "Снизу притягивай соперника коленями и захватами за воротник или голову, чтобы сломать его осанку и открыть атаки."
+   }
+  },
+  {
+   "id": "crossface",
+   "cat": "control",
+   "name": "Crossface",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "On top, drive your shoulder into the opponent's jaw and turn his face away. It stops him from turning in and is key for passing half guard.",
+    "de": "Oben die Schulter gegen seinen Kiefer drücken und sein Gesicht wegdrehen. So kann er sich nicht eindrehen; wichtig zum Passen der Half Guard.",
+    "he": "מלמעלה ללחוץ עם הכתף על הלסת של היריב ולסובב את הפנים שלו הצידה. זה מונע ממנו להסתובב אליך, וחשוב למעבר חצי גארד.",
+    "ru": "Сверху дави плечом в его челюсть и отворачивай лицо в сторону. Это не даёт ему развернуться к тебе и важно для прохода полугарда."
+   }
+  },
+  {
+   "id": "underhook-half-guard",
+   "cat": "control",
+   "name": "Underhook from half guard",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "From bottom half guard, slide your arm under the opponent's armpit and stay on your side. With the underhook you sweep or come up; without it you get flattened.",
+    "de": "Unten in der Half Guard den Arm unter seine Achsel schieben und auf der Seite bleiben. Mit Underhook kannst du sweepen oder hochkommen, ohne ihn wirst du plattgedrückt.",
+    "he": "מלמטה בחצי גארד להכניס את היד מתחת לבית השחי של היריב ולהישאר על הצד. עם אנדרהוק עושים סוויפ או קמים, בלעדיו משכיבים אותך.",
+    "ru": "Снизу в полугарде заведи руку под его подмышку и оставайся на боку. С андерхуком свипаешь или выходишь наверх, без него тебя прижмут."
+   }
+  },
+  {
+   "id": "seatbelt",
+   "cat": "control",
+   "name": "Seatbelt grip",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "From behind, one arm over the opponent's shoulder and one under the other armpit, hands clasped on his chest. The main grip for taking and holding the back.",
+    "de": "Von hinten ein Arm über seiner Schulter, einer unter der anderen Achsel, Hände auf seiner Brust gefasst. Der Hauptgriff, um den Rücken zu nehmen und zu halten.",
+    "he": "מאחור, יד אחת מעל הכתף של היריב והשנייה מתחת לבית השחי השני, הידיים נעולות על החזה שלו. האחיזה העיקרית לתפיסת הגב ולשמירה עליו.",
+    "ru": "Сзади одна рука через плечо соперника, другая под другой подмышкой, кисти сцеплены на его груди. Главный захват для взятия и удержания спины."
+   }
+  },
+  {
+   "id": "back-take-turtle",
+   "cat": "control",
+   "name": "Back take from turtle",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Get the seatbelt from the side of the turtle, insert the first hook, then roll or slide behind the opponent and bring in the second hook.",
+    "de": "Den Seatbelt von der Seite der Turtle holen, den ersten Haken setzen, dann hinter den Gegner rollen oder rutschen und den zweiten Haken einbringen.",
+    "he": "להשיג סיטבלט מהצד של הצב, להכניס את הוו הראשון ואז להתגלגל או להחליק מאחורי היריב ולהכניס את הוו השני.",
+    "ru": "Возьми «ремень безопасности» сбоку от черепахи, вставь первый крюк, затем перекатись или переползи за спину и вставь второй."
+   }
+  },
+  {
+   "id": "arm-drag",
+   "cat": "control",
+   "name": "Arm drag to the back",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Pull the opponent's arm across his body by the wrist and triceps so his side opens, then move behind him from guard or standing.",
+    "de": "Seinen Arm an Handgelenk und Trizeps quer über seinen Körper ziehen, damit seine Seite offen ist, dann aus Guard oder Stand hinter ihn kommen.",
+    "he": "למשוך את היד של היריב לרוחב הגוף שלו בפרק היד ובתלת־ראשי כדי לפתוח את הצד, ואז לעבור מאחוריו מגארד או מעמידה.",
+    "ru": "Протяни его руку поперёк корпуса за запястье и трицепс, чтобы открыть бок, затем уходи ему за спину из гарда или стойки."
+   }
+  },
+  {
+   "id": "side-control-to-mount",
+   "cat": "control",
+   "name": "Side control to mount",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Control the head and far arm, slide your knee across the opponent's belly and plant it on the far side, keeping your hips low.",
+    "de": "Kopf und fernen Arm kontrollieren, das Knie über seinen Bauch schieben und auf der anderen Seite aufsetzen, Hüfte tief.",
+    "he": "לשלוט בראש וביד הרחוקה, להחליק את הברך מעל הבטן של היריב ולהניח אותה בצד השני, עם אגן נמוך.",
+    "ru": "Контролируй голову и дальнюю руку, проведи колено через его живот и поставь его с другой стороны, держа таз низко."
+   }
+  },
+  {
+   "id": "side-control-to-knee-on-belly",
+   "cat": "control",
+   "name": "Side control to knee on belly",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Pop up from side control, place your near knee on the opponent's belly and post the other leg, ready to follow his movement.",
+    "de": "Aus Side Control hochkommen, das nahe Knie auf seinen Bauch setzen und das andere Bein abstützen, bereit, seiner Bewegung zu folgen.",
+    "he": "לקום מסייד קונטרול, להניח את הברך הקרובה על הבטן של היריב ולפתוח את הרגל השנייה לבסיס, מוכן לעקוב אחרי התנועה שלו.",
+    "ru": "Поднимись из бокового контроля, поставь ближнее колено ему на живот, другую ногу отставь, готовый следовать за его движением."
+   }
+  },
+  {
+   "id": "headquarters",
+   "cat": "control",
+   "name": "Headquarters position",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "A passing stance: one knee pins between the opponent's legs and the other foot stays outside, so you can attack either side.",
+    "de": "Eine Passposition: ein Knie pinnt zwischen seinen Beinen, der andere Fuß steht außen, so kannst du beide Seiten angreifen.",
+    "he": "עמדת מעבר: ברך אחת מצמידה בין הרגליים של היריב וכף הרגל השנייה בחוץ, כך שאפשר לתקוף לשני הצדדים.",
+    "ru": "Стойка для прохода: одно колено прижимает между его ногами, другая стопа снаружи, можно атаковать в обе стороны."
+   }
+  },
+  {
+   "id": "front-headlock",
+   "cat": "control",
+   "name": "Front headlock",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Controlling the opponent's head and one arm from the front while he is on his knees or bent forward. A hub for chokes and back takes.",
+    "de": "Kontrolle von Kopf und einem Arm von vorne, wenn der Gegner kniet oder vorgebeugt ist. Ausgangspunkt für Würger und Back Takes.",
+    "he": "שליטה בראש וביד אחת של היריב מלפנים כשהוא על הברכיים או מתכופף. נקודת מוצא לחניקות ולתפיסת גב.",
+    "ru": "Контроль головы и одной руки соперника спереди, когда он на коленях или наклонён. Отправная точка для удушений и взятия спины."
+   }
+  },
+  {
+   "id": "high-mount",
+   "cat": "control",
+   "name": "High mount",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Slide your knees up into the opponent's armpits so his elbows cannot frame on your hips. Sets up armbars, collar chokes and mounted triangles.",
+    "de": "Die Knie hoch in seine Achseln schieben, damit seine Ellbogen dich nicht an der Hüfte rahmen können. Bereitet Armbars, Kragenwürger und Triangles vor.",
+    "he": "להעלות את הברכיים אל בתי השחי של היריב כדי שהמרפקים שלו לא יוכלו לבנות מסגרת על האגן. מכין מנופי מרפק, חניקות צווארון וטריאנגל.",
+    "ru": "Подними колени к его подмышкам, чтобы он не мог упереться локтями в твои бёдра. Готовит рычаги локтя, удушения воротником и треугольник."
+   }
+  },
+  {
+   "id": "s-mount",
+   "cat": "control",
+   "name": "S-mount",
+   "lvl": 3,
+   "gi": "both",
+   "d": {
+    "en": "A mount variation with one knee up by the opponent's head and the other leg folded under his side, trapping an arm for a strong armbar.",
+    "de": "Eine Mount-Variante mit einem Knie neben seinem Kopf und dem anderen Bein unter seiner Seite gefaltet; ein Arm ist gefangen, ideal für den Armbar.",
+    "he": "וריאציה של מאונט עם ברך אחת ליד הראש של היריב והרגל השנייה מקופלת מתחת לצד שלו, כך שיד אחת לכודה למנוף מרפק חזק.",
+    "ru": "Вариант маунта: одно колено у головы соперника, другая нога подогнута под его бок, рука зажата для сильного рычага локтя."
+   }
+  },
+  {
+   "id": "gift-wrap",
+   "cat": "control",
+   "name": "Gift wrap",
+   "lvl": 2,
+   "gi": "both",
+   "d": {
+    "en": "Pull the opponent's arm across his own neck and hold the wrist from the other side. From mount or the back it opens chokes and back takes.",
+    "de": "Seinen Arm quer über seinen eigenen Hals ziehen und das Handgelenk von der anderen Seite festhalten. Aus Mount oder Rücken öffnet das Würger und Back Takes.",
+    "he": "למשוך את היד של היריב לרוחב הצוואר שלו ולהחזיק את פרק היד מהצד השני. ממאונט או מהגב זה פותח חניקות ותפיסת גב.",
+    "ru": "Протяни его руку поперёк его же шеи и удерживай запястье с другой стороны. Из маунта или со спины это открывает удушения и взятие спины."
+   }
+  },
+  {
+   "id": "guard-retention",
+   "cat": "control",
+   "name": "Guard retention",
+   "lvl": 1,
+   "gi": "both",
+   "d": {
+    "en": "Keeping your guard when the opponent tries to pass: frames, hip movement and putting your knees and feet back between you and him.",
+    "de": "Die Guard halten, wenn der Gegner passen will: Rahmen, Hüftbewegung und Knie und Füße immer wieder zwischen dich und ihn bringen.",
+    "he": "לשמור על הגארד כשהיריב מנסה לעבור: מסגרות, תנועת אגן והחזרת הברכיים וכפות הרגליים בינך לבינו.",
+    "ru": "Удержание гарда, когда соперник проходит: рамки, работа бёдрами и возвращение коленей и стоп между тобой и ним."
+   }
+  },
+  {
+   "id": "grip-breaking",
+   "cat": "control",
+   "name": "Breaking collar and sleeve grips",
+   "lvl": 1,
+   "gi": "gi",
+   "d": {
+    "en": "Strip grips with both hands and your hips, attacking the opponent's grip at the thumb. Fewer grips for him means more freedom for you.",
+    "de": "Griffe mit beiden Händen und der Hüfte lösen, den Griff des Gegners am Daumen angreifen. Weniger Griffe für ihn heißt mehr Freiheit für dich.",
+    "he": "לשבור אחיזות עם שתי הידיים ועם האגן, לתקוף את האחיזה של היריב בצד האגודל. פחות אחיזות שלו, יותר חופש לך.",
+    "ru": "Сбрасывай захваты обеими руками и бёдрами, атакуя хват соперника со стороны большого пальца. Меньше его захватов: больше свободы тебе."
+   }
+  },
+  {
+   "id": "berimbolo",
+   "cat": "control",
+   "name": "Berimbolo",
+   "lvl": 3,
+   "gi": "both",
+   "d": {
+    "en": "An inverted rolling move from De la Riva guard: you spin under the opponent and come out behind him. Needs mobility and controlled inverting.",
+    "de": "Eine invertierte Rollbewegung aus der De la Riva Guard: du drehst dich unter dem Gegner durch und kommst hinter ihm raus. Braucht Beweglichkeit und kontrolliertes Invertieren.",
+    "he": "תנועת גלגול הפוכה מגארד דה לה ריבה: מסתובבים מתחת ליריב ויוצאים מאחוריו. דורש גמישות ושליטה בהיפוך.",
+    "ru": "Перекат с инверсией из гарда де ла Ривы: прокручиваешься под соперником и выходишь ему за спину. Нужна подвижность и контроль инверсии."
+   }
+  },
+  {
+   "id": "kiss-of-the-dragon",
+   "cat": "control",
+   "name": "Kiss of the dragon",
+   "lvl": 3,
+   "gi": "both",
+   "d": {
+    "en": "From reverse De la Riva, you invert and roll under the opponent between his legs to come out on his back. Train inverting carefully.",
+    "de": "Aus Reverse De la Riva invertierst du und rollst zwischen seinen Beinen unter ihm durch, um an seinen Rücken zu kommen. Invertieren vorsichtig üben.",
+    "he": "מריברס דה לה ריבה מתהפכים ומתגלגלים מתחת ליריב בין הרגליים שלו כדי לצאת לגב שלו. להתאמן בהיפוכים בזהירות.",
+    "ru": "Из обратного де ла Ривы уходишь в инверсию и прокатываешься под соперником между его ног, выходя на спину. Инверсии тренировать осторожно."
+   }
+  }
+ ],
+ "restrictedSource": {
+  "name": "IBJJF Rule Book 6.1 (2024), table of illegal techniques by belt and age",
+  "url": "https://ibjjf.com/books-videos",
+  "checked": "2026-11-12"
+ }
+}
