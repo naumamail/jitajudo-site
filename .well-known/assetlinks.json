@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.jitajudo.app",
+      "sha256_cert_fingerprints": [
+        "FC:66:0E:B3:A5:F8:73:72:38:24:71:89:A2:5B:C1:95:E3:07:91:DE:61:7A:BC:15:7E:12:E7:EE:42:6E:F0:68"
+      ]
+    }
+  }
+]
