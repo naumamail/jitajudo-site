@@ -1,0 +1,34 @@
+{
+ "kind": "competition",
+ "level": "regional",
+ "title": "אליפות מודיעין הפתוחה",
+ "organizer": "",
+ "start_date": "2026-12-06",
+ "end_date": "2026-12-06",
+ "place": "",
+ "address": "",
+ "map_url": "",
+ "description": "שריינו את התאריך. כל הנבחרת הצעירה והבוגרת יוצאים לתחרות.",
+ "bring": "",
+ "birth_years": [],
+ "genders": [],
+ "season_categories": [],
+ "restrictions": "",
+ "registration_url": "",
+ "registration_deadline": "",
+ "payments": [],
+ "tentative": true,
+ "audience_groups": [
+  "נבחרת צעירה",
+  "נבחרת בוגרת"
+ ],
+ "requires_federation": false,
+ "requires_medical": false,
+ "forms": [],
+ "streams": [],
+ "options": [],
+ "needs_review": [
+  "level: לא צוין המארגן, הרמה נקבעה כאזורית לפי השם"
+ ],
+ "program": []
+}

@@ -1,0 +1,97 @@
+{
+  "kind": "competition",
+  "level": "national",
+  "title": "גביע איגוד 1",
+  "organizer": "איגוד הג'ודו בישראל",
+  "start_date": "2026-11-07",
+  "end_date": "2026-11-07",
+  "place": "היכל הספורט מטרו ווסט",
+  "address": "הפלמ\"ח 4, רעננה",
+  "map_url": "",
+  "description": "התחרות מתקיימת בשני מחזורים. במחזור זה בנים ובנות. ההרשמה מוגבלת לאור המצב. רשימת הרשומים תפורסם מראש, ספורטאי שלא רשום לא יוכל להשתתף. ספורטאים שיהיו ברשימות ולא יגיעו, החיוב יועבר לאגודה. ספורטאי/אגודה שלא תסדיר תשלום עד 3 ימים לפני התחרות, תחויב האגודה באופן אוטומטי. כל אגודה אחראית על ביטוח ספורטאיה ומצהירה כי כולם מבוטחים ועברו בדיקות רפואיות עפ\"י חוק הספורט.",
+  "bring": "",
+  "birth_years": [
+    2017,
+    2016,
+    2015,
+    2013,
+    2014
+  ],
+  "genders": [
+    "male",
+    "female"
+  ],
+  "season_categories": [
+    "pre_a",
+    "a1",
+    "a2",
+    "b1",
+    "b2",
+    "adults"
+  ],
+  "restrictions": "שימו לב כי שנתוני 2007-2012 המתחרים ביומיים קודם לכן לא יוכלו להשתתף בתחרות זו!",
+  "registration_url": "https://app.judoonline.org.il/contests/views/contest.php?m=athleteVerification",
+  "registration_deadline": "2026-10-27",
+  "payments": [
+    {
+      "birth_years": [],
+      "born_up_to": null,
+      "amount": 150,
+      "url": "",
+      "deadline": "",
+      "note": "תשלום דרך אתר האיגוד בלבד, או באמצעות המנוי השנתי לעונת 2025-26. לא תיפתח עמדת תשלום ביום התחרות"
+    }
+  ],
+  "requires_federation": true,
+  "requires_medical": true,
+  "forms": [],
+  "streams": [
+    {
+      "title": "מחזור ראשון",
+      "birth_years": [
+        2017,
+        2016,
+        2015
+      ],
+      "born_up_to": null,
+      "categories": [
+        "pre_a",
+        "a1",
+        "a2"
+      ],
+      "genders": [
+        "male",
+        "female"
+      ],
+      "day": "2026-11-07",
+      "weigh_in_from": "08:00",
+      "weigh_in_to": "09:00",
+      "starts_at": "09:30",
+      "ends_at": "13:00"
+    },
+    {
+      "title": "מחזור שני",
+      "birth_years": [
+        2013,
+        2014
+      ],
+      "born_up_to": 2006,
+      "categories": [
+        "b1",
+        "b2",
+        "adults"
+      ],
+      "genders": [
+        "male",
+        "female"
+      ],
+      "day": "2026-11-07",
+      "weigh_in_from": "13:30",
+      "weigh_in_to": "14:30",
+      "starts_at": "15:00",
+      "ends_at": "18:00"
+    }
+  ],
+  "needs_review": [],
+  "program": []
+}
